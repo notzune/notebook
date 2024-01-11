@@ -1,0 +1,1 @@
+the opposite of any given number. the sum of a number and it's additive inverse is always 0. they are opposite each other on a number line.

@@ -1,0 +1,1 @@
+if given sets $A$ and $B$ then the union ($A\cup B$) is the set of all elements in **both** $A$ and $B$. (think addition)

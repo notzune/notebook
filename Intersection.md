@@ -1,0 +1,1 @@
+if given sets $A$ and $B$ then the intersection ($A\cap B$) is the set of all elements they share (have in common).

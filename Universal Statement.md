@@ -1,0 +1,1 @@
+a statement that says that something is true for all elements in a [[Set|Set]].

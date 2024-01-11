@@ -1,0 +1,1 @@
+a statement in which if something is true then something else must be true (if-then statements).

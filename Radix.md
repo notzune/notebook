@@ -1,0 +1,1 @@
+the traditional term for [[Base|base]] but usually refers to one of the common bases: decimal (10), binary (2), hexadecimal (16), or sexagesimal (60).

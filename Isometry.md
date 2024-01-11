@@ -1,0 +1,1 @@
+an isometry (or congruent transformation) is a distance-preserving transformation between [[Metric Space|metric spaces]], usually assumed to be [[Bijection|bijective]].

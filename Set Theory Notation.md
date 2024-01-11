@@ -1,0 +1,35 @@
+- $\{\}$ 
+	- braces are used to enclose elements
+- $:$ 
+	- such that
+- $\in$
+	- element of, contained in
+- $\notin$
+	- not an element of, not contained in
+- $\subseteq$
+	- [[Subset|subset]]
+	- $A\subseteq B$ (Set $A$ is a subset of $B$ and every element of A is in B)
+- $\subset$ 
+	- proper subset
+	- $A\subset B$ (Set $A$ is a ***proper*** subset of $B$, where $A \neq B$)
+- $\nsubseteq$
+	- not a subset
+- $\not\subset$
+	- not a proper subset
+- $\cap$
+	- [[Intersection|intersection]]
+- $\cup$
+	- [[Union|union]]
+- $\mathcal{P}(\mathbb{A})$
+	- [[Power Sets|power set]], the set containing all subsets of a set ($\mathbb{A}$)
+- $\times$
+	- [[Cartesian Product|cartesian product]]
+- $\setminus$
+	- [[Set Difference|set difference]] (set subtraction)
+- $A^\complement$, $\complement$, $\overline{A}$
+	- these all represent [[Complement|complement]]
+	- small note: i don't really see $A^\complement$, $\complement$ often and mostly just see $\overline{A}$
+- $|A|$
+	- used to denote [[Cardinality|cardinality]] 
+
+see also: [[Operation Identities|operation identities]]

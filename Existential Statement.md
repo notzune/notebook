@@ -1,0 +1,1 @@
+given a property that may or may not be true, there is at least one thing for which the property is true.

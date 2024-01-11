@@ -1,0 +1,1 @@
+the set containing all objects or elements and of which all other sets are subsets.
