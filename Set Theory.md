@@ -3,3 +3,4 @@ see also:
 - [[Sets]]
 - [[Identities for Set Operations]]
 - [[Set builder notation]]
+- [[Enumeration]]

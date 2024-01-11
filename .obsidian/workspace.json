@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19a69effccc3c356",
+        "id": "b2198ba5a8f446bf",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3d0347229a56ca",
+            "id": "5acb2618be0d9b2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,35 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb3d0347229a56ca",
+  "active": "5acb2618be0d9b2c",
   "lastOpenFiles": [
+    "Function.md",
+    "Domain.md",
+    "Function composition.md",
+    "Compound functions.md",
+    "Injective functions.md",
+    "Inverse functions.md",
+    "Set Theory Notation.md",
+    "Set Theory.md",
+    "Mathematical Glossary.md",
+    "Exponentiation.md",
+    "Base.md",
+    "Axiom of Extension.md",
+    "README.md",
     "Sets.md",
     "Enumeration.md",
     "Set builder notation.md",
     "Image.md",
     "Intension.md",
     "Comprehension.md",
-    "Set Theory.md",
-    "Set Theory Notation.md",
     "Operation Identities.md",
     "Venn Diagram.md",
     "venn_diagrams.png",
-    "Injective function.md",
     "Pasted image 20240111012758.png",
     "Range.md",
     "Codomain.md",
     "Square root.md",
     "Radix.md",
-    "Function Composition.md",
-    "Domain.md",
-    "Cartesian coordinate system.md",
-    "Coordinate system.md",
-    "Euclidean space.md",
-    "Cartesian Plane.md",
-    "Mathematical Glossary.md",
-    "Function Spaces.md",
-    "Nullary.md",
-    "Arity.md",
-    "Surjective functions.md"
+    "Cartesian coordinate system.md"
   ]
 }

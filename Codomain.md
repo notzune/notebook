@@ -45,7 +45,7 @@ $$
 h:\mathbb{R}_{0}^{+}\rightarrow\mathbb{R}
 $$
 
-the [[Function Composition|compositions]] are denoted 
+the [[Function composition|compositions]] are denoted 
 
 $$
 \begin{align}
