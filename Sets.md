@@ -6,7 +6,7 @@ the notation $x \notin S$ means that $x$ is not an element of $S$.
 
 sets can be written/specified using the "set roster notation" by writing all of its elements between braces. Such as:
 $$ \{1,2,3,...,n\} $$
-this is also known as "enumeration".
+this is also known as "[[Enumeration|enumeration]]".
 
 the other way a set can be written is using "set builder notation" which takes the form of:
 

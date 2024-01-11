@@ -1,0 +1,3 @@
+in [[Geometry|geometry]], a coordinate system is a system that uses one or more numbers, or [[Coordinates|coordinates]], to uniquely determine the position of the points or other geometric elements on a [[Manifold|manifold]] such as [[Euclidean space]].
+
+the order of the coordinates is important, and they are sometimes identified by their position in an ordered [[Tuple|tuple]] and sometimes by a letter, as in "the $x$-coordinate".

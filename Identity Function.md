@@ -10,7 +10,7 @@ $$
 
 the function value $f(X)$ in the codomain $M$ is always the same as the input element $X$ in the domain $M$.
 
-the identity function $f$ on $M$ is an [[Injective function|injective function]] as well as a [[Surjective function|surjective function]], so it is [[Bijection|bijective]].
+the identity function $f$ on $M$ is an [[Injective function|injective function]] as well as a [[Surjective functions|surjective function]], so it is [[Bijection|bijective]].
 
 this identity function $f$ on $M$ is often denoted by $\text{id}_{M}$.
 

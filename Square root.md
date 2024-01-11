@@ -1,0 +1,3 @@
+a square root of a number $x$ is a number $y$ such that $y^{2}=x$; in other words, a number $y$ whose [[Square|square]] (the result of multiplying the number by itself, or $y\times y$ ) is $x$.
+
+every nonnegative real number $x$ has a unique nonnegative square root, called the *principle square root* or simply *the square root* which is denoted by $\sqrt{x}$ where the symbol "$\sqrt{ }$" is called the [[Radix|radix]].

@@ -8,11 +8,11 @@ $$
 										(note that it is written without parentheses) 
 
 
-which refers to the [[modulo]] operation which is a calculation and not a relation between numbers.
+which refers to the [[Modulo]] operation which is a calculation and not a relation between numbers.
 
-modular arithmetic is often referred to as "wrap around" arithmetic. the most common example is how the numbers on clock behave; the numbers "wrap around" or "rest" after reaching a certain value called the [[modulus]] (in this case 12).
+modular arithmetic is often referred to as "wrap around" arithmetic. the most common example is how the numbers on clock behave; the numbers "wrap around" or "rest" after reaching a certain value called the [[Modulus]] (in this case 12).
 
-given an integer $n > 1$, called a [[modulus]], two integers $a$ and $b$ are said to be congruent modulo $n$, if $n$ is a divisor of their difference; that is, if there is an integer $k$ such that:
+given an integer $n > 1$, called a [[Modulus]], two integers $a$ and $b$ are said to be congruent modulo $n$, if $n$ is a divisor of their difference; that is, if there is an integer $k$ such that:
 
 $$
 a − b = kn

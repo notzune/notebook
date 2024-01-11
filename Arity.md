@@ -6,7 +6,7 @@ in general, functions or operators with a given arity follow the naming conventi
 
 for example:
 
-- a [[nullary]] function takes no arguments
+- a [[Nullary|nullary]] function takes no arguments
 	- $f( )=2$
 - a [[Unary Operation|unary function]] takes one argument
 	- $f(x) = 2x$

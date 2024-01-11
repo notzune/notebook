@@ -1,4 +1,4 @@
-a bijection, bijective function, or one-to-one correspondence between two mathematical [[Set|sets]] is a [[Function|function]] such that each element of the second set (the [[Codomain|codomain]]) is mapped to from exactly one element of the first set (the [[Domain|domain]]). 
+a bijection, bijective function, or one-to-one correspondence between two mathematical [[Sets|sets]] is a [[Function|function]] such that each element of the second set (the [[Codomain|codomain]]) is mapped to from exactly one element of the first set (the [[Domain|domain]]). 
 
 a bijection is a [[Relations|relation]] between two sets such that each element of either set is paired with exactly one element of the other set.
 

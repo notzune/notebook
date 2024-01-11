@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "872e581fa9ab9f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a69effccc3c356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3d0347229a56ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0c076e095825390",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11f91f64061e356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a916290eda3d88e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9a83ad21af25517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "710d2eb58d5a1b93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5912667714890064",
+    "type": "split",
+    "children": [
+      {
+        "id": "6307f36c6d3390ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72b5fb1568ce336",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c018609f50333eff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eab8bbecec8db04b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d40c4d8894f33f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb3d0347229a56ca",
+  "lastOpenFiles": [
+    "Sets.md",
+    "Enumeration.md",
+    "Set builder notation.md",
+    "Image.md",
+    "Intension.md",
+    "Comprehension.md",
+    "Set Theory.md",
+    "Set Theory Notation.md",
+    "Operation Identities.md",
+    "Venn Diagram.md",
+    "venn_diagrams.png",
+    "Injective function.md",
+    "Pasted image 20240111012758.png",
+    "Range.md",
+    "Codomain.md",
+    "Square root.md",
+    "Radix.md",
+    "Function Composition.md",
+    "Domain.md",
+    "Cartesian coordinate system.md",
+    "Coordinate system.md",
+    "Euclidean space.md",
+    "Cartesian Plane.md",
+    "Mathematical Glossary.md",
+    "Function Spaces.md",
+    "Nullary.md",
+    "Arity.md",
+    "Surjective functions.md"
+  ]
+}
