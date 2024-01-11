@@ -1,1 +1,16 @@
-if given sets $A$ and $B$ then the intersection ($A\cap B$) is the set of all elements they share (have in common).
+in [[Set Theory|set theory]] an intersection of two [[Sets|sets]] $A$ and $B$, denoted by $A\cap B$, is the set containing all elements of $A$ that also belong to $B$ or equivalently, all elements of $B$ that also belong to $A$
+
+## Examples
+
+$$
+\begin{align}
+\{1,2,3\}\cap\{2,3,4\}=\{2,3\} \\
+\\
+\{1,2,3\}\cap\{4,5,6\}=\emptyset \\
+\\
+\mathbb{Z}\cap\mathbb{N}=\mathbb{N} \\
+\\
+\{x\in\mathbb{R}:x^{2}=1\}\cap\mathbb{N}=\{1\}
+\end{align}
+$$
+
