@@ -4,7 +4,7 @@ more generally, evaluating a given function $f$ at each element of a given [[Sub
 
 similarly, the inverse image (or [[Preimage|preimage]]) of a given subset $B$ of the [[Codomain|codomain]] of $f$ is the set of all elements of the domain that map to the members of $B$.
 
-image and inverse image may also be defined for general [[Binary Relation|binary relations]], not just functions.
+image and inverse image may also be defined for general [[Binary relation|binary relations]], not just functions.
 
 ## Definition
 

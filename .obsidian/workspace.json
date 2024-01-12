@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group.md",
+                "file": "Inverse functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group.md",
+                "file": "Inverse functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Group.md",
+                "file": "Inverse functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Group.md"
+                "file": "Inverse functions.md"
               }
             }
           }
@@ -147,32 +147,32 @@
   },
   "active": "5acb2618be0d9b2c",
   "lastOpenFiles": [
-    "Coordinates.md",
+    "Additive Inverse.md",
+    "Set builder notation.md",
+    "*.md",
+    "Intension.md",
+    "Comprehension.md",
+    "Total Order Relation.md",
+    "Comparability (Totality).md",
+    "Transitive Relation.md",
+    "Antisymmetric Relation.md",
+    "Reflexive Relation.md",
+    "Binary relation.md",
+    "Identity element.md",
+    "Rings.md",
     "Group.md",
+    "Binary Operation.md",
+    "* (operation).md",
+    "Axiom of Extension.md",
+    "Cardinality.md",
+    "Cartesian Plane.md",
+    "Codomain.md",
+    "Elementary consequences of the group axioms.md",
+    "Coordinates.md",
     "Closure.md",
     "Intersection.md",
     "Set Theory.md",
     "Associative property.md",
-    "Associativities of Addition and Multiplication.md",
-    "Isometry.md",
-    "Metric space.md",
-    "Motion.md",
-    "Geometric transformation.md",
-    "Displacement.md",
-    "Möbius transformation.md",
-    "Mathematical Glossary.md",
-    "Function.md",
-    "Parameters.md",
-    "Domain.md",
-    "Function composition.md",
-    "Compound functions.md",
-    "Injective functions.md",
-    "Inverse functions.md",
-    "Set Theory Notation.md",
-    "Exponentiation.md",
-    "Base.md",
-    "Axiom of Extension.md",
-    "README.md",
     "venn_diagrams.png",
     "Pasted image 20240111012758.png"
   ]

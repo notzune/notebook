@@ -1,6 +1,6 @@
 a total order relation, also known as a linear order relation, extends the concept of a [[Partial Order Relation|partial order relation]] by also including the additional requirement that every pair of elements must be comparable.
 
-a total order relation is a type of [[Binary Relation|binary relation]].
+a total order relation is a type of [[Binary relation|binary relation]].
 
 a relation $R$ on a set $S$ is a total order relation if it satisfies all the properties of a [[Partial Order Relation|partial order relation]]—reflexivity, antisymmetry, transitivity—plus an additional property, [[Comparability (Totality)|comparability (totality)]].
 

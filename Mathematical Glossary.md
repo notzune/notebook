@@ -15,7 +15,7 @@ This will store basic definitions and terms that can be applied to other topics 
 - [[Bilinear Forms]]
 - [[Binary]]
 - [[Binary Operation]]
-- [[Binary Relation]]
+- [[Binary relation]]
 - [[Cardinality]]
 - [[Cartesian coordinate system]]
 - [[Cartesian Plane]]

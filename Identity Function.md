@@ -14,4 +14,4 @@ the identity function $f$ on $M$ is an [[Injective functions|injective function]
 
 this identity function $f$ on $M$ is often denoted by $\text{id}_{M}$.
 
-in [[Set Theory|set theory]], where a function is defined as a particular kind of [[Binary Relation|binary relation]], the identity function is given by the [[Homogeneous Relation|identity relation]], or diagonal of $M$.
+in [[Set Theory|set theory]], where a function is defined as a particular kind of [[Binary relation|binary relation]], the identity function is given by the [[Homogeneous Relation|identity relation]], or diagonal of $M$.
