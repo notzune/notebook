@@ -2,7 +2,7 @@ the axiom of extensionality, or the axiom of extension, is one of the axioms of 
 
 this axiom states that two sets are equal if and only if they have the same elements. In other words, a set is determined solely by its elements, without regard to the order or repetition of these elements.
 
-formally, the axiom of xxtensionality can be written as:
+formally, the axiom of extensionality can be written as:
 
 for any sets A and B, A = B if and only if for every element x, x is an element of A if and only if x is an element of B.
 

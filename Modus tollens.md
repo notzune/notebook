@@ -1,0 +1,1 @@
+in [[Propositional calculus|propositional logic]], modus tollens is a [[Deductive reasoning|deductive]] [[Logical form|argument form]] and a [[Rule of inferences|rule of inference]].

@@ -1,4 +1,4 @@
-the associative property is a property of some [[Binary Operation|binary operations]] which means that rearranging the parentheses in an expression will not change the result. in [[Propositional calculus|propositional logic]], associativity is a [[Valid|valid]] [[Rule of replacement|rule of replacement]] for expressions in [[Formal proof|logical proofs]].
+the associative property is a property of some [[Binary Operation|binary operations]] which means that rearranging the parentheses in an expression will not change the result. in [[Propositional calculus|propositional logic]], associativity is a [[Validity|valid]] [[Rule of replacement|rule of replacement]] for expressions in [[Formal proof|logical proofs]].
 
 within an expression containing two or more occurrences in a row of the same associative operator (additions or multiplication) the order in which the [[Operation|operations]] are performed does not matter as long as the sequence of the [[Operand|operands]] is not changed.
 

@@ -1,0 +1,1 @@
+in [[Logic|logic]], false or untrue is the state of possessing negative [[Truth value|truth value]] and is a [[Nullary|nullary]] [[Logical connective|logical connective]].

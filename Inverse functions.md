@@ -32,4 +32,22 @@ $$
 g(f(x))=x\space\forall x\in X
 $$
 
-implies that 
+implies that $f$ is [[Injective functions|injective]], and the condition:
+
+$$
+f(g(y))=y\space\forall y\in Y
+$$
+
+implies that $f$ is [[Surjective functions|surjective]], therefore the inverse function $f^{-1}\rightarrow f$ can be explicitly described as the function:
+
+$$
+f^{-1}(y)=(\text{the unique element $x\in X$ such that }f(x)=y)
+$$
+
+using the [[Function composition|composition of functions]], this statement can be rewritten to the following equations between functions:
+
+$$
+f^{-1}\circ f=\text{id}_{X}\space\wedge\space f\circ f^{-1}=\text{id}_{Y}
+$$
+
+where $\text{id}_{X}$ is the [[Identity function|identity function]] on the set $X$ (that is, the function that leaves its argument unchanged)

@@ -1,0 +1,1 @@
+is the study of [[Logic|formal logic]] within mathematics. major subareas include [[Model theory|model theory]], [[Proof theory|proof theory]], [[Set theory|set theory]], and [[Recursion theory|recursion theory]].

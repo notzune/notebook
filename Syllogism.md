@@ -1,0 +1,1 @@
+A syllogism (Greek: 'conclusion, inference') is a kind of logical [[Argument|argument]] that applies [[Deductive reasoning|deductive reasoning]] to arrive at a conclusion based on two [[Proposistion|propositions]] that are asserted or assumed to be true.

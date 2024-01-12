@@ -1,0 +1,1 @@
+an argument is a series of sentences, statements or propositions some of which are called [[Premise|premises]] and one is the [[Logical consequence|conclusion]]. 

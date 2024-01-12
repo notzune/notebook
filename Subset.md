@@ -6,7 +6,7 @@ $$X = \{a,b,c\}$$
 we can split up this larger set into its smaller subsets:
 
 $$ \{a\},\{b\},\{c\},\{a,b\},\{b,c\},\{a,c\},...,etc$$
-as well as it's [[Empty Set|empty set]]: $$\emptyset$$
+as well as it's [[Empty set|empty set]]: $$\emptyset$$
 the [[Power Sets|power set]] of $X$ then would be:
 $$\mathcal{P} ({X}) = \{\{a\},\{b\},\{c\},\{a,b\},\{b,a\},\{a,c\},\{c,a\},\{b,c\},\{c,b\},\{a,b,c\},\emptyset\}$$
 

@@ -1,4 +1,4 @@
-in [[Set Theory|set theory]] an intersection of two [[Sets|sets]] $A$ and $B$, denoted by $A\cap B$, is the set containing all elements of $A$ that also belong to $B$ or equivalently, all elements of $B$ that also belong to $A$
+in [[Set theory|set theory]] an intersection of two [[Sets|sets]] $A$ and $B$, denoted by $A\cap B$, is the set containing all elements of $A$ that also belong to $B$ or equivalently, all elements of $B$ that also belong to $A$
 
 ## Examples
 

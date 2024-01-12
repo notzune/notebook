@@ -2,7 +2,7 @@ in [[Geometry|geometry]], a motion is an [[Isometry|isometry]] of a [[Metric spa
 
 they can be divided into direct and indirect motions. 
 
-direct, proper or [[Rigid Motions|rigid motions]] are motions like [[Translation|translations]] and [[Rotation|rotations]] that preserve the orientation of a [[Chiral|chiral]] shape.
+direct, proper or [[Rigid motions|rigid motions]] are motions like [[Translation|translations]] and [[Rotation|rotations]] that preserve the orientation of a [[Chiral|chiral]] shape.
 
 indirect or improper motions are motions like [[Reflection|reflections]], [[Glide reflection|glide reflections]], and [[Improper rotation|improper rotations]] that invert the orientation of a chiral shape.
 

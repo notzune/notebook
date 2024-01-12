@@ -11,12 +11,8 @@
             "id": "5acb2618be0d9b2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inverse functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,14 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverse functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inverse functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inverse functions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,32 +139,32 @@
   },
   "active": "5acb2618be0d9b2c",
   "lastOpenFiles": [
-    "Additive Inverse.md",
-    "Set builder notation.md",
-    "*.md",
-    "Intension.md",
+    "Symmetric Relation.md",
+    "Logic.md",
+    "Logical disjunction.md",
+    "Relations.md",
     "Comprehension.md",
-    "Total Order Relation.md",
-    "Comparability (Totality).md",
-    "Transitive Relation.md",
-    "Antisymmetric Relation.md",
-    "Reflexive Relation.md",
-    "Binary relation.md",
-    "Identity element.md",
-    "Rings.md",
-    "Group.md",
-    "Binary Operation.md",
-    "* (operation).md",
+    "Function.md",
+    "Formal logic.md",
+    "Modus tollens.md",
+    "Logical form.md",
+    "Hypothetical syllogism.md",
+    "Converse (Logic).md",
     "Axiom of Extension.md",
-    "Cardinality.md",
-    "Cartesian Plane.md",
-    "Codomain.md",
-    "Elementary consequences of the group axioms.md",
-    "Coordinates.md",
-    "Closure.md",
-    "Intersection.md",
-    "Set Theory.md",
-    "Associative property.md",
+    "Binary Operation.md",
+    "Arity.md",
+    "Signed.md",
+    "Cartesian coordinate system.md",
+    "Conditional statement.md",
+    "Antecedent.md",
+    "Universal conditional statement.md",
+    "Syllogism.md",
+    "Modus ponens.md",
+    "Rule of inferences.md",
+    "Mathematical logic.md",
+    "Set theory.md",
+    "Logical notation.md",
+    "Sets.md",
     "venn_diagrams.png",
     "Pasted image 20240111012758.png"
   ]

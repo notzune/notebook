@@ -21,7 +21,7 @@ in the above example:
 
 - $\{x \mid ...\}$: this is the set builder notation, where $x$ is the variable representing elements of the set.
 - $x\in N$: this means that $x$ is an element of the set $N$ (non-neg integers).
-- $∧$: this is the logical "and". (see: [[Logical Notation|logical notation]])
+- $∧$: this is the logical "and" or [[Logical conjunction|conjunction]]. (see: [[Logical notation|logical notation]])
 - $x \equiv 0\pmod 2$:  is a formal way of stating that $x$ is even. it means $x$ leaves a remainder of 0 when divided by 2. (this uses [[Modular Arithmetic|modular arithmetic]])
 
 according to the [[Axiom of Extension|axiom of extension]], a set is completely determined by what its elements are-not the order in which they might be listed or the fact that some elements might be listed more than once.
