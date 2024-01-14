@@ -89,5 +89,64 @@ $$
 x^2+\frac{b}{a}x=-\frac{c}{a}
 $$
 
+the quadratic equation is now in a form to which the method of [[Completing the square|completing the square]] is applicable. by adding a constant to both sides of the equation such that the left hand side becomes a complete square, the quadratic becomes:
+
+$$
+x^2+\frac{b}{a}x+(\frac{b}{2a})^2=-\frac{c}{a}+(\frac{b}{2a})^2
+$$
+
+which produces:
+
+$$
+(x+\frac{b}{2a})^2=-\frac{c}{a}+\frac{b^2}{4a^2}
+$$
+
+after rearranging the terms on the right side to have a common denominator, we get:
+
+$$
+(x+\frac{b}{2a})^2=\frac{b^2-4ac}{4a^2}
+$$
+
+the square has thus been completed. if the discriminant $b^2-4ac$ is positive, we can take the [[Square root|square root]] of both sides, getting the following equation:
+
+$$
+x+\frac{b}{2a}=\pm\frac{\sqrt{b^2-4ac}}{2a}
+$$
+
+(actually the equation remains true even if the discriminant is not positive, by interpreting the root of the discriminant as any of its two opposite complex roots)
+
+in which case, isolating $x$ would give the formula:
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
+
+#### Shorter method
+
+1. multiply each side by $4a$,
+2. rearrange.
+3. add $b^2$ to both sides to complete the square.
+4. the left side is the outcome of the polynomial $(2ax+b)^2$.
+5. take the square root of both sides.
+6. isolate $x$
+
+thus the quadratic is derived as follows:
+
+$$
+\begin{align*} 
+&ax^2 &+ &\space bx &+ &\space c &= &\space0 \\ 
+&4a^2x^2 &+ &\space 4abx &+ &\space4ac &= &\space0 \\ 
+&4a^2x^2 &+ &\space 4abx &&&= &-4ac \\ 
+&4a^2x^2 &+ &\space 4abx &+ &\space b^2 &=&\space b^2 - 4ac \\ 
+&&&(2ax + b)^2 &&&= &\space b^2 - 4ac \\ 
+\\
+&\text{(valid if $b^2 - 4ac$ is positive)} &&2ax+b &&&= &\pm\sqrt{b^2 - 4ac} \\
+\\
+&&&2ax &&&= &-b \pm \sqrt{b^2 - 4ac} \\ 
+\\
+&&&&x &&= &\frac{-b\pm\sqrt{b^2 - 4ac}}{2a}
+\end{align*}
+$$
+
 
 
