@@ -1,6 +1,6 @@
 This will store basic definitions and terms that can be applied to other topics as I continue to take notes.
  
-- [[Additive Inverse]]
+- [[Additive inverse]]
 - [[Angle]]
 - [[Antisymmetric Relation]]
 - [[Argument of a function]]
@@ -95,5 +95,5 @@ This will store basic definitions and terms that can be applied to other topics 
 - [[Universal Set]]
 - [[Universal Statement]]
 - [[Variables]]
-- [[Vector Space]]
+- [[Vector space]]
 - [[Venn Diagram]]

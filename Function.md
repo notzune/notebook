@@ -12,7 +12,7 @@ $$
 f:X\rightarrow Y
 $$
 
-a function is uniquely represented by the [[Sets|set]] of all pairs $(x,f(x))$ called the graph of the function. when the domain and the codomain are sets of [[Real Numbers|real numbers]], each such pair may be thought of as the [[Cartesian coordinate system|Cartesian coordinates]] of a point in the plane.
+a function is uniquely represented by the [[Sets|set]] of all pairs $(x,f(x))$ called the graph of the function. when the domain and the codomain are sets of [[Real numbers|real numbers]], each such pair may be thought of as the [[Cartesian coordinate system|Cartesian coordinates]] of a point in the plane.
 
 a function has one or more arguments in the form of [[Independent Variable|independent variables]] designated in the definition, which can also contain [[Parameters|parameters]]. The independent variables are mentioned in the list of arguments that the function takes, where as the parameters are not. 
 

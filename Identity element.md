@@ -8,7 +8,7 @@ let $(S,*)$ be a [[Sets|set]] $S$ with an [[* (operation)|arbitrary binary opera
 
 if $e$ is both a left identity and a right identity, then it is called a two-sided identity, or simply an identity.
 
-an identity with respect to addition is called an [[Associativities of Addition and Multiplication|additive identity]] (often 0) and an identity with respect to multiplication is called a multiplicative identity (often 1).
+an identity with respect to addition is called an [[Identity elements of addition and multiplication|additive identity]] (often 0) and an identity with respect to multiplication is called a multiplicative identity (often 1).
 
 these not need to be always addition or multiplication as the underlying operation is arbitrary such as in the case of a [[Group|group]] where the identity element is simply denoted by $e$.
 

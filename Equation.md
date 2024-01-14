@@ -1,0 +1,1 @@
+an equation is a mathematical formula that expresses the [[Equality|equality]] of two expressions by connecting them with an equals sign (=).

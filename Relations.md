@@ -15,6 +15,6 @@ a relation is a way of showing a connection or relationship between two sets. It
 
 ## Representation of Relations
 
-- [[Ordered Pairs]]
+- [[Ordered pair]]
 - [[Matrices|Matrix Representation]]
 - Graph Representation

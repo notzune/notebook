@@ -1,6 +1,6 @@
 - [[Associativities of Addition and Multiplication]]
 - [[Commutatives of Addition and Multiplication]]
 - [[Distributivity of Multiplication over Addition]]
-- [[Identity Elements of Addition and Multiplication]]
+- [[Identity elements of addition and multiplication]]
 - [[Identities for Set Operations]]
 - [[De Morgan's Laws]]

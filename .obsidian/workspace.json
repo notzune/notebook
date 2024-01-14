@@ -11,8 +11,12 @@
             "id": "5acb2618be0d9b2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quadratic formula.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,12 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quadratic formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quadratic formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quadratic formula.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,32 +148,32 @@
   },
   "active": "5acb2618be0d9b2c",
   "lastOpenFiles": [
-    "Symmetric Relation.md",
-    "Logic.md",
-    "Logical disjunction.md",
-    "Relations.md",
-    "Comprehension.md",
-    "Function.md",
-    "Formal logic.md",
-    "Modus tollens.md",
-    "Logical form.md",
-    "Hypothetical syllogism.md",
-    "Converse (Logic).md",
-    "Axiom of Extension.md",
-    "Binary Operation.md",
-    "Arity.md",
+    "Complex conjugate.md",
+    "Vector space.md",
+    "Modulus.md",
+    "Multiplicative inverse.md",
+    "Identity element.md",
+    "Identity elements of addition and multiplication.md",
+    "Associativities of Addition and Multiplication.md",
+    "Vinculum.md",
+    "Involution.md",
+    "Exponentiation.md",
     "Signed.md",
     "Cartesian coordinate system.md",
-    "Conditional statement.md",
-    "Antecedent.md",
-    "Universal conditional statement.md",
-    "Syllogism.md",
-    "Modus ponens.md",
-    "Rule of inferences.md",
-    "Mathematical logic.md",
-    "Set theory.md",
-    "Logical notation.md",
-    "Sets.md",
+    "Quadratic formula.md",
+    "Real numbers.md",
+    "Closed-form expression.md",
+    "Recurrence relation.md",
+    "Linear recurrence with constant coefficients.md",
+    "Linear algebra.md",
+    "Linear function.md",
+    "Affine transformation.md",
+    "Equation.md",
+    "Fibonacci sequence.md",
+    "Geometric transformation.md",
+    "Tuple.md",
+    "Integer.md",
+    "Natural numbers.md",
     "venn_diagrams.png",
     "Pasted image 20240111012758.png"
   ]

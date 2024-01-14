@@ -1,0 +1,1 @@
+in Euclidean [[Geometry|geometry]], an affine transformation or affinity, is a [[Geometric transformation|geometric transformation]] that preserves lines and parallelism, but not necessarily [[Distance|Euclidean distances]] and [[Angle|angles]].

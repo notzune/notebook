@@ -8,7 +8,7 @@ examples include the arithmetic operations of addition, subtraction, and multipl
 
 an operation of arity two that involved several sets is also called a binary operation.
 
-for example, [[Scalar multiplication|scalar multiplication]] of [[Vector Space|vector spaces]] takes a [[Scalar|scalar]] and a [[Vectors|vector]] to produce a vector, and [[Scalar product|scalar product]] takes two vectors to produce a scalar.
+for example, [[Scalar multiplication|scalar multiplication]] of [[Vector space|vector spaces]] takes a [[Scalar|scalar]] and a [[Vectors|vector]] to produce a vector, and [[Scalar product|scalar product]] takes two vectors to produce a scalar.
 
 such operations are also referred to as [[Binary functions|binary functions]].
 
@@ -24,6 +24,6 @@ the [[Closure|closure property]] of a binary operation asserts the existence of 
 
 if $f$ is not a [[Function|function]] but a [[Partial function|partial function]], then $f$ is called a partial binary operation. 
 
-for example, division of [[Real Numbers|real numbers]] is a partial binary operation because division by 0 is impossible (or rather it's undefined) for every real number $a$.  
+for example, division of [[Real numbers|real numbers]] is a partial binary operation because division by 0 is impossible (or rather it's undefined) for every real number $a$.  
 
 in [[Abstract algebra|abstract algebra]], "$*$" can be used to denote an arbitrary binary operation such as multiplication or addition. in this case "$*$" is used as a placeholder. (see: [[* (operation)]])
