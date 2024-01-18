@@ -1,0 +1,1 @@
+a protocol is a set of rules that determine how things communicate with each other

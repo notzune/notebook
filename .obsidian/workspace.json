@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b2198ba5a8f446bf",
+        "id": "0a67692b4409f63b",
         "type": "tabs",
         "children": [
           {
-            "id": "5acb2618be0d9b2c",
+            "id": "b76c6ac2d435bda4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quadratic formula.md",
+                "file": "Linearity of differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd31eff966a3ce67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sample space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86b7bd5171333776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability value.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "README",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadratic formula.md",
+                "file": "Probability value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadratic formula.md",
+                "file": "Probability value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratic formula.md"
+                "file": "Probability value.md"
               }
             }
           }
@@ -146,34 +172,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5acb2618be0d9b2c",
+  "active": "86b7bd5171333776",
   "lastOpenFiles": [
-    "Complex conjugate.md",
-    "Vector space.md",
-    "Modulus.md",
-    "Multiplicative inverse.md",
-    "Identity element.md",
-    "Identity elements of addition and multiplication.md",
-    "Associativities of Addition and Multiplication.md",
-    "Vinculum.md",
-    "Involution.md",
-    "Exponentiation.md",
-    "Signed.md",
-    "Cartesian coordinate system.md",
-    "Quadratic formula.md",
-    "Real numbers.md",
-    "Closed-form expression.md",
-    "Recurrence relation.md",
-    "Linear recurrence with constant coefficients.md",
-    "Linear algebra.md",
-    "Linear function.md",
-    "Affine transformation.md",
-    "Equation.md",
-    "Fibonacci sequence.md",
-    "Geometric transformation.md",
-    "Tuple.md",
-    "Integer.md",
-    "Natural numbers.md",
+    "Sample space.md",
+    "Probability value.md",
+    "Linearity of differentiation.md",
+    "Differentiation rules.md",
+    "Derivative.md",
+    "RAM.md",
+    "Differentiation.md",
+    "Bytecode.md",
+    "README.md",
+    "Java.md",
+    "Wide-Area Network (WAN).md",
+    "Local-Area Network (LAN).md",
+    "Network connection.md",
+    "Protocol.md",
+    "ROM.md",
+    "Memory.md",
+    "Bit permutations.md",
+    "Limit of a function.md",
+    "Table of Contents.md",
+    "Homogeneous Relation.md",
+    "Number Theory.md",
+    "Perpendicularity.md",
+    "Ternary operation.md",
+    "Partial derivative.md",
+    "Computer Science.md",
+    "Calculus.md",
     "venn_diagrams.png",
     "Pasted image 20240111012758.png"
   ]

@@ -1,0 +1,1 @@
+a high level programming language that is architecture-neutral due to the use of the [[Java Virtual Machine (JVM)]].

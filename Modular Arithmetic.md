@@ -5,7 +5,7 @@ $$
 b \mod n
 \end{align*}
 $$
-										(note that it is written without parentheses) 
+(note that it is written without parentheses) 
 
 
 which refers to the [[Modulo]] operation which is a calculation and not a relation between numbers.
@@ -17,7 +17,7 @@ given an integer $n > 1$, called a [[Modulus]], two integers $a$ and $b$ are sai
 $$
 a − b = kn
 $$
-congruent modulo $n$ is a [[Congruence Relation|congruence relation]], meaning that it is an [[Equivalence Relation|equivalence relation]] that is compatible with the operations of addition, subtraction, and multiplication.
+congruent modulo $n$ is a [[Congruence Relation|congruence relation]], meaning that it is an [[Equivalence relation|equivalence relation]] that is compatible with the operations of addition, subtraction, and multiplication.
 
 it is denoted as:
 $$

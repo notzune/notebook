@@ -1,4 +1,4 @@
-an identity element, or neutral element, of a [[Binary Operation|binary operation]] is an element that leaves unchanged every element when the operation is applied.
+an identity element, or neutral element, of a [[Binary operation|binary operation]] is an element that leaves unchanged every element when the operation is applied.
 
 for example, 0 is an identity element of the addition of real numbers, and 1 is an identity element of multiplication.
 

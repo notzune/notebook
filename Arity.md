@@ -10,9 +10,9 @@ for example:
 	- $f( )=2$
 - a [[Unary Operation|unary function]] takes one argument
 	- $f(x) = 2x$
-- a [[Binary Operation|binary function]] takes two arguments
+- a [[Binary operation|binary function]] takes two arguments
 	- $f(x,y) = 2xy$
-- a [[Ternary Operation|ternary function]] takes three arguments
+- a [[Ternary operation|ternary function]] takes three arguments
 	- $f(x,y,z) = 2xyz$
 - an $n$-ary function takes $n$ arguments
 	- $f(x_{1},x_{2},x_{3},...,x_{n}) = 2\Pi_{i=1}^{n} x_{i}$

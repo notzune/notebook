@@ -1,4 +1,4 @@
-a cartesian coordinate system in a [[Euclidean Plane|plane]] is a [[Coordinate system|coordinate system]] that specifies each point uniquely by a pair of [[Real numbers|real numbers]] called [[Coordinates|coordinates]], which are the [[Signed|signed]] distances to the point from two fixed [[Perpendicularity|perpendicular]] oriented lines, called [[Coordinate Lines|coordinate lines]], coordinate axes, or just axes (plural of axis) of the system. 
+a cartesian coordinate system in a [[Euclidean plane|plane]] is a [[Coordinate system|coordinate system]] that specifies each point uniquely by a pair of [[Real numbers|real numbers]] called [[Coordinates|coordinates]], which are the [[Signed|signed]] distances to the point from two fixed [[Perpendicularity|perpendicular]] oriented lines, called [[Coordinate Lines|coordinate lines]], coordinate axes, or just axes (plural of axis) of the system. 
 
 the point where they meet is called [[Origin|origin]] and its coordinates are $(0,0)$.
 

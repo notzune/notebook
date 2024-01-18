@@ -14,7 +14,7 @@ such operations are also referred to as [[Binary functions|binary functions]].
 
 ## Definition
 
-more formally, a binary operation on a set $S$ is a mapping of the elements of the [[Cartesian Product|Cartesian product]] $S\times S$ to $S$.
+more formally, a binary operation on a set $S$ is a mapping of the elements of the [[Cartesian product|Cartesian product]] $S\times S$ to $S$.
 
 $$
 f:S\times S\rightarrow S

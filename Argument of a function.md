@@ -4,4 +4,4 @@ the number of arguments that a function takes is called the [[Arity|arity]] of t
 
 the argument of a [[Circular functions|circular function]] is an [[Angle|angle]]. the argument of a [[Hyperbolic functions|hyperbolic function]] is a [[Hyperbolic angle|hyperbolic angle]].
 
-sometimes, subscripts can be used to denote arguments for example, we can use subscripts to denote the arguments with respect to which [[Partial Derivative|partial derivatives]] are taken.
+sometimes, subscripts can be used to denote arguments for example, we can use subscripts to denote the arguments with respect to which [[Partial derivative|partial derivatives]] are taken.

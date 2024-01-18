@@ -2,7 +2,7 @@ a binary relation associates elements of one set, called the [[Domain|domain]], 
 
 a binary relation over sets $X$ and $Y$ is a new set of [[Ordered pair|ordered pairs]] $(x,y)$, consisting of elements $x$ from $X$ and $y$ from $Y$.
 
-(see also: [[Cartesian Product|cartesian product]])
+(see also: [[Cartesian product|cartesian product]])
 
 a binary relation is a generalization of a [[Unary Relation|unary relation]]. it encapsulates the common concept of a relation: an element $x$ is related to an element $y$, if and only if the pair $(x,y)$ belongs to the set of ordered pairs that defines the binary relation.
 

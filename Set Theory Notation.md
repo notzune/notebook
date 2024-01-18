@@ -23,7 +23,7 @@
 - $\mathcal{P}(\mathbb{A})$
 	- [[Power Sets|power set]], the set containing all subsets of a set ($\mathbb{A}$)
 - $\times$
-	- [[Cartesian Product|cartesian product]]
+	- [[Cartesian product|cartesian product]]
 - $\setminus$
 	- [[Set Difference|set difference]] (set subtraction)
 - $A^\complement$, $\complement$, $\overline{A}$

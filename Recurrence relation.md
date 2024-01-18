@@ -1,6 +1,6 @@
 a recurrence relation is an [[Equation|equation]] according to which the $n$th term of a [[Sequence|sequence]] of numbers is equal to some combination of the previous terms.
 
-only $k$ previous terms of the sequence appear in the equation, for a parameter $k$ that is independent of $n$; this number $k$ is called the order of the relation.
+only $k$ previous terms of the sequence appear in the equation, for a [[Parameter|parameter]] $k$ that is independent of $n$; this number $k$ is called the order of the relation.
 
 if the values of the first $k$ numbers in the sequence have been given, the rest of the sequence can be calculated by repeatedly applying the equation.
 
@@ -34,7 +34,7 @@ $$
 \varphi:\mathbb{N}\times X\rightarrow X\\
 $$
 
-is a function, where $X$ is a set to which the elements of a sequence must belong. for any $u_0\in X$, this defines a unique sequence with $u_0$ as its first element, called the initial value.
+is a function, where $X$ is a [[Sets|set]] to which the elements of a sequence must belong. for any $u_0\in X$, this defines a unique sequence with $u_0$ as its first element, called the initial value.
 
 it is easy to modify the definition for getting sequences starting from the term of index 1 or higher.
 
@@ -74,7 +74,7 @@ $$
 f(n)=n
 $$
 
-as its only coefficient.
+as its only [[Coefficient]]|coefficient.
 
 ### Logistic map
 
@@ -84,4 +84,4 @@ $$
 x_{n+1}=rx_n(1-x_n)
 $$
 
-with a given constant $r$; given the initial term $x_0$, each subsequent term is determined by this relation.
+with a given [[Constant|constant]] $r$; given the initial term $x_0$, each subsequent term is determined by this relation.

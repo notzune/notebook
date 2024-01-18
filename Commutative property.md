@@ -1,4 +1,4 @@
-a [[Binary Operation|binary operation]] is commutative if changing the order of the [[Operand|operands]] does not change the result.
+a [[Binary operation|binary operation]] is commutative if changing the order of the [[Operand|operands]] does not change the result.
 
 ## Definitions
 

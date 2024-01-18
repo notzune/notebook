@@ -1,4 +1,4 @@
-works kind of similarly to the [[Distributivity of Multiplication over Addition|distributive law of multiplication over addition]]:
+works kind of similarly to the [[Distributivity of multiplication over addition|distributive law of multiplication over addition]]:
 
 $$
 \begin{align*} 

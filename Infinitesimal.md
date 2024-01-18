@@ -1,0 +1,1 @@
+in math, an infinitesimal number is a quantity that is closer to 0 than any standard [[Real numbers|real number]] but that is not 0.

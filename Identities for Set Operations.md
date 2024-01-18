@@ -6,7 +6,7 @@ all regular [[Operation Identities|operation identities]] hold true for set oper
 
 this being said we are introduced to the identities of set operations:
 
-- [[Associativity of Sets]]
-- [[Commutativity of Sets]]
-- [[Distributive Laws of Sets]]
+- [[Associativity of sets]]
+- [[Commutativity of sets]]
+- [[Distributive laws of sets]]
 - [[Identity Elements of Sets]]

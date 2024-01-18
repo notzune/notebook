@@ -1,6 +1,6 @@
 a rectangular array or table of objects (numbers, symbols, or expressions) arranged in rows and columns used to show relations between sets or subsets.
 
-matrices are visual/graphical representations of [[Cartesian Product|cartesian products]] and can be used to show [[Relations|relations]] and [[Equivalence Relation|equivalence relations]]. 
+matrices are visual/graphical representations of [[Cartesian product|cartesian products]] and can be used to show [[Relations|relations]] and [[Equivalence relation|equivalence relations]]. 
 
 here is the basic notation of a matrix:
 $$

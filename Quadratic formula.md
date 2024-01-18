@@ -1,4 +1,4 @@
-in [[Elementary algenra|elementary algebra]], the quadratic formula is a formula that provides the two solutions, or roots, to a [[Quadratic equation|quadratic equation]]. there are other ways of solving a quadratic instead of usnig the quadratic formula, such as [[Completing the square|completing the square]].
+in [[Elementary algebra|elementary algebra]], the quadratic formula is a formula that provides the two solutions, or roots, to a [[Quadratic equation|quadratic equation]]. there are other ways of solving a quadratic instead of usnig the quadratic formula, such as [[Completing the square|completing the square]].
 
 given a general quadratic equation of the form
 
@@ -11,6 +11,7 @@ with $x$ representing an unknown, with $a$, $b$, and $c$ representing constants,
 $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 $$
+
 where the plus-minus symbol ($\pm$) indicates that the quadratic has two solutions. written separately it becomes:
 
 $$
@@ -148,5 +149,47 @@ $$
 \end{align*}
 $$
 
+### By substitution 
 
+another method is solution by substitution, in this technique, we substitute 
+
+$$
+x=y-\frac{b}{2a}
+$$
+
+then,
+
+$$
+(a(y-\frac{b}{2a})^2+b(y-\frac{b}{2a})+c=0 
+$$
+
+which becomes 
+
+$$
+(a(y^2-\frac{b}{2a}y+\frac{b^2}{4a^2})+b(y-\frac{b}{2a})+c=0)
+$$
+
+expanding yields,
+
+$$
+ay^2-by+\frac{b^2}{4a}+by-\frac{b^2}{2a}+c=0
+$$
+
+and combining like terms further simplifies this to 
+
+$$
+ay^2+(c-\frac{b^2}{4a})=0
+$$
+
+moving the constant terms to the other side and dividing by $a$ gives us the equation 
+
+$$
+y^2=\frac{b^2-4ac}{4a^2}
+$$
+
+solving for $y$ and using the original identity $x=y-\frac{b}{2a}$, we get the familiar quadratic formula:
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$
 

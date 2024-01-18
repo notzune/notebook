@@ -1,4 +1,4 @@
-essentially the same as the [[Associativities of Addition and Multiplication|associative property of addition and multiplication]], that the grouping of sets does not matter for union or intersection operations:
+essentially the same as the [[Associativities of addition and multiplication|associative property of addition and multiplication]], that the grouping of sets does not matter for union or intersection operations:
 
 $$
 \begin{align*} 

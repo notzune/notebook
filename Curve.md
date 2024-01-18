@@ -1,0 +1,1 @@
+a curve is an object similar to a [[Line|line]] but does not have to be straight.

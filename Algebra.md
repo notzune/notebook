@@ -1,0 +1,1 @@
+(Arabic, *al-jabr الجبر*) is the study of variables and the rules for manipulating these variables in formulas.

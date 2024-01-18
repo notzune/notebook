@@ -3,13 +3,13 @@ a relation is a way of showing a connection or relationship between two sets. It
 ## Types of Relations
 
 - [[Reflexive Relation]]
-- [[Symmetric Relation]]
+- [[Symmetric relation]]
 - [[Antisymmetric Relation]]
 - [[Transitive Relation]]
 
 ## Special Types of Relations
 
-- [[Equivalence Relation]]
+- [[Equivalence relation]]
 - [[Partial Order Relation]]
 - [[Total Order Relation]]
 
