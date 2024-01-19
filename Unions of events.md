@@ -8,6 +8,24 @@ $$
 P(A\cup B)=P(A\cap B')+P(A'\cap B)+P(A\cap B)
 $$
 
+this equality can be presented in other forms using the following relationships
+
+$$
+P(A\cap B')=P(A)-P(A\cap B)
+$$
+
+and
+
+$$
+P(A'\cap B)=P(B)-P(A\cap B)
+$$
+
+substituting in these expressions for $P(A\cap B')$ and $P(A'\cap B)$ gives the result:
+
+$$
+P(A\cup B)=P(A)+P(B)-P(A\cap B)
+$$
+
 if the events $A$ and $B$ are mutually exclusive so that $P(A\cap B)=0$, then 
 
 $$
