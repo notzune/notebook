@@ -47,6 +47,8 @@ j'(x)&=\lim_{h\rightarrow0}\frac{j(x+h)-j(x)}{h} \\
 &=\lim_{h\rightarrow0}\frac{af(x+h)+bg(x+h)-af(x)-bg(x)}{h} \\
 &=\lim_{h\rightarrow0}\frac{af(x+h)-af(x)+bg(x+h)-bg(x)}{h} \\
 &=\lim_{h\rightarrow0}\frac{(af(x+h)-af(x))+(bg(x+h)-bg(x))}{h} \\
-
+&=\lim_{h\rightarrow0}(\frac{af(x+h)-af(x)}{h}+\frac{bg(x+h)-bg(x)}{h}) \\
+&=\lim_{h\rightarrow0}\left(\frac{a(f(x+h)-f(x))}{h}+\frac{b(g(x+h)-g(x))}{h}\right) \\
+&=\lim_{h\rightarrow0}\left(a\frac{f(x+h)-f(x)}{h}+b\frac{g(x+h)-g(x)}{h}\right) \\
 \end{align}
 $$
