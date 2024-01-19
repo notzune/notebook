@@ -31,3 +31,9 @@ if the events $A$ and $B$ are mutually exclusive so that $P(A\cap B)=0$, then
 $$
 P(A\cup B)=P(A)+P(B)
 $$
+
+in the case of $(A\cup B)'$, it can also be written as $A'\cup B'$
+
+$$
+(A\cup B)'=A'\cup B'
+$$
