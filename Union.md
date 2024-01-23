@@ -1,4 +1,4 @@
-if given sets $A$ and $B$ then the union of $A$ and $B$ ($A\cup B$) results in the set of all elements which are in $A$, in $B$, or in both $A$ and $B$.
+if given [[Sets|sets]] $A$ and $B$ then the union of $A$ and $B$ ($A\cup B$) results in the set of all [[Element|elements]] which are in $A$, in $B$, or in both $A$ and $B$.
 
 $$
 A\cup B=\{x:x\in A\vee x\in B\}

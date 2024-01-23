@@ -1,0 +1,1 @@
+photovoltaics (PV) is the conversion of light into electricity using [[Semiconductor|semiconducting materials]] that exhibit the [[Photovoltaic effect|photovoltaic effect]], a phenomenon studied in [[Physics|physics]], photochemistry, and electrochemistry.

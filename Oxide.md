@@ -1,0 +1,1 @@
+an oxide is a chemical compound containing at least one oxygen atom and one other element in its [[Chemical formula|chemical formula]]. "oxide" itself is the [[Dianion|dianion]] ([[Anion|anion]] bearing a net charge of –2) of oxygen, an O$^{2-}$ ion with oxygen in the [[Oxidation state|oxidation state]] of −2.

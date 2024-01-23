@@ -1,0 +1,1 @@
+in [[Chemistry|chemistry]], a chemical formula is a way of presenting information about the chemical proportions of atoms that make up a particular chemical compound or molucal, using chemical element symbols, numbers and sometimes also other symbols such as parentheses, dashes, brackets, commas, and plus (+) and minus (-) signs.

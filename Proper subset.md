@@ -1,0 +1,1 @@
+in [[Set theory|set theory]], if $A$ and $B$ are [[Sets|sets]] and $A$ is a [[Subset|subset]] of $B$, but $A$ is not equal to $B$ (i.e. there exists at least one element of $B$ which is not an element of $A$), then $A$ is a proper (or strict) subset of $B$ denoted by $A\subsetneq B$ and $B$ is a proper (or strict) superset of $A$, denoted by $B\supsetneq A$

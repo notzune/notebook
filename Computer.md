@@ -1,0 +1,3 @@
+a computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations (computations) automatically.
+
+conventionally, a modern computers consists of at least one [[Processing element|processing element]], typically a [[CPU|CPU]], in the form of a [[Microprocessor|microprocessor]], together with some type of [[Computer memory|computer memory]], typically semiconductor memory chips.

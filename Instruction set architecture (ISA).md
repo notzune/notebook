@@ -1,0 +1,1 @@
+in [[Computer science|computer science]], an instruction set architecture (ISA) is an abstract model of a [[Computer|computer]]. a device that executes instructions described by that ISA, such as a central processing unit ([[CPU|CPU]]), is called the implementation.

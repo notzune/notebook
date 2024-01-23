@@ -1,0 +1,1 @@
+in [[Set theory|set theory]], an infinite set is a [[Sets|set]] that is not a [[Finite set|finite set]]. infinite sets may be [[Countable set|countable]] or [[Uncountable set|uncountable]].

@@ -1,0 +1,1 @@
+in [[Statistics|stats]], as opposed to its [[Parameter|general use in math]], a parameter is any quantity of a statistical population that summarizes or describes an aspect of the population, such as a [[Mean|mean]] or a [[Standard deviation|standard deviation]].

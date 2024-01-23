@@ -21,7 +21,7 @@
 - $\cup$
 	- [[Union|union]]
 - $\mathcal{P}(\mathbb{A})$
-	- [[Power Sets|power set]], the set containing all subsets of a set ($\mathbb{A}$)
+	- [[Power sets|power set]], the set containing all subsets of a set ($\mathbb{A}$)
 - $\times$
 	- [[Cartesian product|cartesian product]]
 - $\setminus$
@@ -32,4 +32,4 @@
 - $|A|$
 	- used to denote [[Cardinality|cardinality]] 
 
-see also: [[Operation Identities|operation identities]] and [[Identities for Set Operations|set identities]]
+see also: [[Operation Identities|operation identities]] and [[Identities for set operations|set identities]]

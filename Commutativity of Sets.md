@@ -1,4 +1,4 @@
-is the same as [[Commutatives of addition and multiplication|commutativity of addition and multiplication]]; the order/posistion of the sets do not matter when performing operations such as intersection and union:
+is the same as [[Commutatives of addition and multiplication|commutativity of addition and multiplication]]; the order/position of the [[Sets|sets]] do not matter when performing operations such as [[Intersection|intersection]] and [[Union|union]]:
 
 $$
 \begin{align*} 

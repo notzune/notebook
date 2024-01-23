@@ -1,0 +1,1 @@
+in [[Microfabrication|microfabrication]], thermal oxidation is a way to produce a thin layer of [[Oxide|oxide]] (usually [[Silica|silicon dioxide]]) on the surface of a [[Wafer (electronics)|wafer]].

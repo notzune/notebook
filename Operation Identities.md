@@ -2,5 +2,5 @@
 - [[Commutatives of addition and multiplication]]
 - [[Distributivity of multiplication over addition]]
 - [[Identity elements of addition and multiplication]]
-- [[Identities for Set Operations]]
+- [[Identities for set operations]]
 - [[De Morgan's Laws]]

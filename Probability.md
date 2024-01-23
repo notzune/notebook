@@ -1,4 +1,4 @@
-in [[Probability theory|probability theory]], the likelihoods of a particular outcome actually occurring are found by assigning a [[Sets|set]] of probability values to each of the elements of the [[Sample space|sample space]].
+in [[Probability theory|probability theory]], the likelihoods of a particular [[Outcome|outcome]] actually occurring are found by assigning a [[Sets|set]] of probability values to each of the elements of the [[Sample space|sample space]].
 
 a set of probability values for an experiment with a sample space $S=\{O_1,O_2,\dots,O_n\}$ consists of some probabilities
 
@@ -24,9 +24,8 @@ $$
 P(\text{head})=P(\text{tail})=0.5
 $$
 
-with two outcomes being equally likely. a biased coin will have $p\neq0.5$. for example if $p=0.6$, then
+with two outcomes being equally likely. a biased coin will have $p\neq0.5$. for example if $p=0.6$ then
 
 $$
 P(\text{head})=0.6,\space P(\text{tail})=0.4
 $$
-

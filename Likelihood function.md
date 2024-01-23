@@ -1,0 +1,1 @@
+is the [[Joint probability distribution|joint probability]] (or probability density) of observed data viewed as a function of the [[Parameter (statistics)|parameters]] of a [[Statistical model|statistical model]].

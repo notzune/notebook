@@ -1,4 +1,4 @@
-a binary relation associates elements of one set, called the [[Domain|domain]], with elements of another set, called the [[Codomain|codomain]].
+a binary relation associates [[Element|elements]] of one [[Sets|set]], called the [[Domain|domain]], with elements of another set, called the [[Codomain|codomain]].
 
 a binary relation over sets $X$ and $Y$ is a new set of [[Ordered pair|ordered pairs]] $(x,y)$, consisting of elements $x$ from $X$ and $y$ from $Y$.
 
@@ -11,5 +11,5 @@ an example is the "divides" relation over the set of all prime numbers ($\mathbb
 other examples of binary relations:
 - the "is greater than", "is equal to", and "divides" relations in [[Arithmetic|arithmetic]]
 - the "is [[Congruence|congruent]] to" relation in [[Geometry|geometry]]
-- the "is adjacent to" relation in [[Graph Theory|graph theory]]
+- the "is adjacent to" relation in [[Graph theory|graph theory]]
 - the "[[Orthogonality|orthogonal]] to" relation in [[Linear algebra|linear algebra]]

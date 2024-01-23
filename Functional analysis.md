@@ -1,0 +1,1 @@
+functional analysis is a branch of [[Mathematical analysis|mathematical analysis]], the core of which is formed by the study of [[Vector space|vector spaces]] which have some kind of limit-related structure and the [[Linear map|linear functions]] defined on these spaces that respect these structures.

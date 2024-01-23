@@ -1,0 +1,1 @@
+theoretical computer science (TCS) is a subset of general [[Computer science|computer science]] and mathematics that focuses on mathematical aspects of computer science such as the [[Theory of computation|theory of computation]], [[Formal language|formal language theory]], the [[Lambda calculus|lambda calculus]] and [[Type theory|type theory]].

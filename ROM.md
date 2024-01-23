@@ -1,1 +1,1 @@
-Read Only Memory
+read-only memory.

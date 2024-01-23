@@ -1,0 +1,1 @@
+analysis is the branch of mathematics dealing with [[Continuous function|continuous functions]], [[Limit|limits]], and related theories such as [[Differentiation|differentiation]], [[Integral|integration]], [[Measure|measure]], [[Sequence|infinite sequences]], [[Series|series]], and [[Analytic functions|analytic functions]].

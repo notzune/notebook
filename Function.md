@@ -14,7 +14,7 @@ $$
 
 a function is uniquely represented by the [[Sets|set]] of all pairs $(x,f(x))$ called the graph of the function. when the domain and the codomain are sets of [[Real numbers|real numbers]], each such pair may be thought of as the [[Cartesian coordinate system|Cartesian coordinates]] of a point in the plane.
 
-a function has one or more arguments in the form of [[Independent Variable|independent variables]] designated in the definition, which can also contain [[Parameter|parameters]]. The independent variables are mentioned in the list of arguments that the function takes, where as the parameters are not. 
+a function has one or more arguments in the form of [[Independence|independent variables]] designated in the definition, which can also contain [[Parameter|parameters]]. The independent variables are mentioned in the list of arguments that the function takes, where as the parameters are not. 
 
 for example, in the [[Logarithmic functions|logarithmic function]] $f(x) = \log_{b}(x)$, the [[Base|base]] $b$ is considered a [[Parameter|parameter]].
 

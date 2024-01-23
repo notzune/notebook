@@ -1,0 +1,3 @@
+a mathematical proof is a [[Deductive reasoning|deductive]] [[Argument–deduction–proof distinctions|argument]] for a [[Proposistion|mathematical statement]], showing that the stated assumptions [[Mathematical logic|logically]] guarantee the conclusion.
+
+the [[Argument|argument]] may use other previously established statements, such as [[Theorem|theorems]]; but every proof can, in principle, be constructed using only certain basic original assumptions known as [[Axioms|axioms]], along with the accepted rules of [[Inferences|inference]].

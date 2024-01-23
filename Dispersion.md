@@ -1,0 +1,3 @@
+in [[Statistics|statistics]], dispersion is the extent to which a distribution is stretched or squeezed. common measures of statistical dispersion are the [[Variance|variance]], [[Standard deviation|standard deviation]], and [[Interquartile range (IQR)|interquartile range]].
+
+dispersion is contrasted with location or [[Central tendency|central tendency]], and together they are the most used properties of distributions. 

@@ -1,0 +1,1 @@
+in [[Set theory|set theory]] and its applications throughout mathematics, a class is a collection of [[Sets|sets]] that can be unambiguously defined by a property that all its members share.

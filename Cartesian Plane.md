@@ -1,1 +1,1 @@
-the cartesian plane is a two-dimensional coordinate plane formed by the intersection of two perpendicular lines. the horizontal line is known as X-axis, and the vertical line is known as Y-axis
+the cartesian plane is a two-dimensional [[Cartesian coordinate system|coordinate]] plane formed by the intersection of two perpendicular [[Line|lines]]. the horizontal line is known as X-axis, and the vertical line is known as Y-axis

@@ -1,0 +1,1 @@
+a digital signal is a [[Signal|signal]] that represents [[Data (computer science)|data]] as a sequence of discrete values; at any given time it can only take on, at most, one of a finite number of values.

@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b985dbde482e37f6",
+            "id": "c9bffacabebd8e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db45c25f4c2878da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intersection of events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d3ed31d16b674c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unions of events.md",
+                "file": "Network layer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 297.5,
     "collapsed": true
   },
   "right": {
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unions of events.md",
+                "file": "Network layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unions of events.md",
+                "file": "Network layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unions of events.md"
+                "file": "Network layer.md"
               }
             }
           }
@@ -172,35 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d3ed31d16b674c4",
+  "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Events.md",
-    "Intersection of events.md",
-    "Unions of events.md",
-    "Complement (probability).md",
-    "Linearity of differentiation.md",
-    "Probability value.md",
-    "Complement.md",
-    "Screenshot 2024-01-18 at 6.52.04 PM.png",
-    "Probability theory.md",
-    "Sample space.md",
-    "Differentiation rules.md",
-    "Derivative.md",
-    "RAM.md",
-    "Differentiation.md",
-    "Bytecode.md",
+    "OSI model.md",
+    "Network layer.md",
+    "Internet protocol (IP).md",
+    "Graph theory.md",
+    "Graph (discrete mathematics).md",
+    "Edge (graph theory).md",
+    "Vertex (graph theory).md",
+    "Cardinality.md",
+    "Ordinality.md",
+    "Ordinal number.md",
+    "Infinite set.md",
+    "Discrete mathematics.md",
+    "Vector space.md",
+    "Mathematical analysis.md",
+    "Functional analysis.md",
+    "Complex conjugate.md",
+    "Function.md",
+    "Communication protocol.md",
     "README.md",
-    "Java.md",
-    "Wide-Area Network (WAN).md",
-    "Local-Area Network (LAN).md",
     "Network connection.md",
-    "Protocol.md",
-    "ROM.md",
-    "Memory.md",
-    "Bit permutations.md",
-    "Limit of a function.md",
-    "Table of Contents.md",
-    "Homogeneous Relation.md",
+    "Point-to-point connection.md",
+    "Java.md",
+    "List.md",
+    "Header (computing).md",
+    "Network packet.md",
+    "Internet protocol suite.md",
+    "I",
+    "Screenshot 2024-01-18 at 6.52.04 PM.png",
+    "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "venn_diagrams.png",
     "Pasted image 20240111012758.png"
   ]

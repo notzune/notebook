@@ -4,7 +4,7 @@ in this operation, the function $g$ is applied to the result of the applying of 
 
 in other words, the functions $f:X\rightarrow Y$ and $g:Y\rightarrow Z$ are composed to result in a function that maps $x$ in the [[Domain|domain]] of $X$ to $g(f(x))$ in the [[Codomain|codomain]] $Z$.
 
-if $z$ is a function of $y$, and $y$ is a function of x, then $z$ is a function of $x$ ([[Transitive Relation|through the transitive property]]).
+if $z$ is a function of $y$, and $y$ is a function of x, then $z$ is a function of $x$ ([[Transitive relation|through the transitive property]]).
 
 the resulting composite function is denoted:
 

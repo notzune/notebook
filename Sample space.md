@@ -1,4 +1,4 @@
-in [[Probability theory|probability]] a sample space is the [[Sets|set]] of all possible outcomes.
+in [[Probability theory|probability]] a sample space is the [[Sets|set]] of all possible [[Outcome|outcomes]], more specifically it is the set of all [[Events|events]].
 
 the sample space of a coin $S$ would be 
 

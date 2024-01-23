@@ -1,0 +1,3 @@
+the metal-oxide-semiconductor field-effect transistor (MOSFET) is a type of [[Field-effect transistor (FET)|field-effect transistor]] (FET), most commonly fabricated by the [[Thermal oxidation|controlled oxidation]] of [[Silicon|silicon]].
+
+it has an insulated gate, the voltage of which determines the conductivity of the device. This ability to change conductivity with the amount of applied voltage can be used for amplifying or switching electronic signals.

@@ -5,13 +5,13 @@ a relation is a way of showing a connection or relationship between two sets. It
 - [[Reflexive Relation]]
 - [[Symmetric relation]]
 - [[Antisymmetric Relation]]
-- [[Transitive Relation]]
+- [[Transitive relation]]
 
 ## Special Types of Relations
 
 - [[Equivalence relation]]
-- [[Partial Order Relation]]
-- [[Total Order Relation]]
+- [[Partial order relation]]
+- [[Total order relation]]
 
 ## Representation of Relations
 

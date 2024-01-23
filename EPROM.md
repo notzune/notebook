@@ -1,0 +1,1 @@
+erasable programmable read-only memory.

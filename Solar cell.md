@@ -1,0 +1,1 @@
+a solar cell or [[Photovoltaics (PV)|photovoltaic]] cell (PV cell) is an electronic device that converts the energy of light directly into electricity by means of the [[Photovoltaic effect|photovoltaic effect]].

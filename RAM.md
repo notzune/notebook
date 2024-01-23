@@ -1,1 +1,1 @@
-Random Access Memory (RAM)
+random-access memory (RAM) is a form of [[Computer memory|electronic computer memory]] that can be read and changed in any order, typically used to store working data and [[Machine code|machine code]].

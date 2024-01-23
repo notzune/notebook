@@ -1,4 +1,4 @@
-a statement in which if something is true then something else must be true (if-then statements).
+in [[Mathematical logic|mathematical logic]], a conditional statement is a statement in which if something is true then something else must be true (if-then statements).
 
 more formally, it is a sentence that expresses that one thing is contingent on something else, i.e. "if it rains, the picnic will be cancelled." 
 

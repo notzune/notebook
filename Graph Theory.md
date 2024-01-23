@@ -1,0 +1,1 @@
+in mathematics, graph theory is the study of [[Graph (discrete mathematics)|graphs]], which are mathematical structures used to model pairwise relations between objects.
