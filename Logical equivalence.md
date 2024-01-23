@@ -1,4 +1,4 @@
-in [[Logic|logic]] and math, statements $p$ and $q$ are said to be logically equivalent if they have the same [[Truth value|truth value]] in every [[Structure|model]]. the logical equivalence of $p$ and $q$ is sometimes expressed as:
+in [[Logic|logic]] and math, statements $p$ and $q$ are said to be logically equivalent if they have the same [[Truth value|truth value]] in every [[Mathematical structure|model]]. the logical equivalence of $p$ and $q$ is sometimes expressed as:
 
 $$
 p\equiv q

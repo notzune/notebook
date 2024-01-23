@@ -74,7 +74,7 @@ $$
 f(n)=n
 $$
 
-as its only [[Coefficient]]|coefficient.
+as its only [[Coefficient|coefficient]].
 
 ### Logistic map
 

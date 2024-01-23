@@ -1,0 +1,1 @@
+abstraction in mathematics is the process of extracting underlying [[Mathematical structure|structures]], patterns or properties of a mathematical concept, removing any dependence on real world objects with which it might have originally been connected, and generalizing it so that it has a wider application or matching among other abstract descriptions of equivalent phenomena.

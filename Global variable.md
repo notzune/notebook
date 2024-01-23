@@ -1,0 +1,1 @@
+in [[Computer programming|coding]], a global variable is a variable with a global [[Scope|scope]], meaning that it is visible (therefore accessible) throughout the program unless [[Variable shadowing|shadowed]].

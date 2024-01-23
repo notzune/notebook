@@ -11,8 +11,12 @@
             "id": "c9bffacabebd8e89",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recurrence relation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recurrence relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recurrence relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Recurrence relation.md"
+              }
             }
           }
         ]
@@ -141,6 +150,20 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
+    "Functional programming.md",
+    "Function application.md",
+    "Abstraction (mathematics).md",
+    "Mathematical structure.md",
+    "Computer science.md",
+    "Programming paradigm.md",
+    "Function (computer programming).md",
+    "Function composition (computer science).md",
+    "Nullary.md",
+    "Empty product.md",
+    "Global variable.md",
+    "Empty sum.md",
+    "Recurrence relation.md",
+    "Factorial.md",
     "README.md",
     "Set theory.md",
     "Table of Contents.md",
@@ -153,20 +176,6 @@
     "Vertex (graph theory).md",
     "Cardinality.md",
     "Ordinality.md",
-    "Ordinal number.md",
-    "Infinite set.md",
-    "Discrete mathematics.md",
-    "Vector space.md",
-    "Mathematical analysis.md",
-    "Functional analysis.md",
-    "Complex conjugate.md",
-    "Function.md",
-    "Communication protocol.md",
-    "Network connection.md",
-    "Point-to-point connection.md",
-    "Java.md",
-    "List.md",
-    "Header (computing).md",
     "I",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
