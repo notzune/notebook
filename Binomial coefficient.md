@@ -33,5 +33,9 @@ $$
 \end{align}
 $$
 
+arranging the numbers $\binom{n}{0},\binom{n}{1},\dots,\binom{n}{n}$ in successive rows for $n=0,1,2,\dots$ gives [[Pascal's triangle]] which satisfies the [[Recurrence relation|recurrence relation]]:
 
+$$
+\binom{n}{k}=\binom{n-1}{k-1}+\binom{n-1}{k}
+$$
 
