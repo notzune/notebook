@@ -1,0 +1,1 @@
+a node is a basic unit of a [[Data structure|data structure]], such as a linked list or [[Tree (data structure)|tree]] data structure. nodes contain data and also may link to other nodes. links between nodes are often implemented by [[Pointer (computer programming)|pointers]].

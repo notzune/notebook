@@ -29,3 +29,7 @@ with two outcomes being equally likely. a biased coin will have $p\neq0.5$. for 
 $$
 P(\text{head})=0.6,\space P(\text{tail})=0.4
 $$
+
+see also: 
+- [[Replacement]]
+- [[Independent events]]

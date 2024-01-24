@@ -1,0 +1,1 @@
+in [[Computer science|computer science]], a tree is widely used [[Abstract data type|abstract data type]] that represents a hierarchical tree structure with a set of connected [[Node (computer science)|nodes]].

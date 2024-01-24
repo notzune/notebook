@@ -21,3 +21,45 @@ $$
 the collection of all permutations of a set form a [[Group|group]] called the [[Symmetric group|symmetric group]] of the set.
 
 the group operation is the [[Function composition|composition]] of functions (performing one rearrangement after the other), which results in another function (rearrangement).
+
+## In probability and combinatorics
+
+in [[Probability theory|probability theory]], more specifically in [[Combinatorics|combinatorics]], permutations are used to calculate how many ways a series of distinct $k$ objects can be drawn from a pool of $n$ objects.
+
+if the drawings are performed [[Replacement|with replacement]] then the $k$ drawings are all identical [[Events|events]], each with $n$ possible [[Outcome|outcomes]] and the [[Multiplication rule of combinatorics|multiplication rule]] shows that there are $n^k$ possible ways to draw $n$ objects, but if they are made *without replacement*, then the outcome is said to be a permutation of $k$ objects from the original $n$. 
+
+a permutation is then denoted as $P^n_k$ and is formally defined as an ordered sequence of $k$ objects selected without replacement from the group of $n$ objects.
+
+the number of possible permutations of $k$ objects from $n$ objects is
+
+$$
+P^n_k=n\times(n-1)\times(n-2)\times\dots\times(n-k+1)=\frac{n!}{(n-k)!}
+$$
+
+if $k=n$ then the number of permutations is simply
+
+$$
+P^n_n=n\times(n-1)\times(n-2)\times\dots\times1=n!
+$$
+
+sometimes when $k$ objects are chosen from a group of $n$ objects, the focus is on which $k$ objects are chosen but not their order.
+
+such a collection is called a [[Combination|combination]] of $k$ objects from $n$ objects.
+
+$$
+C^n_k=\frac{n!}{(n-k)!\space k!}
+$$
+
+the formula for the number of combinations follows from the fact that each combination of $k$ objects can be associated with the $k$! permutations that consist of those objects.
+
+$$
+P^n_k=k!\times C^n_k
+$$
+
+so that,
+
+$$
+C^n_k=\frac{P^n_k}{k!}=\frac{n!}{(n-k)!\space k!}
+$$
+
+

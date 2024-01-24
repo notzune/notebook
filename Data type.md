@@ -1,0 +1,1 @@
+in [[Computer science|computer science]] and [[Computer programming|computer programming]], a data type (or simply type) is a collection of grouping of data values, usually specified by a test 

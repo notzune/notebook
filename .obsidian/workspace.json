@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recurrence relation.md",
+                "file": "Permutation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recurrence relation.md",
+                "file": "Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recurrence relation.md",
+                "file": "Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recurrence relation.md"
+                "file": "Permutation.md"
               }
             }
           }
@@ -145,37 +145,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Functional programming.md",
-    "Function application.md",
-    "Abstraction (mathematics).md",
-    "Mathematical structure.md",
-    "Computer science.md",
-    "Programming paradigm.md",
-    "Function (computer programming).md",
-    "Function composition (computer science).md",
-    "Nullary.md",
-    "Empty product.md",
-    "Global variable.md",
-    "Empty sum.md",
-    "Recurrence relation.md",
-    "Factorial.md",
+    "Combinatorics.md",
+    "Permutation.md",
+    "Recently edited.md",
+    "Multiset.md",
     "README.md",
-    "Set theory.md",
-    "Table of Contents.md",
+    "* (operation).md",
+    "Recent new files.md",
+    "Deductive reasoning.md",
+    "Derivative.md",
+    "templates/Update Publish Files.md",
+    "Combination.md",
+    "Absolute value.md",
+    "templates",
+    "Replacement.md",
     "Network layer.md",
-    "OSI model.md",
-    "Internet protocol (IP).md",
-    "Graph theory.md",
-    "Graph (discrete mathematics).md",
-    "Edge (graph theory).md",
-    "Vertex (graph theory).md",
-    "Cardinality.md",
-    "Ordinality.md",
+    "Sets.md",
+    "Bijection.md",
+    "Associativity of sets.md",
+    "Empty set.md",
+    "Probability.md",
+    "Independent events.md",
+    "Independence.md",
+    "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
+    "Screenshot 2024-01-23 at 8.55.54 PM.png",
+    "Screenshot 2024-01-23 at 8.56.03 PM.png",
+    "Factorial.md",
+    "Cartesian product.md",
+    "Differentiation rules.md",
+    "Differentiation.md",
+    "Infinitesimal.md",
     "I",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",

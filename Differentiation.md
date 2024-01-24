@@ -1,6 +1,12 @@
 is the process of finding the [[Derivative|derivative]] of a [[Function|function]]. in principle, the derivative can be computed from the definition by considering the difference quotient and computing its limit.
 
-imagine you are on a road trip. the speedometer in your car shows your speed at any given moment, which how fast you're covering distance over time. speed in this example is the derivative of your position with respect to time.
+imagine you are on a road trip. the speedometer in your car shows your speed at any given moment, which is how fast you're covering distance over time. speed in this example is the derivative of your position with respect to time.
+
+in other words,
+
+$$
+\text{speed}=\frac{\text{distance}}{\text{time}}
+$$
 
 now imagine you're looking at your trip's start and end points. you know the total distance and total time taken. 
 

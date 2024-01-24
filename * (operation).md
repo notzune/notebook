@@ -1,4 +1,8 @@
-a star or asterisk "$*$" is used in abstract algebra to denote some arbitrary or general [[Binary operation|binary operation]] such as multiplication or addition. you can think of the asterisk as a placeholder when used in the context of defining an axiom or proof that has to do with binary operations.
+a star or asterisk "$*$" is used in abstract algebra to denote some arbitrary or general [[Binary operation|binary operation]] such as multiplication or addition. you can think of the asterisk as a placeholder when used in the context of defining an axiom or proof that has to do with binary ope```
+// Update Publish Files.md
+
+
+```rations.
 
 for example if we have a set $S$ and a binary operation "$*$", the [[Operation|operation]] might be defined as as:
 

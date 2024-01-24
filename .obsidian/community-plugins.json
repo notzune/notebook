@@ -1,4 +1,6 @@
 [
   "obsidian-sort-and-permute-lines",
-  "dataview"
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "templater-obsidian"
 ]

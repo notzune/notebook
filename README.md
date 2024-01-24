@@ -1,5 +1,4 @@
 my personal notebook that i use for my studies and project planning.
-
 ## Table of Contents
 ### Mathematics
 - [[Algebra]]

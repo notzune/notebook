@@ -1,0 +1,3 @@
+in [[Computer science|computer science]], a pointer is an object in many [[Programming language|programming languages]] that stores a [[Memory address|memory address]] and is able to reference that location and obtain the value stored in a process called dereferencing the pointer.
+
+this memory address can be that of another value located in [[Computer memory|computer memory]], or in some cases, that of [[Memory mapped IO and port-mapped IO|memory-mapped]] [[Computer hardware|computer hardware]].

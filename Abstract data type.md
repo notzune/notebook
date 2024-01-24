@@ -1,0 +1,1 @@
+in [[Computer science|computer science]], an abstract data type (ADT) is a [[Mathematical model|mathematical model]] for [[Data type|data types]].
