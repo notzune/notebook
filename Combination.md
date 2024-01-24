@@ -1,4 +1,4 @@
-in mathematics, a combination is a selection of items from a [[Sets|set]] that has distinct [[Element|members]], such that the order of selection does not matter (unlike [[Permutation|permutations]] where the order plays a role).
+in mathematics and [[Combinatorics|combinatorics]], a combination is a selection of items from a [[Sets|set]] that has distinct [[Element|members]], such that the order of selection does not matter (unlike [[Permutation|permutations]] where the order plays a role).
 
 a combination of $k$ objects from $n$ objects ($n\geq k$) is an unordered collection of $k$ objects selected [[Replacement|without replacement]] (without repetition) from the group of $n$ objects.
 

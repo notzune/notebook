@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation.md",
+                "file": "Binomial coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relation.md",
+                "file": "Binomial coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relation.md",
+                "file": "Binomial coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relation.md"
+                "file": "Binomial coefficient.md"
               }
             }
           }
@@ -150,33 +151,33 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Unary relation.md",
-    "Relation.md",
-    "Transitive relation.md",
+    "Combination.md",
+    "Binomial coefficient.md",
+    "Permutation.md",
     "Total order.md",
+    "Transitive relation.md",
+    "Relation.md",
+    "README.md",
+    "Reflexive relation.md",
+    "Unary relation.md",
     "Graph.md",
     "Matrices.md",
     "Ordered pair.md",
     "Partially ordered set.md",
-    "Reflexive relation.md",
     "Antisymmetric relation.md",
-    "Permutation.md",
     "Combinatorics.md",
     "Recently edited.md",
     "Multiset.md",
-    "README.md",
     "* (operation).md",
     "Recent new files.md",
     "Deductive reasoning.md",
     "Derivative.md",
     "templates/Update Publish Files.md",
-    "Combination.md",
     "Absolute value.md",
     "templates",
     "Replacement.md",
     "Network layer.md",
     "Sets.md",
-    "Bijection.md",
     "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
     "Screenshot 2024-01-23 at 8.56.03 PM.png",
