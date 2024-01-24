@@ -6,12 +6,17 @@ a relation is a way of showing a connection or relationship between two [[Sets|s
 - [[Symmetric relation]]
 - [[Antisymmetric relation]]
 - [[Transitive relation]]
+- [[Binary relation]]
+- [[Unary relation]]
 
 ## Special Types of Relations
 
 - [[Equivalence relation]]
 - [[Partial order relation]]
 - [[Total order relation]]
+- [[Recurrence relation]]
+- [[Congruence relation]]
+- [[Homogeneous relation]]
 
 ## Representation of Relations
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Total order.md",
+                "file": "Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Total order.md",
+                "file": "Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Total order.md",
+                "file": "Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Total order.md"
+                "file": "Relation.md"
               }
             }
           }
@@ -151,12 +151,13 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Transitive relation.md",
+    "Unary relation.md",
     "Relation.md",
+    "Transitive relation.md",
+    "Total order.md",
     "Graph.md",
     "Matrices.md",
     "Ordered pair.md",
-    "Total order.md",
     "Partially ordered set.md",
     "Reflexive relation.md",
     "Antisymmetric relation.md",
@@ -177,7 +178,6 @@
     "Network layer.md",
     "Sets.md",
     "Bijection.md",
-    "Associativity of sets.md",
     "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
     "Screenshot 2024-01-23 at 8.56.03 PM.png",

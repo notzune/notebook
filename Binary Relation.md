@@ -4,7 +4,7 @@ a binary relation over sets $X$ and $Y$ is a new set of [[Ordered pair|ordered p
 
 (see also: [[Cartesian product|cartesian product]])
 
-a binary relation is a generalization of a [[Unary Relation|unary relation]]. it encapsulates the common concept of a relation: an element $x$ is related to an element $y$, if and only if the pair $(x,y)$ belongs to the set of ordered pairs that defines the binary relation.
+a binary relation is a generalization of a [[Unary relation|unary relation]]. it encapsulates the common concept of a relation: an element $x$ is related to an element $y$, if and only if the pair $(x,y)$ belongs to the set of ordered pairs that defines the binary relation.
 
 an example is the "divides" relation over the set of all prime numbers ($\mathbb{P}$) and the set of all integers ($\mathbb{Z}$), in which each prime, $p$, is related to each integer, $z$ that is a multiple of $p$, but not to an integer that is not a multiple of $p$.
 
