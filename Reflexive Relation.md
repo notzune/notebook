@@ -1,4 +1,4 @@
-a relation $R$ on a set $A$ is reflexive if every element is related to itself.
+a [[Relation|relation]] $R$ on a [[Sets|set]] $A$ is reflexive if every [[Element|element]] is related to itself.
 
 formally, $R$ is reflexive if $\forall a \in A, (a,a) \in R$.
 

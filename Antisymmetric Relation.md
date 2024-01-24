@@ -1,4 +1,4 @@
-a relation $R$ on a set $A$ is symmetric if, whenever an element $a$ and an element $b$ are distinct and $a$ is related to $b$, then $b$ is not related to $a$.
+a [[Relation|relation]] $R$ on a [[Sets|set]] $A$ is symmetric if, whenever an [[Element|element]] $a$ and an element $b$ are distinct and $a$ is related to $b$, then $b$ is not related to $a$.
 
 formally, $R$ is antisymmetric if $\forall a, b \in A, (a,b) \in R \wedge (b,a) \in R \implies a = b$
 

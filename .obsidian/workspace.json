@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permutation.md",
+                "file": "Total order.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permutation.md",
+                "file": "Total order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permutation.md",
+                "file": "Total order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permutation.md"
+                "file": "Total order.md"
               }
             }
           }
@@ -151,8 +151,13 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Combinatorics.md",
+    "Partially ordered set.md",
+    "Transitive relation.md",
+    "Reflexive relation.md",
+    "Antisymmetric relation.md",
+    "Total order.md",
     "Permutation.md",
+    "Combinatorics.md",
     "Recently edited.md",
     "Multiset.md",
     "README.md",
@@ -176,11 +181,6 @@
     "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
     "Screenshot 2024-01-23 at 8.56.03 PM.png",
-    "Factorial.md",
-    "Cartesian product.md",
-    "Differentiation rules.md",
-    "Differentiation.md",
-    "Infinitesimal.md",
     "I",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",

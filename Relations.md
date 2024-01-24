@@ -2,9 +2,9 @@ a relation is a way of showing a connection or relationship between two sets. It
 
 ## Types of Relations
 
-- [[Reflexive Relation]]
+- [[Reflexive relation]]
 - [[Symmetric relation]]
-- [[Antisymmetric Relation]]
+- [[Antisymmetric relation]]
 - [[Transitive relation]]
 
 ## Special Types of Relations
