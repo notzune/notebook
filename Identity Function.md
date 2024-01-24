@@ -1,4 +1,4 @@
-an identity function, also called an identity [[Relations|relation]], identity map or identity transformation, is a [[Function|function]] that always returns the value that we used as its [[Argument of a function|argument]], unchanged.
+an identity function, also called an identity [[Relation|relation]], identity map or identity transformation, is a [[Function|function]] that always returns the value that we used as its [[Argument of a function|argument]], unchanged.
 
 that is when $f$ is the identity function, the [[Equality|equality]] $f(X) = X$ is true for all values of $X$ to which $f$ can be applied.
 

@@ -1,4 +1,4 @@
-the number of arguments or operands taken by a [[Function|function]], [[Operation|operation]], or [[Relations|relation]]. 
+the number of arguments or operands taken by a [[Function|function]], [[Operation|operation]], or [[Relation|relation]]. 
 
 "arity" may also be called rank, but this word can have many other meanings. it may also be referred to as adicity and degree.
 

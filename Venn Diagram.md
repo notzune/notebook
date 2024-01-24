@@ -1,4 +1,4 @@
-a venn diagram provides an intuitive way to visualize [[Sets|sets]] and [[Subset|subsets]] as well as their [[Relations|relations]].
+a venn diagram provides an intuitive way to visualize [[Sets|sets]] and [[Subset|subsets]] as well as their [[Relation|relations]].
 
 here are examples:
 

@@ -1,6 +1,6 @@
 a bijection, bijective function, or one-to-one correspondence between two mathematical [[Sets|sets]] is a [[Function|function]] such that each element of the second set (the [[Codomain|codomain]]) is mapped to from exactly one element of the first set (the [[Domain|domain]]). 
 
-a bijection is a [[Relations|relation]] between two sets such that each element of either set is paired with exactly one element of the other set.
+a bijection is a [[Relation|relation]] between two sets such that each element of either set is paired with exactly one element of the other set.
 
 a function is bijective if and only if it is [[Inverse functions|invertible]]; that is, a function $f : X\rightarrow Y$ is bijective if and only if there is a function $g : Y\rightarrow X$, the inverse of $f$ (or, $f^{-1}$), such that each of the two ways of [[Function composition|composing]] the two functions produces an [[Identity function|identity function]]:
 
