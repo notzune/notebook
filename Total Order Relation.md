@@ -19,4 +19,4 @@ an example of a total order relation is the usual ordering of real numbers, deno
 - [[Transitive relation|transitivity]]: if $a\leq b \wedge b\leq c, \implies a\leq c$.
 - [[Comparability (Totality)|comparability]]: for any two real numbers $a$ and $b$, either $a\leq b\vee b\leq a$ is true.
 
-in a total order, there are no two distinct elements where one is not related to the other in some way. this makes them useful for sorting algorithms, [[Number Theory|number theory]], and whenever a strict linear hierarchy is required.
+in a total order, there are no two distinct elements where one is not related to the other in some way. this makes them useful for sorting algorithms, [[Number theory|number theory]], and whenever a strict linear hierarchy is required.

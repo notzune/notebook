@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Combinatorics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Combinatorics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Combinatorics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Combinatorics.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,32 +149,32 @@
   },
   "active": "ca59f80ef213128d",
   "lastOpenFiles": [
-    "Network Theory (index).md",
-    "README.md",
-    "Set theory (index).md",
-    "Combinatorics (index).md",
-    "Number Theory (index).md",
-    "Graph Theory (index).md",
-    "Discrete math (index).md",
-    "Mathematics (index).md",
-    "Coefficient.md",
-    "Geometry (index).md",
-    "Complex conjugate.md",
-    "Abstraction (mathematics).md",
-    "Set difference.md",
-    "Element.md",
-    "Modulo.md",
+    "Programming languages (index).md",
+    "Robotics.md",
+    "Relativity.md",
+    "Quantum Mechanics.md",
+    "Physics.md",
+    "Probability and Statistics.md",
+    "Partially ordered set.md",
+    "Operating system.md",
+    "Object-Oriented Programming.md",
+    "Number theory.md",
+    "Network theory.md",
+    "Linear algebra.md",
     "Logic (index).md",
-    "Propositional calculus (index).md",
-    "Proposition.md",
-    "Propositional calculus.md",
-    "Affirming the consequent.md",
-    "Logical notation.md",
-    "Probability and statistics (index).md",
-    "Discrete probability distribution.md",
-    "Probability measure.md",
-    "Probability mass function.md",
-    "Domain.md",
+    "Index set.md",
+    "Graph theory.md",
+    "Geometry.md",
+    "Functional programming.md",
+    "Discrete math (index).md",
+    "Differential calculus.md",
+    "Computer science.md",
+    "Computer architecture.md",
+    "Calculus.md",
+    "Combinatorics.md",
+    "Algebra.md",
+    "Integral Calculus.md",
+    "Control Systems.md",
     "publish.css",
     "obsidian.css",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
