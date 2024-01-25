@@ -1,4 +1,4 @@
-in [[Probability theory|probability theory]], a [[Partition of a set|partition]] of a [[Sample space|sample space]] is a sequence $A_1,A_2,\dots,A_n$ of [[Disjoint event|mutually exclusive]] [[Events|events]] for which 
+in [[Probability theory|probability theory]], a [[Partition (set theory)|partition]] of a [[Sample space|sample space]] is a sequence $A_1,A_2,\dots,A_n$ of [[Disjoint event|mutually exclusive]] [[Events|events]] for which 
 
 $$
 A_1\cup\dots\cup A_n=S

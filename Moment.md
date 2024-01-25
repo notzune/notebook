@@ -29,7 +29,7 @@ $$
 
 if $f$ is a [[Probability density function (PDF)|probability density function]], then the value of the integral above is called the $n$-th moment of the [[Probability distribution|probability distribution]].
 
-more generally, if $F$ is a [[Cumulative distribution function|cumulative probability distribution function]] of any probability distribution, which may not have a density function, then the $n$-th moment of the probability distribution is given by the Riemann-Stietjes integral
+more generally, if $F$ is a [[Cumulative distribution function (CDF)|cumulative probability distribution function]] of any probability distribution, which may not have a density function, then the $n$-th moment of the probability distribution is given by the Riemann-Stietjes integral
 
 $$
 \mu'_n=\text{E}[X^n]=\int^\infty_{-\infty}x^n\text{d}F(x)

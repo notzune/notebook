@@ -8,7 +8,7 @@ if the sequence of mutually exclusive events has the added property that their u
 
 that sequence also provides a partition of the sample space.
 
-a [[Partition|partition]] of a sample space is a sequence $A_1,A_2,\dots,A_n$ of mutually exclusive events for which 
+a [[Partition (probability theory)|partition]] of a sample space is a sequence $A_1,A_2,\dots,A_n$ of mutually exclusive events for which 
 
 $$
 A_1\cup\dots\cup A_n=S

@@ -31,7 +31,7 @@ $$
 
 this result is known as the law of total probability and states that if one and only one of a series of events $A_i$ can occur, then the probability of another event $B$ can be obtained as the weighted average of the conditional probabilities $P(B|A_i)$, with weights equal to the probabilities $P(A_i)$.
 
-more generally, if $A_1,\dots,A_n$ is a [[Partition|partition]] of a [[Sample space|sample space]], then the probability of an event $B$ can be obtained from the probabilities $P(A_i)$ and $P(B|A_i)$ using the formula:
+more generally, if $A_1,\dots,A_n$ is a [[Partition (probability theory)|partition]] of a [[Sample space|sample space]], then the probability of an event $B$ can be obtained from the probabilities $P(A_i)$ and $P(B|A_i)$ using the formula:
 
 $$
 P(B)=P(A_1)P(B|A_1)+\dots+P(A_n)P(B|A_n)

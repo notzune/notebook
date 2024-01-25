@@ -1,0 +1,3 @@
+a java virtual machine (JVM) is a virtual machine that enables a [[Computer|computer]] to run [[Java]] [[Computer program|programs]] as well as programs written in other [[Programming language|languages]] (such as [[Kotlin]]) that are also compiled to Java [[Bytecode|bytecode]]. 
+
+this allows java programmers to not worry about idiosyncrasies of the underlying hardware [[Instruction set architecture (ISA)|architecture]], making the platform essentially platform agnostic.
