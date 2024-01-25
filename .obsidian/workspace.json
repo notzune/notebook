@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and statistics (index).md",
+                "file": "Discrete probability distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca59f80ef213128d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics (index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and statistics (index).md",
+                "file": "Mathematics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and statistics (index).md",
+                "file": "Mathematics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and statistics (index).md"
+                "file": "Mathematics (index).md"
               }
             }
           }
@@ -149,9 +162,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80feb2190df2dc26",
+  "active": "ca59f80ef213128d",
   "lastOpenFiles": [
     "Discrete probability distribution.md",
+    "Mathematics (index).md",
+    "Probability and statistics (index).md",
     "Probability measure.md",
     "Probability mass function.md",
     "Domain.md",
@@ -162,7 +177,6 @@
     "publish.css",
     "Combinatorics (index).md",
     "Combinatorics.md",
-    "Probability and statistics (index).md",
     "README.md",
     "Antecedent.md",
     "Argument of a function.md",
@@ -178,7 +192,6 @@
     "Binary operation.md",
     "Partition (probability theory).md",
     "Partition (set theory).md",
-    "Baye's theorem.md",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",
     "templates",
