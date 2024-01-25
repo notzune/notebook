@@ -30,6 +30,12 @@ $$
 P(\text{head})=0.6,\space P(\text{tail})=0.4
 $$
 
+the probability value then is the ratio of the number of possibilities over the total amount of elements in the sample space
+
+$$
+\text{probability value}=\frac{\text{number of items}}{\text{total number of items}}
+$$
+
 see also: 
 - [[Replacement]]
 - [[Independent events]]

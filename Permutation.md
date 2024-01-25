@@ -62,4 +62,17 @@ $$
 C^n_k=\frac{P^n_k}{k!}=\frac{n!}{(n-k)!\space k!}
 $$
 
+suppose that a company has four different kinds of products and wishes to compare them through product testing. a tester is given four different types of products and told to rate it. this procedure simply provides an ordering of the four products, and the number of possible ways in which it can be performed is
+
+$$
+P^4_4=4!=4\times3\times2\times1=24
+$$
+
+in a different test, each tester samples eight products and is asked to pick the best, the second best, and the third best. the number of possible answers to the test is then
+
+$$
+P^8_3=8\times7\times6=336
+$$
+
+notice that the order of the sequence is important. for example if the eight products in the taste test are labeled $A–H$, then the permutation $ABC$ (in which product $A$ is best, $B$, second best, and $C$ third best) is different from the permutation $ACB$.
 
