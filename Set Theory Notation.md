@@ -25,7 +25,7 @@
 - $\times$
 	- [[Cartesian product|cartesian product]]
 - $\setminus$
-	- [[Set Difference|set difference]] (set subtraction)
+	- [[Set difference|set difference]] (set subtraction)
 - $A^\complement$, $\complement$, $\overline{A}$
 	- these all represent [[Complement|complement]]
 	- small note: i don't really see $A^\complement$, $\complement$ often and mostly just see $\overline{A}$

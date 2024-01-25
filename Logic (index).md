@@ -1,0 +1,24 @@
+# Index
+---
+- [[Modus tollens]]
+- [[Modus ponens]]
+- [[Hypothetical syllogism]]
+- [[Mathematical logic]]
+- [[Logic]]
+- [[Formal logic]]
+- [[Formal proof]]
+- [[Formal language]]
+- [[Logical truth]]
+- [[Logical fallacy]]
+- [[Logical connective]]
+- [[Logical disjunction]]
+- [[Logical equivalence]]
+- [[Logical consequence]]
+- [[Affirming the consequent]]
+- [[Universal statement]]
+- [[Conditional statement]]
+- [[Existential statement]]
+- [[Logical notation]]
+# Sub indices
+---
+- [[Propositional calculus (index)]]

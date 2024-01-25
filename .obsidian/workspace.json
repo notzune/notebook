@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80feb2190df2dc26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete probability distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca59f80ef213128d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics (index).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "5912667714890064",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics (index).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics (index).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics (index).md"
+                "file": "README.md"
               }
             }
           }
@@ -164,34 +150,34 @@
   },
   "active": "ca59f80ef213128d",
   "lastOpenFiles": [
-    "Discrete probability distribution.md",
+    "Network Theory (index).md",
+    "README.md",
+    "Set theory (index).md",
+    "Combinatorics (index).md",
+    "Number Theory (index).md",
+    "Graph Theory (index).md",
+    "Discrete math (index).md",
     "Mathematics (index).md",
+    "Coefficient.md",
+    "Geometry (index).md",
+    "Complex conjugate.md",
+    "Abstraction (mathematics).md",
+    "Set difference.md",
+    "Element.md",
+    "Modulo.md",
+    "Logic (index).md",
+    "Propositional calculus (index).md",
+    "Proposition.md",
+    "Propositional calculus.md",
+    "Affirming the consequent.md",
+    "Logical notation.md",
     "Probability and statistics (index).md",
+    "Discrete probability distribution.md",
     "Probability measure.md",
     "Probability mass function.md",
     "Domain.md",
-    "Statistics.md",
-    "Hypergeometric distribution.md",
-    "Probability distribution.md",
-    "Combination.md",
     "publish.css",
-    "Combinatorics (index).md",
-    "Combinatorics.md",
-    "README.md",
-    "Antecedent.md",
-    "Argument of a function.md",
-    "Algebra.md",
-    "Angle.md",
-    "Antisymmetric relation.md",
-    "Abstract data type.md",
-    "* (operation).md",
-    "Universal existential statements.md",
     "obsidian.css",
-    "Moment of inertia.md",
-    "Central moment.md",
-    "Binary operation.md",
-    "Partition (probability theory).md",
-    "Partition (set theory).md",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",
     "templates",

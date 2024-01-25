@@ -1,4 +1,4 @@
-a multiple-conclusion logic is one in which [[Logical consequence|logical consequence]] is a [[Relation|relation]], $\vdash$, between two [[Sets|sets]] of sentences (or [[Proposistion|propositions]]). 
+a multiple-conclusion logic is one in which [[Logical consequence|logical consequence]] is a [[Relation|relation]], $\vdash$, between two [[Sets|sets]] of sentences (or [[Proposition|propositions]]). 
 
 $$
 \Gamma\vdash\Delta

@@ -1,4 +1,4 @@
-in math, a coefficient is a multiplicative factor involved in some term of a [[Polynomial|polynomial]], a [[Series|series]] or an expression. it may be a number ([[Dimensionless|dimensionless]]), in which case it is known as a numerical factor. it may also be a [[Constant|constant]] with units of measurement, in which it is known as a constant multiplier.
+in mathematics, a coefficient is a multiplicative factor involved in some term of a [[Polynomial|polynomial]], a [[Series|series]] or an expression. it may be a number ([[Dimensionless|dimensionless]]), in which case it is known as a numerical factor. it may also be a [[Constant|constant]] with units of measurement, in which it is known as a constant multiplier.
 
 in general, coefficients may be any expression (including variables such as $a$, $b$, and $c$).
 

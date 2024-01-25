@@ -1,1 +1,1 @@
-a [[Proposistion|statement]] that says that something is true for all [[Element|elements]] in a [[Sets|set]].
+a [[Proposition|statement]] that says that something is true for all [[Element|elements]] in a [[Sets|set]].

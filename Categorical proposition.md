@@ -1,4 +1,4 @@
-in [[Logic|logic]], a categorical proposition (or categorical statement) is a [[Proposistion|proposition]] that asserts or denies that all or some of the members of one category (the subject term) are included in another (the predicate term).
+in [[Logic|logic]], a categorical proposition (or categorical statement) is a [[Proposition|proposition]] that asserts or denies that all or some of the members of one category (the subject term) are included in another (the predicate term).
 
 the  study of [[Argument|arguments]] (such as [[Syllogism|syllogism]]) forms an important branch of [[Deductive reasoning|deductive reasoning]] and has identified four primary distinct types of categorical proposition:
 

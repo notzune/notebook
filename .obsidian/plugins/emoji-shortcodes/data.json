@@ -1,0 +1,11 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":card_file_box:",
+    ":file_cabinet:",
+    ":abacus:"
+  ]
+}
