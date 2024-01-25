@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0a67692b4409f63b",
+        "id": "14c218a9d9b86254",
         "type": "tabs",
         "children": [
           {
-            "id": "4513a8e87be318c5",
+            "id": "80feb2190df2dc26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and statistics (index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c89120895e0d7a05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6ffb9dd5393011e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Combination.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "5912667714890064",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Combination.md"
               }
             }
           }
@@ -167,11 +148,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6ffb9dd5393011e",
+  "active": "80feb2190df2dc26",
   "lastOpenFiles": [
-    "Probability and statistics (index).md",
     "Combinatorics (index).md",
+    "Combinatorics.md",
+    "Probability and statistics (index).md",
     "README.md",
+    "Antecedent.md",
+    "Argument of a function.md",
+    "Algebra.md",
+    "Angle.md",
+    "Antisymmetric relation.md",
+    "Abstract data type.md",
+    "* (operation).md",
+    "Universal existential statements.md",
+    "obsidian.css",
     "Moment of inertia.md",
     "Central moment.md",
     "Binary operation.md",
@@ -186,15 +177,6 @@
     "Computer architecture.md",
     "Combination.md",
     "Table of Contents.md",
-    "Probability theory (index).md",
-    "Permutation.md",
-    "Statistics.md",
-    "Proof theory.md",
-    "Probability.md",
-    "Binomial coefficient.md",
-    "Pascal's triangle.md",
-    "Pascal's rule.md",
-    "Combinatorics.md",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",
     "templates",
