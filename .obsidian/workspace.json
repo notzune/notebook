@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and statistics (index).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and statistics (index).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and statistics (index).md"
+                "file": "README.md"
               }
             }
           }
@@ -167,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4513a8e87be318c5",
+  "active": "c6ffb9dd5393011e",
   "lastOpenFiles": [
     "Probability and statistics (index).md",
     "Combinatorics (index).md",
