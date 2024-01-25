@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "5912667714890064",
@@ -151,9 +150,14 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Probability.md",
+    "Probability theory (index).md",
     "Combination.md",
     "Permutation.md",
+    "Table of Contents.md",
+    "README.md",
+    "Statistics.md",
+    "Proof theory.md",
+    "Probability.md",
     "Java Virtual Machine (JVM).md",
     "Binomial coefficient.md",
     "Pascal's triangle.md",
@@ -166,7 +170,6 @@
     "Total order.md",
     "Transitive relation.md",
     "Relation.md",
-    "README.md",
     "Reflexive relation.md",
     "Unary relation.md",
     "Graph.md",
@@ -175,10 +178,6 @@
     "Partially ordered set.md",
     "Antisymmetric relation.md",
     "Multiset.md",
-    "* (operation).md",
-    "Deductive reasoning.md",
-    "Derivative.md",
-    "templates/Update Publish Files.md",
     "templates",
     "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",

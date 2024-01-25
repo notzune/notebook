@@ -8,7 +8,7 @@ $$
 C^n_k=\binom{n}{k}=\frac{n!}{(n-k)!\space k!}
 $$
 
-if the set has $n$ elements, the number of $k$-combinations (denoted by $C(n,k)$ or $C^n_k$) is equal to the [[Binomial coefficient|binomial coefficient]].
+if the set has $n$ elements, the number f $k$-combinations (denoted by $C(n,k)$ or $C^n_k$) is equal to the [[Binomial coefficient|binomial coefficient]].
 
 combinations with replacement (in which repetition is allowed) would be referred to as $k$-combination with repetition, or $k$-[[Multiset|multiset]].
 

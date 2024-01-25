@@ -1,4 +1,6 @@
-my personal notebook that i use for my studies and project planning.
+my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. if you see any spelling or grammar errors that i never fixed or caught, feel free to email me:
+
+zrashed02@gmail.com
 ## Table of Contents
 ### Mathematics
 - [[Algebra]]
