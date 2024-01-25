@@ -15,16 +15,15 @@ combinations with replacement (in which repetition is allowed) would be referred
 ## Shortcuts
 
 $$
-C^n_1=\binom{n}{1}=\frac{n!}{(n-1)!\space1!}=n
-$$
-$$
-C^n_2=\binom{n}{2}=\frac{n!}{(n-2)!\space2!}=\frac{n(n-1)}{2}
-$$
-$$
-C^n_{n-1}=\binom{n}{n-1}=\frac{n!}{1!\space(n-1)!}=n
-$$
-$$
-C^n_n=\binom{n}{n}=\frac{n!}{0!\space n!}=1
+\begin{align}
+C^n_1&=\binom{n}{1}=\frac{n!}{(n-1)!\space1!}=n \\
+\\
+C^n_2&=\binom{n}{2}=\frac{n!}{(n-2)!\space2!}=\frac{n(n-1)}{2} \\
+\\
+C^n_{n-1}&=\binom{n}{n-1}=\frac{n!}{1!\space(n-1)!}=n \\
+\\
+C^n_n&=\binom{n}{n}=\frac{n!}{0!\space n!}=1
+\end{align}
 $$
 
 ## Example problems
