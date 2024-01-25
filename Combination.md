@@ -13,3 +13,18 @@ for example, given three fruits (apple, orange, banana) there are three differen
 if the set has $n$ elements, the number of $k$-combinations (denoted by $C(n,k)$ or $C^n_k$) is equal to the [[Binomial coefficient|binomial coefficient]].
 
 combinations with replacement (in which repetition is allowed) would be referred to as $k$-combination with repetition, or $k$-[[Multiset|multiset]].
+
+## Shortcuts
+
+$$
+C^n_1=\binom{n}{1}=\frac{n!}{(n-1)!\space1!}=n
+$$
+$$
+C^n_2=\binom{n}{2}=\frac{n!}{(n-2)!\space2!}=\frac{n(n-1)}{2}
+$$
+$$
+C^n_{n-1}=\binom{n}{n-1}=\frac{n!}{1!\space(n-1)!}=n
+$$
+$$
+C^n_n=\binom{n}{n}=\frac{n!}{0!\space n!}=1
+$$

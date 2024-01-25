@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Combination.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binomial coefficient.md"
+                "file": "Combination.md"
               }
             }
           }
@@ -151,13 +151,15 @@
   },
   "active": "c9bffacabebd8e89",
   "lastOpenFiles": [
-    "Recent new files.md",
     "Binomial coefficient.md",
-    "Recently edited.md",
+    "Combination.md",
     "Pascal's triangle.md",
+    "Pascal's rule.md",
+    "Combinatorics.md",
+    "Recent new files.md",
+    "Recently edited.md",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",
-    "Combination.md",
     "Permutation.md",
     "Total order.md",
     "Transitive relation.md",
@@ -170,7 +172,6 @@
     "Ordered pair.md",
     "Partially ordered set.md",
     "Antisymmetric relation.md",
-    "Combinatorics.md",
     "Multiset.md",
     "* (operation).md",
     "Deductive reasoning.md",
