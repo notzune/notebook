@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combination.md",
+                "file": "Probability and statistics (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combination.md",
+                "file": "Probability and statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combination.md",
+                "file": "Probability and statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combination.md"
+                "file": "Probability and statistics (index).md"
               }
             }
           }
@@ -150,6 +151,15 @@
   },
   "active": "80feb2190df2dc26",
   "lastOpenFiles": [
+    "Discrete probability distribution.md",
+    "Probability measure.md",
+    "Probability mass function.md",
+    "Domain.md",
+    "Statistics.md",
+    "Hypergeometric distribution.md",
+    "Probability distribution.md",
+    "Combination.md",
+    "publish.css",
     "Combinatorics (index).md",
     "Combinatorics.md",
     "Probability and statistics (index).md",
@@ -169,14 +179,6 @@
     "Partition (probability theory).md",
     "Partition (set theory).md",
     "Baye's theorem.md",
-    "Conditional probability distribution.md",
-    "Probability of event intersections.md",
-    "Probabilities of event intersections.md",
-    "Cumulative distribution function (CDF).md",
-    "Java Virtual Machine (JVM).md",
-    "Computer architecture.md",
-    "Combination.md",
-    "Table of Contents.md",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",
     "templates",

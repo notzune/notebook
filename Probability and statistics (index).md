@@ -15,7 +15,6 @@
 - [[Probabilities of event intersections]]
 - [[Complement (probability)]]
 - [[Law of total probability]]
-- [[Probability distribution]]
 - [[Binomial coefficient]]
 - [[Posterior probability]]
 - [[Expected value]]
@@ -36,6 +35,12 @@
 - [[Squared deviations from the mean (SDM)]]
 - [[Weighted arithmetic mean]]
 - [[Prior probability distribution]]
+- [[Probability measure]]
+- [[Hypergeometric distribution]]
+- [[Probability mass function]]
+- [[Discrete probability distribution]]
+- [[Probability distribution]]
+- [[Conditional probability distribution]]
 
 # Sub-indices
 ---
