@@ -21,6 +21,7 @@
 - [[Partition (probability theory)]]
 - [[Odds]]
 - [[Likelihood function]]
+- [[σ-algebra]]
 
 - [[Statistics]]
 - [[Parameter (statistics)]]
