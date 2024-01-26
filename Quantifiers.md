@@ -1,0 +1,3 @@
+words that describe an entire [[Sets|set]], such as “all”, “every”, or “none”, are called [[Universal quantifier|universal quantifiers]] because that set could be considered a [[Universal set|universal set]]. 
+
+in contrast, words or phrases such as “some”, “one”, or “at least one” are called [[Existential quantifier|existential quantifiers]] because they describe the existence of at least one [[Element|element]] in a set.

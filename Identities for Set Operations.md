@@ -9,4 +9,4 @@ this being said we are introduced to the identities of set operations:
 - [[Associativity of sets]]
 - [[Commutativity of sets]]
 - [[Distributive laws of sets]]
-- [[Identity elements of Sets]]
+- [[Identity elements of sets]]

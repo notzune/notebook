@@ -22,7 +22,3 @@ for example, $\{1,2\}$ is a subset of $\{1,2,3\}$ and so is $\{2\}$ but $\{1,4\}
 as implied by its definition, a set is a subset of itself. for cases where this possibility would make sense to be rejected, the term [[Proper subset|proper subset]] is defined.
 
 $A$ is called a [[Proper subset|proper subset]] of $B$ if and only if $A$ is a subset of $B$ but $A$ is not equal to $B$.
-
-[[README]]
-[[README]]
-[[indices_summary]]

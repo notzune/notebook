@@ -1,0 +1,3 @@
+# Index
+---
+- [[Linear algebra]]

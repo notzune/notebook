@@ -4,7 +4,8 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 ### 🗄 [[Mathematics (index)|Mathematical Concepts]]
 
-- 🗃 [[Discrete Math (index)|Discrete Math]]
+- 🗃[[Arithmetic (index)|Arithmetic]]
+- 🗃 [[Discrete Mathematics (index)|Discrete Math]]
     - 🗃 [[Combinatorics (index)|Combinatorics]]
     - 🗃 [[Set Theory (index)|Set Theory]]
     - 🗃 [[Graph Theory (index)|Graph Theory]]

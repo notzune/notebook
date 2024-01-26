@@ -1,14 +1,31 @@
 # Index
 ---
-- [[Quadratic formula]]
-- [[Quadratic equation]]
-- [[Pythagorean theorem]]
-- [[Euclidean plane]]
+- [[Angle]]
+- [[Cartesian coordinate system]]
 - [[Cartesian plane]]
+- [[Congruence]]
+- [[Elliptic geometry]]
+- [[Euclidean plane]]
+- [[Euclidean space]]
+- [[Geometric transformation]]
+- [[Hyperbolic angle]]
+- [[Hyperbolic functions]]
 - [[Hyperbolic geometry]]
+- [[Improper rotation]]
+- [[Isometry]]
+- [[Isometry group]]
+- [[Metric space]]
+- [[Motion]]
 - [[Parabola]]
+- [[Pythagorean theorem]]
+- [[Quadratic equation]]
+- [[Quadratic formula]]
+- [[Rigid motions]]
+- [[Rotation]]
+- [[Similarity]]
+- [[Slope]]
+- [[Translation]]
 
 ## Sub indices
 ---
 - [[Trigonometry (index)]]
-- 

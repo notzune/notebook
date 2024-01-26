@@ -8,7 +8,7 @@ a set is a singleton if and only if its [[Cardinality|cardinality]] is $1$.
 
 in [[Set-theoretic definition of natural numbers|von Nuemann's set-theoretic construction of the natural numbers]], the number $1$ is defined as the singleton $\{0\}$.
 
-in axiomatic set theory, the existence of singletons is a [[Logical consequence|consequence]] of the [[Axiom of Pairing|axiom of pairing]]: for any set $A$, the axiom applied to $A$ and $A$ assets the existence of $\{A,A\}$, which is the same as the singleton $\{A\}$ (since it contains $A$, and no other set, as an element).
+in axiomatic set theory, the existence of singletons is a [[Logical consequence|consequence]] of the [[Axiom of pairing|axiom of pairing]]: for any set $A$, the axiom applied to $A$ and $A$ assets the existence of $\{A,A\}$, which is the same as the singleton $\{A\}$ (since it contains $A$, and no other set, as an element).
 
 if $A$ is any set and $S$ is any singleton, then there exists precisely one [[Function|function]] from $A$ to $S$, the function sending every element of $A$ to the single element of $S$.
 

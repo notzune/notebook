@@ -4,7 +4,7 @@ commonly, the allowed functions are $n$th root, [[Exponential function|exponenti
 
 however, the set of functions depends on the context.
 
-the closed-form problem arises when new ways are introduced for specifying mathematical objects, such as [[Limit|limits]], [[Series|series]] and [[Integrals|integrals]]: the problem is to determine whether it's possible to express these objects using simpler, more direct expressions based on previously established mathematical operations.
+the closed-form problem arises when new ways are introduced for specifying mathematical objects, such as [[Limit|limits]], [[Series|series]] and [[Integral|integrals]]: the problem is to determine whether it's possible to express these objects using simpler, more direct expressions based on previously established mathematical operations.
 
 ## Example
 
