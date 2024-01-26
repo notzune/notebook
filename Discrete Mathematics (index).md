@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Algorithm]]
 - [[Binary]]
 - [[Binary number]]
 - [[Cartesian product]]
@@ -11,8 +12,8 @@
 - [[Sets]]
 - [[Set theory notation]]
 - [[Singleton]]
+- [[Tuple]]
 - [[Venn Diagram]]
-- [[Algorithm]]
 
 # Sub indices
 ---
