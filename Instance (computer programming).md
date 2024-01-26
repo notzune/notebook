@@ -1,0 +1,1 @@
+in [[Object-Oriented Programming|object-oriented programming]], an instance is a concrete occurance of any [[Object (computer science)|object]], existing usually during the runtime of a computer program.

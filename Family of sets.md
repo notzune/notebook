@@ -3,4 +3,4 @@ in [[Set theory|set theory]] and related branches of mathematics, a family (or c
 - [[Sets|set]]
 - [[Indexed family|indexed set]]
 - [[Multiset|multiset]]
-- [[Class|class]]
+- [[Class (set theory)|class]]

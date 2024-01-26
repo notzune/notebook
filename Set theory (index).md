@@ -4,6 +4,7 @@
 - [[Axiom of extension]]
 - [[Axiom of pairing]]
 - [[Cartesian product]]
+- [[Class (set theory)]]
 - [[Complement]]
 - [[Disjoint sets]]
 - [[Element]]

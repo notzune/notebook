@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm.md",
+                "file": "Object-Oriented Programming (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Programming (index).md",
+                "file": "Single responsibility principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-Oriented Programming (index).md",
+                "file": "Single responsibility principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object-Oriented Programming (index).md",
+                "file": "Single responsibility principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Programming (index).md"
+                "file": "Single responsibility principle.md"
               }
             }
           }
@@ -168,14 +168,20 @@
   },
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
+    "Object-Oriented Programming (index).md",
+    "Involution.md",
+    "Set Theory (index).md",
+    "Single responsibility principle.md",
+    "Class (computer programming).md",
+    "Instance (computer programming).md",
+    "Class (set theory).md",
+    "Algebra (index).md",
+    "Algorithm.md",
+    "SOLID.md",
     "README.md",
     "Programming languages (index).md",
-    "Object-Oriented Programming (index).md",
-    "SOLID.md",
     "Object-Oriented Programming.md",
     "Databases (index).md",
-    "Algorithm.md",
-    "Algebra (index).md",
     "Algorithms and Data Structures (index).md",
     "Discrete Mathematics (index).md",
     "Mathematics (index).md",
@@ -188,12 +194,6 @@
     "Probability and Statistics (index).md",
     "Standard deviation.md",
     "Communications (index).md",
-    "Computer Networks (index).md",
-    "Host (network).md",
-    "Computer programming.md",
-    "Computer networking.md",
-    "Baye's theorem.md",
-    "Trigonometry (index).md",
     "publish.css",
     "obsidian.css",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
