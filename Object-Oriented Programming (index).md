@@ -1,5 +1,7 @@
-Index
+# Index
 ---
-- [[Object-Oriented Programming]]
+- [[GRASP]]
+- [[Inheritance (object-oriented programming)]]
 - [[Java]]
+- [[Object-Oriented Programming]]
 - [[SOLID]]

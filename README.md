@@ -1,6 +1,6 @@
 my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. if you see any spelling or grammar errors that i never fixed or caught, feel free to email me: zmr15@scarletmail.rutgers.edu
    
-## Table of Contents
+## Table o f Contents
 
 ### 🗄 [[Mathematics (index)|Mathematical Concepts]]
 
