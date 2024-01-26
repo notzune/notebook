@@ -3,6 +3,7 @@
 - [[Antisymmetric relation]]
 - [[Axiom of extension]]
 - [[Axiom of pairing]]
+- [[Cardinality]]
 - [[Cartesian product]]
 - [[Class (set theory)]]
 - [[Complement]]

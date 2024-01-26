@@ -4,6 +4,7 @@
 - [[Antecedent]]
 - [[Argument]]
 - [[Argument–deduction–proof distinctions]]
+- [[Comprehension]]
 - [[Conditional statement]]
 - [[Conditional statement]]
 - [[Converse (Logic)]]
@@ -15,6 +16,7 @@
 - [[Formal logic]]
 - [[Formal proof]]
 - [[Hypothetical syllogism]]
+- [[Intension]]
 - [[Logic]]
 - [[Logical connective]]
 - [[Logical consequence]]
@@ -34,6 +36,7 @@
 - [[Universal quantifier]]
 - [[Universal statement]]
 - [[Validity]]
+
 # Sub indices
 ---
 - [[Propositional calculus (index)]]

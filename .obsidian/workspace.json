@@ -6,6 +6,7 @@
       {
         "id": "14c218a9d9b86254",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2c8f712ac8bd1499",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Programming (index).md",
+                "file": "Domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "7ea98f62f9c18db5",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "c2c1fdadaf4d84a2",
@@ -31,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single responsibility principle.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single responsibility principle.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single responsibility principle.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single responsibility principle.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,32 +170,32 @@
   },
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
-    "Object-Oriented Programming (index).md",
-    "Involution.md",
-    "Set Theory (index).md",
-    "Single responsibility principle.md",
-    "Class (computer programming).md",
-    "Instance (computer programming).md",
-    "Class (set theory).md",
-    "Algebra (index).md",
-    "Algorithm.md",
-    "SOLID.md",
-    "README.md",
-    "Programming languages (index).md",
-    "Object-Oriented Programming.md",
-    "Databases (index).md",
-    "Algorithms and Data Structures (index).md",
-    "Discrete Mathematics (index).md",
-    "Mathematics (index).md",
-    "Computer science.md",
-    "Computation.md",
-    "Physics (index).md",
     "Signal Processing (index).md",
-    "Digital Signal Processing (index).md",
-    "Network Theory (index).md",
+    "Physics (index).md",
+    "Algorithm.md",
+    "Mathematics (index).md",
+    "Domain.md",
+    "Distributivity of multiplication over addition.md",
+    "Distributive property.md",
+    "Geometry (index).md",
+    "Distributive laws of sets.md",
+    "Constant.md",
+    "Displacement.md",
+    "Coordinates.md",
+    "Coordinate system.md",
+    "Converse (Logic).md",
+    "Continuous function.md",
+    "Constant function.md",
+    "Countable set.md",
+    "CPU.md",
+    "Cumulative distribution function (CDF).md",
+    "Curve.md",
+    "README.md",
     "Probability and Statistics (index).md",
-    "Standard deviation.md",
-    "Communications (index).md",
+    "Connected relation.md",
+    "Congruence relation.md",
+    "Conditional probability.md",
+    "Congruence.md",
     "publish.css",
     "obsidian.css",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",

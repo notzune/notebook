@@ -1,8 +1,6 @@
 # Index
 ---
-- [[Combinatorics]]
-- [[Permutation]]
 - [[Combination]]
+- [[Combinatorics]]
 - [[Factorial]]
-- [[Countable set]]
-- [[Uncountable set]]
+- [[Permutation]]

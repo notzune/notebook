@@ -1,5 +1,7 @@
 # Index
 ---
+- [[Binary]]
+- [[Binary number]]
 - [[Cartesian product]]
 - [[Matrices]]
 - [[Modular arithmetic]]

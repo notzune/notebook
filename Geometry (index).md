@@ -1,9 +1,15 @@
 # Index
 ---
+- [[Affine space]]
+- [[Affine transformation]]
 - [[Angle]]
 - [[Cartesian coordinate system]]
 - [[Cartesian plane]]
 - [[Congruence]]
+- [[Curvature]]
+- [[Curve]]
+- [[Displacement]]
+- [[Distance]]
 - [[Elliptic geometry]]
 - [[Euclidean plane]]
 - [[Euclidean space]]
@@ -14,6 +20,7 @@
 - [[Improper rotation]]
 - [[Isometry]]
 - [[Isometry group]]
+- [[Line]]
 - [[Metric space]]
 - [[Motion]]
 - [[Parabola]]
