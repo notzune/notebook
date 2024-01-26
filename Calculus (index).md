@@ -12,3 +12,4 @@
 ---
 - [[Differential Calculus (index)]]
 - [[Integral Calculus (index)]]
+- [[Multivariable Calculus (index)]]

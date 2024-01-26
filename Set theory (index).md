@@ -29,5 +29,7 @@
 - [[Subset]]
 - [[Symmetric relation]]
 - [[Union]]
+
 # Sub indices
 ---
+- [[Group Theory (index)]]
