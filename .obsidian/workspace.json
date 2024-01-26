@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics (index).md",
+                "file": "Indices/Mathematics (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics (index).md",
+                "file": "Indices/Mathematics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics (index).md",
+                "file": "Indices/Mathematics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics (index).md"
+                "file": "Indices/Mathematics (index).md"
               }
             }
           }
@@ -171,31 +171,32 @@
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
     "README.md",
-    "Operating Systems (index).md",
-    "Software Engineering (index).md",
-    "Domain.md",
-    "Operating system.md",
-    "Signal Processing (index).md",
-    "Physics (index).md",
-    "Algorithm.md",
-    "Mathematics (index).md",
-    "Distributivity of multiplication over addition.md",
-    "Distributive property.md",
-    "Geometry (index).md",
-    "Distributive laws of sets.md",
-    "Constant.md",
-    "Displacement.md",
-    "Coordinates.md",
-    "Coordinate system.md",
-    "Converse (Logic).md",
-    "Continuous function.md",
-    "Constant function.md",
-    "Countable set.md",
-    "CPU.md",
-    "Cumulative distribution function (CDF).md",
-    "Curve.md",
-    "Probability and Statistics (index).md",
-    "Connected relation.md",
+    "Indices/Graph Theory (index).md",
+    "Discrete Mathematics (index).md",
+    "Indices/Trigonometry (index).md",
+    "Indices/Signal Processing (index).md",
+    "Indices/Set Theory (index).md",
+    "Indices/Propositional calculus (index).md",
+    "Indices/Programming languages (index).md",
+    "Indices/Physics (index).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Indices/Number Theory (index).md",
+    "Indices/Network Theory (index).md",
+    "Indices/Mathematics (index).md",
+    "Indices/Logic (index).md",
+    "Indices/Linear Algebra (index).md",
+    "Indices/Group Theory (index).md",
+    "Indices/Geometry (index).md",
+    "Indices/Discrete Mathematics (index).md",
+    "Indices/Digital Signal Processing (index).md",
+    "Indices/Differential Calculus (index).md",
+    "Indices/Databases (index).md",
+    "Indices/Computer Networks (index).md",
+    "Indices/Communications (index).md",
+    "Indices/Circuit Theory (index).md",
+    "Indices/Calculus (index).md",
+    "Indices/Arithmetic (index).md",
+    "Indices",
     "publish.css",
     "obsidian.css",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
