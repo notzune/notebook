@@ -9,12 +9,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "2c8f712ac8bd1499",
+            "id": "f559365aa8840565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain.md",
+                "file": "Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Mathematics (index).md",
+                "file": "Indices/Physics (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Mathematics (index).md",
+                "file": "Indices/Physics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Mathematics (index).md",
+                "file": "Indices/Physics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Mathematics (index).md"
+                "file": "Indices/Physics (index).md"
               }
             }
           }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +169,14 @@
   },
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
+    "Physics.md",
+    "Indices/Physics (index).md",
+    "Scalar.md",
+    "Scalar multiplication.md",
+    "Vector space.md",
+    "Vector addition.md",
     "README.md",
+    "Indices/Mathematics (index).md",
     "Indices/Graph Theory (index).md",
     "Discrete Mathematics (index).md",
     "Indices/Trigonometry (index).md",
@@ -178,11 +184,9 @@
     "Indices/Set Theory (index).md",
     "Indices/Propositional calculus (index).md",
     "Indices/Programming languages (index).md",
-    "Indices/Physics (index).md",
     "Indices/Object-Oriented Programming (index).md",
     "Indices/Number Theory (index).md",
     "Indices/Network Theory (index).md",
-    "Indices/Mathematics (index).md",
     "Indices/Logic (index).md",
     "Indices/Linear Algebra (index).md",
     "Indices/Group Theory (index).md",
@@ -191,11 +195,6 @@
     "Indices/Digital Signal Processing (index).md",
     "Indices/Differential Calculus (index).md",
     "Indices/Databases (index).md",
-    "Indices/Computer Networks (index).md",
-    "Indices/Communications (index).md",
-    "Indices/Circuit Theory (index).md",
-    "Indices/Calculus (index).md",
-    "Indices/Arithmetic (index).md",
     "Indices",
     "publish.css",
     "obsidian.css",
