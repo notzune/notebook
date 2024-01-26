@@ -6,6 +6,7 @@
 - [[Arity]]
 - [[Associative property]]
 - [[Associative property]]
+- [[Algorithm]]
 - [[Base]]
 - [[Bijection]]
 - [[Binary functions]]

@@ -9,6 +9,8 @@
 - [[Sets]]
 - [[Set theory notation]]
 - [[Singleton]]
+- [[Venn Diagram]]
+- [[Algorithm]]
 
 # Sub indices
 ---
