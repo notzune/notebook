@@ -3,8 +3,10 @@
 - [[Derivation]]
 - [[Derivative]]
 - [[Integral]]
+- [[Leibniz's notation]]
 - [[Limit]]
 - [[Limit of a function]]
+- [[Linear function]]
 - [[Series]]
 - [[Taylor series]]
 

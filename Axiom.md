@@ -1,0 +1,1 @@
+an axiom, postulate, or assumption is a [[Statement (logic)|statement]] that is taken to be [[Validity|true]], to serve as a [[Premise|premise]] or starting point for further reasoning and arguments.

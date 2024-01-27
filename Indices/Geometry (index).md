@@ -14,6 +14,7 @@
 - [[Euclidean plane]]
 - [[Euclidean space]]
 - [[Geometric transformation]]
+- [[Geometric transformation]]
 - [[Hyperbolic angle]]
 - [[Hyperbolic functions]]
 - [[Hyperbolic geometry]]

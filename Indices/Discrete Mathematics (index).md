@@ -14,6 +14,7 @@
 - [[Singleton]]
 - [[Tuple]]
 - [[Venn Diagram]]
+- [[Family of sets]]
 
 # Sub indices
 ---

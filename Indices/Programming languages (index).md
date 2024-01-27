@@ -2,12 +2,15 @@
 ---
 - [[Computer programming]]
 - [[Functional programming]]
+- [[Function composition (computer science)]]
+- [[Function (computer programming)]]
+- [[Global variable]]
 - [[Java]]
+- [[Machine code]]
+- [[Machine code]]
 - [[Object-Oriented Programming]]
 - [[Programming language]]
 - [[Programming paradigm]]
-- [[Global variable]]
-- [[Machine code]]
 
 # Sub indices
 ---

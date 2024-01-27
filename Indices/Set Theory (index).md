@@ -7,13 +7,17 @@
 - [[Cartesian product]]
 - [[Class (set theory)]]
 - [[Complement]]
+- [[De Morgan's Laws]]
 - [[Disjoint sets]]
 - [[Element]]
 - [[Empty set]]
 - [[Enumeration]]
 - [[Equivalence relation]]
+- [[Homogeneous relation]]
+- [[Idempotent]]
 - [[Identities for set operations]]
 - [[Identity elements of sets]]
+- [[Infinite set]]
 - [[Intersection]]
 - [[Multiset]]
 - [[Partition (set theory)]]
@@ -31,6 +35,7 @@
 - [[Subset]]
 - [[Symmetric relation]]
 - [[Union]]
+- [[Zermelo set theory]]
 
 # Sub indices
 ---

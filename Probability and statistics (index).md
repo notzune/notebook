@@ -1,7 +1,5 @@
 # Index
 ---
-- [[Bayesian inference]]
-- [[Baye's theorem]]
 - [[Binomial coefficient]]
 - [[Central moment]]
 - [[Central tendency]]
@@ -10,10 +8,12 @@
 - [[Conditional probability distribution]]
 - [[Covariance]]
 - [[Cumulative distribution function (CDF)]]
+- [[Deviation]]
 - [[Discrete probability distribution]]
 - [[Disjoint event]]
 - [[Dispersion]]
 - [[Events]]
+- [[Expected value]]
 - [[Expected value]]
 - [[Hypergeometric distribution]]
 - [[Independence]]
@@ -23,6 +23,7 @@
 - [[Joint probability distribution]]
 - [[Law of total probability]]
 - [[Likelihood function]]
+- [[Marginal distribution]]
 - [[Mean]]
 - [[Odds]]
 - [[Outcome]]

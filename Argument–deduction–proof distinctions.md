@@ -14,4 +14,4 @@ a [[Deductive reasoning|deduction]] is a three-part system composed of premises,
 
 a [[Formal proof|proof]] is a deduction whose premises are known truths. 
 
-a proof of the [[Pythagorean theorem]] for example is a deduction that might use several premises – [[Axioms|axioms, postulates]], and definitions – and contain dozens of intermediate steps.
+a proof of the [[Pythagorean theorem]] for example is a deduction that might use several premises – [[Axiom|axioms, postulates]], and definitions – and contain dozens of intermediate steps.

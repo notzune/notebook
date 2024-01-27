@@ -4,3 +4,4 @@
 - [[Combinatorics]]
 - [[Factorial]]
 - [[Permutation]]
+- [[Linear recurrence with constant coefficients]]

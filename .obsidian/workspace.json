@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14c218a9d9b86254",
+        "id": "7ea98f62f9c18db5",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "f559365aa8840565",
+            "id": "c2c1fdadaf4d84a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Modular arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "7ea98f62f9c18db5",
+        "id": "6745ac35aa5673d6",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "c2c1fdadaf4d84a2",
+            "id": "29a2b607434a00c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 296.5
   },
   "right": {
     "id": "5912667714890064",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "Modular arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "Modular arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Physics (index).md"
+                "file": "Modular arithmetic.md"
               }
             }
           }
@@ -153,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,32 +168,32 @@
   },
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
-    "Physics.md",
-    "Indices/Physics (index).md",
-    "Scalar.md",
-    "Scalar multiplication.md",
-    "Vector space.md",
-    "Vector addition.md",
+    "Möbius transformation.md",
+    "Microprocessors and Microcontrollers (index).md",
+    "Microfabrication.md",
     "README.md",
+    "Microelectronics (index).md",
     "Indices/Mathematics (index).md",
-    "Indices/Graph Theory (index).md",
-    "Discrete Mathematics (index).md",
-    "Indices/Trigonometry (index).md",
-    "Indices/Signal Processing (index).md",
-    "Indices/Set Theory (index).md",
-    "Indices/Propositional calculus (index).md",
+    "Mean.md",
+    "Mathematical structure.md",
+    "Mathematical proof.md",
+    "Mathematical logic.md",
+    "Mathematical analysis.md",
+    "Marginal distribution.md",
+    "Probability and Statistics (index).md",
+    "Bayesian Statistics (index).md",
     "Indices/Programming languages (index).md",
-    "Indices/Object-Oriented Programming (index).md",
-    "Indices/Number Theory (index).md",
-    "Indices/Network Theory (index).md",
+    "Manifold.md",
+    "Machine code.md",
     "Indices/Logic (index).md",
-    "Indices/Linear Algebra (index).md",
-    "Indices/Group Theory (index).md",
-    "Indices/Geometry (index).md",
-    "Indices/Discrete Mathematics (index).md",
-    "Indices/Digital Signal Processing (index).md",
-    "Indices/Differential Calculus (index).md",
-    "Indices/Databases (index).md",
+    "Logical disjunction.md",
+    "Indices/Communications (index).md",
+    "Logical consequence.md",
+    "Logic.md",
+    "Local-Area Network (LAN).md",
+    "Computer Science (index).md",
+    "List.md",
+    "Combinatorics (index).md",
     "Indices",
     "publish.css",
     "obsidian.css",

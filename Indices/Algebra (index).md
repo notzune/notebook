@@ -2,6 +2,11 @@
 ---
 - [[Algebra]]
 - [[Elementary algebra]]
+- [[Function]]
+- [[Function application]]
+- [[Function composition]]
+- [[Inverse functions]]
+- [[Involution]]
 
 # Sub indices
 ---
