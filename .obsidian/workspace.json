@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photovoltaic effect.md",
+                "file": "Binary operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electromagnetism (index).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electromagnetism (index).md",
+                "file": "Binary operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electromagnetism (index).md",
+                "file": "Binary operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electromagnetism (index).md"
+                "file": "Binary operation.md"
               }
             }
           }
@@ -166,34 +167,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29a2b607434a00c9",
+  "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
-    "Photovoltaic effect.md",
-    "Electromagnetism (index).md",
-    "Indices/Physics (index).md",
+    "Vinculum.md",
     "README.md",
-    "Electric current.md",
-    "Electric charge.md",
-    "Chemistry (index).md",
-    "Perpendicularity.md",
-    "Permutation.md",
-    "Indices/Arithmetic (index).md",
-    "Floating-point arithmatic.md",
-    "Indices/Computer Programming (index).md",
-    "Indices/Object-Oriented Programming (index).md",
+    "Indices/Mathematics (index).md",
+    "Computer Science (index).md",
+    "Theoretical computer science (TCS).md",
+    "Indices/Communications (index).md",
+    "Ternary operation.md",
+    "Telecommunications link.md",
+    "Indices/Network Theory (index).md",
     "Indices/Geometry (index).md",
-    "Combinatorics (index).md",
-    "Periodic elements (index).md",
-    "Pascal's rule.md",
-    "Recursion.md",
-    "Partially ordered set.md",
-    "Indices/Set Theory (index).md",
-    "Order theory.md",
-    "Relations (subindex).md",
-    "Partial derivative.md",
-    "Partial order relation.md",
-    "Indices/Differential Calculus (index).md",
+    "Tangent.md",
+    "Indices/Logic (index).md",
+    "System.md",
+    "Symmetric relation.md",
+    "Syllogism.md",
     "Probability and Statistics (index).md",
+    "Standard deviation.md",
+    "Indices/Computer Programming (index).md",
+    "Solar cell.md",
+    "Slope.md",
+    "Source code.md",
+    "Singleton.md",
+    "Single responsibility principle.md",
+    "Similarity.md",
+    "Silicon.md",
+    "Silica.md",
     "Indices",
     "publish.css",
     "obsidian.css",

@@ -37,7 +37,9 @@
 - [[Operand]]
 - [[Operation]]
 - [[Radix]]
+- [[Sign]]
 - [[Surjective functions]]
+- [[Vinculum]]
 
 # Sub indices 
 ---

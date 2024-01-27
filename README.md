@@ -49,7 +49,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 ### 🗄 [[Computer Science (index)|Computer Science]]
 
 - 🗃 [[Algorithms and Data Structures (index)|Algorithms and Data Structures]]
-- 🗃 [[Computer Programming (index)|Programming Languages]]
+- 🗃 [[Computer Programming (index)|Programming]]
     - 🗃 [[Object-Oriented Programming (index)|Object-Oriented Programming]]
     - 🗃 [[Functional Programming (index)|Functional Programming]]
 - 🗃 [[Operating Systems (index)|Operating Systems]]

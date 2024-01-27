@@ -7,7 +7,6 @@
 - [[Axiom]]
 - [[Comprehension]]
 - [[Conditional statement]]
-- [[Conditional statement]]
 - [[Converse (Logic)]]
 - [[Deductive reasoning]]
 - [[Existential quantifier]]
@@ -19,6 +18,7 @@
 - [[Formal proof]]
 - [[Hypothetical syllogism]]
 - [[Intension]]
+- [[Inverse (Logic)]]
 - [[Logic]]
 - [[Logical connective]]
 - [[Logical consequence]]
@@ -33,14 +33,15 @@
 - [[Modus tollens]]
 - [[Multiple-conclusion logic]]
 - [[Quantifiers]]
+- [[Rule of inferences]]
 - [[Statement (logic)]]
+- [[Syllogism]]
 - [[Transposition]]
 - [[Universal conditional statement]]
 - [[Universal existential statements]]
 - [[Universal quantifier]]
 - [[Universal statement]]
 - [[Validity]]
-- [[Inverse (Logic)]]
 
 # Sub indices
 ---

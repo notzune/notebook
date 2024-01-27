@@ -24,6 +24,7 @@
 - [[Ordinal number]]
 - [[Partition (set theory)]]
 - [[Power sets]]
+- [[Proper subset]]
 - [[Reflexive relation]]
 - [[Relation]]
 - [[Set builder notation]]

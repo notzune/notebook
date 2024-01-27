@@ -7,6 +7,7 @@
 - [[Limit]]
 - [[Limit of a function]]
 - [[Linear function]]
+- [[Sequence]]
 - [[Series]]
 - [[Taylor series]]
 

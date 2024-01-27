@@ -8,6 +8,8 @@
 - [[Telecommunications link]]
 - [[Telecommunications network]]
 - [[Wide-Area Network (WAN)]]
+- [[Protocol]]
+- [[Internet protocol suite]]
 
 # Sub indices
 ---

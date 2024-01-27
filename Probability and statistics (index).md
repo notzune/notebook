@@ -37,6 +37,7 @@
 - [[Probability mass function]]
 - [[Probability measure]]
 - [[Probability theory]]
+- [[Replacement]]
 - [[Sample space]]
 - [[Squared deviations from the mean (SDM)]]
 - [[Standard deviation]]

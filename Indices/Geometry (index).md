@@ -33,6 +33,7 @@
 - [[Rotation]]
 - [[Similarity]]
 - [[Slope]]
+- [[Tangent]]
 - [[Translation]]
 
 ## Sub indices

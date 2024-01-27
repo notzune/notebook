@@ -14,6 +14,7 @@
 - [[Computing]]
 - [[Data type]]
 - [[List]]
+- [[Theoretical computer science (TCS)]]
 - [[Theory of computation]]
 - [[Time complexity]]
 - [[Tuple]]
