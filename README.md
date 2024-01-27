@@ -1,13 +1,12 @@
 my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. 
 
-## Contact me
----
+## Contact Me
+
 > If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
 > 
 > zmr15@scarletmail.rutgers.edu
 
 ## Table of Contents
----
 
 ### 🗄 [[Mathematics (index)|Mathematical Concepts]]
 
