@@ -4,7 +4,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 > If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
 > 
-> zmr15@scarletmail.rutgers.edu
+> zrashed02@gmail.com
 
 ## Table of Contents
 
