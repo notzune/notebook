@@ -9,7 +9,7 @@
 - [[Commutatives of addition and multiplication]]
 - [[Constant]]
 - [[Constant function]]
-- [[De Morgan's Laws]]∏
+- [[De Morgan's Laws]]
 - [[Distributive property]]
 - [[Distributivity of multiplication over addition]]
 - [[Empty product]]
