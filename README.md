@@ -1,6 +1,13 @@
-my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. if you see any spelling or grammar errors that i never fixed or caught, feel free to email me: zmr15@scarletmail.rutgers.edu
+my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. 
+
+## Contact me
+---
+> If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
+> 
+> zmr15@scarletmail.rutgers.edu
 
 ## Table of Contents
+---
 
 ### 🗄 [[Mathematics (index)|Mathematical Concepts]]
 
@@ -70,3 +77,5 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Robotics (index)|Robotics]]
 
 ### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
+
+- 🗃 [[Periodic elements (index)|Periodic elements]]

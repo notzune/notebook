@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea98f62f9c18db5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2c1fdadaf4d84a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary operation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6745ac35aa5673d6",
         "type": "tabs",
         "children": [
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary operation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary operation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary operation.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,10 +148,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2c1fdadaf4d84a2",
+  "active": "29a2b607434a00c9",
   "lastOpenFiles": [
-    "Vinculum.md",
+    "Microprocessors and Microcontrollers (index).md",
     "README.md",
+    "Binary operation.md",
+    "Vinculum.md",
     "Indices/Mathematics (index).md",
     "Computer Science (index).md",
     "Theoretical computer science (TCS).md",
@@ -193,8 +176,6 @@
     "Singleton.md",
     "Single responsibility principle.md",
     "Similarity.md",
-    "Silicon.md",
-    "Silica.md",
     "Indices",
     "publish.css",
     "obsidian.css",
