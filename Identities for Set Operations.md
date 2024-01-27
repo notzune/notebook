@@ -1,4 +1,4 @@
-all regular [[Operation Identities|operation identities]] hold true for set operations when considering (for sake of argument and simplicity) that:
+all regular [[Operation identities (subindex)|operation identities]] hold true for set operations when considering (for sake of argument and simplicity) that:
 
 - $\cup$ (union) behaves the same way as addition
 - $\cap$ (intersection) behaves similarly to multiplication

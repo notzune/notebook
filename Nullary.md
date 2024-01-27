@@ -1,4 +1,4 @@
-a [[Constant|constant]] can be treated as the output of an [[Operation|operation]] with [[Arity|arity]] 0, called a nullary operation.
+a [[Constant|constant]], can be treated as the output of an [[Operation|operation]] with [[Arity|arity]] 0, called a nullary operation.
 
 outside of [[Functional programming|functional programming]], a function without arguments can be meaningful and not necessarily constant.
 

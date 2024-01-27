@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modular arithmetic.md",
+                "file": "Operation identities (subindex).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Indices/Mathematics (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modular arithmetic.md",
+                "file": "Operation identities (subindex).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modular arithmetic.md",
+                "file": "Operation identities (subindex).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modular arithmetic.md"
+                "file": "Operation identities (subindex).md"
               }
             }
           }
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,32 +167,32 @@
   },
   "active": "c2c1fdadaf4d84a2",
   "lastOpenFiles": [
-    "Möbius transformation.md",
-    "Microprocessors and Microcontrollers (index).md",
-    "Microfabrication.md",
-    "README.md",
-    "Microelectronics (index).md",
+    "Operation identities (subindex).md",
     "Indices/Mathematics (index).md",
-    "Mean.md",
-    "Mathematical structure.md",
-    "Mathematical proof.md",
-    "Mathematical logic.md",
-    "Mathematical analysis.md",
-    "Marginal distribution.md",
-    "Probability and Statistics (index).md",
-    "Bayesian Statistics (index).md",
-    "Indices/Programming languages (index).md",
-    "Manifold.md",
-    "Machine code.md",
-    "Indices/Logic (index).md",
-    "Logical disjunction.md",
-    "Indices/Communications (index).md",
-    "Logical consequence.md",
-    "Logic.md",
-    "Local-Area Network (LAN).md",
-    "Computer Science (index).md",
-    "List.md",
-    "Combinatorics (index).md",
+    "Operating system.md",
+    "Surjective functions.md",
+    "Injective functions.md",
+    "Commutative property.md",
+    "Commutatives of addition and multiplication.md",
+    "Identity element.md",
+    "Identity elements of sets.md",
+    "Identities for set operations.md",
+    "Distributive laws of sets.md",
+    "Closure.md",
+    "README.md",
+    "Odds.md",
+    "Object-Oriented Programming.md",
+    "NVRAM.md",
+    "Number theory.md",
+    "Nullary.md",
+    "Functional programming.md",
+    "Indices/Calculus (index).md",
+    "Notation for differentiation.md",
+    "Indices/Differential Calculus (index).md",
+    "Non-volatile memory (NVM).md",
+    "Node (networking).md",
+    "Network science.md",
+    "Network layer.md",
     "Indices",
     "publish.css",
     "obsidian.css",

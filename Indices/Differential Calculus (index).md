@@ -10,6 +10,7 @@
 - [[Partial differential equation (PDE)]]
 - [[Separation of variables]]
 - [[Leibniz's notation]]
+- [[Notation for differentiation]]
 
 # Sub indices
 ---

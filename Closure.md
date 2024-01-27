@@ -1,4 +1,4 @@
-a [[Subset|subset]] of a given [[Sets|set]] is closed under an [[Operation|operation]] pf the larger set if performing that operation on members of the subset always produces a member of that subset.
+a [[Subset|subset]] of a given [[Sets|set]] is closed under an [[Operation|operation]] of the larger set if performing that operation on [[Element|members]] of the subset always produces a member of that subset.
 
 for example, the [[Natural numbers|natural numbers]] are closed under addition, but not under subtraction:
 

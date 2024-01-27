@@ -32,4 +32,4 @@
 - $|A|$
 	- used to denote [[Cardinality|cardinality]] 
 
-see also: [[Operation Identities|operation identities]] and [[Identities for set operations|set identities]]
+see also: [[Operation identities (subindex)|operation identities]] and [[Identities for set operations|set identities]]
