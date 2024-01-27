@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry (index).md"
+                "file": "Indices/Computer Programming (index).md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,6 +150,12 @@
   "active": "29a2b607434a00c9",
   "lastOpenFiles": [
     "Welcome to my notebook!.md",
+    "Bytecode.md",
+    "Execution.md",
+    "* (operation).md",
+    "dataview/Recently edited.md",
+    "dataview",
+    "Chemistry (index).md",
     "Periodic Elements (index).md",
     "Indices/Mathematics (index).md",
     "Microprocessors and Microcontrollers (index).md",
@@ -171,11 +176,6 @@
     "Probability and Statistics (index).md",
     "Standard deviation.md",
     "Indices/Computer Programming (index).md",
-    "Solar cell.md",
-    "Slope.md",
-    "Source code.md",
-    "Singleton.md",
-    "Single responsibility principle.md",
     "Indices",
     "publish.css",
     "obsidian.css",
