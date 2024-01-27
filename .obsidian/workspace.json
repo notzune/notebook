@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Chemistry (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Chemistry (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Chemistry (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "Chemistry (index).md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "29a2b607434a00c9",
   "lastOpenFiles": [
-    "Indices/Mathematics (index).md",
     "Welcome to my notebook!.md",
+    "Periodic Elements (index).md",
+    "Indices/Mathematics (index).md",
     "Microprocessors and Microcontrollers (index).md",
     "Binary operation.md",
     "Vinculum.md",
@@ -175,7 +176,6 @@
     "Source code.md",
     "Singleton.md",
     "Single responsibility principle.md",
-    "Similarity.md",
     "Indices",
     "publish.css",
     "obsidian.css",

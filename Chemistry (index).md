@@ -1,16 +1,16 @@
 # Index
 ---
-- [[Chemistry]]
-- [[Oxide]]
-- [[Oxidation state]]
-- [[Thermal oxidation]]
-- [[Chemical formula]]
 - [[Anion]]
+- [[Chemical formula]]
+- [[Chemistry]]
 - [[Dianion]]
 - [[Electrons]]
 - [[International System of Units]]
+- [[Oxidation state]]
+- [[Oxide]]
+- [[Thermal oxidation]]
 
 # Sub indices
 ---
 - [[Compounds (index)]]
-- [[Periodic elements (index)]]
+- [[Periodic Elements (index)]]

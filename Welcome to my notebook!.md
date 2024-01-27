@@ -77,4 +77,4 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 ### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
 
-- 🗃 [[Periodic elements (index)|Periodic elements]]
+- 🗃 [[Periodic Elements (index)|Periodic Elements]]
