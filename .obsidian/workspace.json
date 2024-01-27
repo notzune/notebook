@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zuner.xyz.md",
+                "file": "Welcome to my notebook!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zuner.xyz.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zuner.xyz.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zuner.xyz.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   "active": "29a2b607434a00c9",
   "lastOpenFiles": [
     "Indices/Mathematics (index).md",
-    "zuner.xyz.md",
+    "Welcome to my notebook!.md",
     "Microprocessors and Microcontrollers (index).md",
     "Binary operation.md",
     "Vinculum.md",
