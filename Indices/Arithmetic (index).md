@@ -8,3 +8,4 @@
 - [[Multiplicative inverse]]
 - [[Multiplicity]]
 - [[* (operation)]]
+- [[Floating-point arithmatic]]

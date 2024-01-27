@@ -1,6 +1,8 @@
 # Index
 ---
+- [[Abstraction layer]]
 - [[Computer programming]]
+- [[Coupling (computer programming)]]
 - [[Functional programming]]
 - [[Function composition (computer science)]]
 - [[Function (computer programming)]]

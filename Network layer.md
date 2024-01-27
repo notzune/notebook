@@ -1,4 +1,4 @@
-in the seven-layer [[OSI model]] of [[Computer networking|computer networking]], the network layer is layer 3.
+in the seven-layer [[OSI model (subindex)]] of [[Computer networking|computer networking]], the network layer is layer 3.
 
 the network layer is responsible for [[Packet forwarding|packet forwarding]] including [[Routing|routing]] through intermediate [[Router|routers]].
 

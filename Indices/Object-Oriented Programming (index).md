@@ -7,4 +7,5 @@
 - [[Java]]
 - [[Object (computer science)]]
 - [[Object-Oriented Programming]]
+- [[Pointer (computer programming)]]
 - [[SOLID]]

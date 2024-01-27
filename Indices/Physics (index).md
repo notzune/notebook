@@ -1,9 +1,6 @@
 # Index
 ---
-- [[Coulomb]]
-- [[Electric charge]]
-- [[Electric current]]
-- [[Electrons]]
+- [[International System of Units]]
 - [[Moment]]
 - [[Moment of inertia]]
 - [[Physics]]
@@ -12,3 +9,7 @@
 - [[Vector addition]]
 - [[Vectors]]
 - [[Vector space]]
+
+# Sub indices
+---
+- [[Electromagnetism (index)]]

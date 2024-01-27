@@ -1,0 +1,16 @@
+# Index
+---
+- [[Antisymmetric relation]]
+- [[Binary relation]]
+- [[Congruence relation]]
+- [[Connected relation]]
+- [[Equivalence relation]]
+- [[Homogeneous relation]]
+- [[Partial order relation]]
+- [[Recurrence relation]]
+- [[Reflexive relation]]
+- [[Relation]]
+- [[Symmetric relation]]
+- [[Total order relation]]
+- [[Transitive relation]]
+- [[Unary relation]]

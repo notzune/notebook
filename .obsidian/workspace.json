@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operation identities (subindex).md",
+                "file": "Photovoltaic effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Mathematics (index).md",
+                "file": "Electromagnetism (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operation identities (subindex).md",
+                "file": "Electromagnetism (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operation identities (subindex).md",
+                "file": "Electromagnetism (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operation identities (subindex).md"
+                "file": "Electromagnetism (index).md"
               }
             }
           }
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,34 +166,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2c1fdadaf4d84a2",
+  "active": "29a2b607434a00c9",
   "lastOpenFiles": [
-    "Operation identities (subindex).md",
-    "Indices/Mathematics (index).md",
-    "Operating system.md",
-    "Surjective functions.md",
-    "Injective functions.md",
-    "Commutative property.md",
-    "Commutatives of addition and multiplication.md",
-    "Identity element.md",
-    "Identity elements of sets.md",
-    "Identities for set operations.md",
-    "Distributive laws of sets.md",
-    "Closure.md",
+    "Photovoltaic effect.md",
+    "Electromagnetism (index).md",
+    "Indices/Physics (index).md",
     "README.md",
-    "Odds.md",
-    "Object-Oriented Programming.md",
-    "NVRAM.md",
-    "Number theory.md",
-    "Nullary.md",
-    "Functional programming.md",
-    "Indices/Calculus (index).md",
-    "Notation for differentiation.md",
+    "Electric current.md",
+    "Electric charge.md",
+    "Chemistry (index).md",
+    "Perpendicularity.md",
+    "Permutation.md",
+    "Indices/Arithmetic (index).md",
+    "Floating-point arithmatic.md",
+    "Indices/Computer Programming (index).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Indices/Geometry (index).md",
+    "Combinatorics (index).md",
+    "Periodic elements (index).md",
+    "Pascal's rule.md",
+    "Recursion.md",
+    "Partially ordered set.md",
+    "Indices/Set Theory (index).md",
+    "Order theory.md",
+    "Relations (subindex).md",
+    "Partial derivative.md",
+    "Partial order relation.md",
     "Indices/Differential Calculus (index).md",
-    "Non-volatile memory (NVM).md",
-    "Node (networking).md",
-    "Network science.md",
-    "Network layer.md",
+    "Probability and Statistics (index).md",
     "Indices",
     "publish.css",
     "obsidian.css",

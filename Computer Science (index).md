@@ -21,4 +21,4 @@
 # Sub indices
 ---
 - [[Algorithms and Data Structures (index)]]
-- [[Programming languages (index)]]
+- [[Computer Programming (index)]]

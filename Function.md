@@ -27,5 +27,5 @@ for example, in the [[Logarithmic functions|logarithmic function]] $f(x) = \log_
 - [[Injective functions]]
 - [[Inverse functions]]
 - [[Logarithmic functions]]
-- [[Orthogonal Functions]]
+- [[Orthogonal functions]]
 - [[Surjective functions]]

@@ -13,6 +13,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 		- 🗃[[Propositional calculus (index)|Propositional calculus]]
     - 🗃 [[Number Theory (index)|Number Theory]]
     - 🗃 [[Set Theory (index)|Set Theory]]
+	    - 🗃 [[Relations (subindex)|Relations]]
 - 🗃 [[Algebra (index)|Algebra]]
     - 🗃 [[Linear Algebra (index)|Linear Algebra]]
     - 🗃 [[Abstract Algebra (index)|Abstract Algebra]]
@@ -48,7 +49,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 ### 🗄 [[Computer Science (index)|Computer Science]]
 
 - 🗃 [[Algorithms and Data Structures (index)|Algorithms and Data Structures]]
-- 🗃 [[Programming Languages (index)|Programming Languages]]
+- 🗃 [[Computer Programming (index)|Programming Languages]]
     - 🗃 [[Object-Oriented Programming (index)|Object-Oriented Programming]]
     - 🗃 [[Functional Programming (index)|Functional Programming]]
 - 🗃 [[Operating Systems (index)|Operating Systems]]
@@ -59,7 +60,7 @@ my personal notebook that i use for my studies and project planning. eventually 
     - 🗃 [[Machine Learning (index)|Machine Learning]]
     - 🗃 [[Natural Language Processing (index)|Natural Language Processing]]
 
-### 🗄 [[Computer Engineering (index)|Computer Engineering]]
+### 🏗🚧 🗄 [[Computer Engineering (index)|Computer Engineering]]
 
 - 🗃 [[Digital Logic Design (index)|Digital Logic Design]]
 - 🗃 [[Microprocessors and Microcontrollers (index)|Microprocessors and Microcontrollers]]
@@ -67,3 +68,5 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[VLSI Design (index)|VLSI Design]]
 - 🗃 [[Computer Architecture (index)|Computer Architecture]]
 - 🗃 [[Robotics (index)|Robotics]]
+
+### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 

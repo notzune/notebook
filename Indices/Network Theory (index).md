@@ -4,7 +4,6 @@
 - [[Computer networking]]
 - [[Encapsulation (networking)]]
 - [[Host (network)]]
-- [[Network layer]]
 - [[Network packet]]
 - [[Network science]]
 - [[Network theory]]
@@ -15,3 +14,4 @@
 ---
 - [[Computer Networks (index)]]
 - [[Graph Theory (index)]]
+- [[OSI model (subindex)]]

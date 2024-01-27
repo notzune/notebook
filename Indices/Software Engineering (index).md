@@ -6,4 +6,4 @@
 
 # Sub indices
 ---
-- [[Programming languages (index)]]
+- [[Computer Programming (index)]]

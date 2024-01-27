@@ -20,6 +20,8 @@
 - [[Infinite set]]
 - [[Intersection]]
 - [[Multiset]]
+- [[Ordinality]]
+- [[Ordinal number]]
 - [[Partition (set theory)]]
 - [[Power sets]]
 - [[Reflexive relation]]
@@ -40,3 +42,4 @@
 # Sub indices
 ---
 - [[Group Theory (index)]]
+- [[Relations (subindex)]]

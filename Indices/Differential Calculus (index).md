@@ -6,11 +6,12 @@
 - [[Differential equations]]
 - [[Differentiation]]
 - [[Differentiation rules]]
-- [[Ordinary differential equation (ODE)]]
-- [[Partial differential equation (PDE)]]
-- [[Separation of variables]]
 - [[Leibniz's notation]]
 - [[Notation for differentiation]]
+- [[Ordinary differential equation (ODE)]]
+- [[Partial derivative]]
+- [[Partial differential equation (PDE)]]
+- [[Separation of variables]]
 
 # Sub indices
 ---

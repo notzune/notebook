@@ -25,6 +25,7 @@
 - [[Metric space]]
 - [[Motion]]
 - [[Parabola]]
+- [[Perpendicularity]]
 - [[Pythagorean theorem]]
 - [[Quadratic equation]]
 - [[Quadratic formula]]

@@ -4,17 +4,18 @@
 - [[Binary]]
 - [[Binary number]]
 - [[Cartesian product]]
+- [[Family of sets]]
 - [[Matrices]]
 - [[Modular arithmetic]]
 - [[Modulo]]
 - [[Modulus]]
+- [[Parameter]]
 - [[Recursion]]
 - [[Sets]]
 - [[Set theory notation]]
 - [[Singleton]]
 - [[Tuple]]
 - [[Venn Diagram]]
-- [[Family of sets]]
 
 # Sub indices
 ---
