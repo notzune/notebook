@@ -12,6 +12,7 @@
 - [[Partial order relation]]
 - [[Prime number]]
 - [[Real numbers]]
+- [[Root of unity]]
 - [[Total order]]
 - [[Total order relation]]
 - [[Uncountable set]]

@@ -90,6 +90,8 @@ since $3^2\equiv2\pmod{7}$.
 
 # Recognizable patterns
 
+here are identities that are pretty commonly used patterns. in these examples, the variables $E$ and $F$ may represent any subexpression of the expression that has to be factorized.
+
 ## [[Difference of two squares]] 
 
 $$
@@ -111,6 +113,7 @@ $$
 $$
 \begin{align}
 E^3+F^3=(E+F)(E^2-EF+F^2) \\
+\\
 E^3-F^3=(E-F)(E^2+EF+F^2) \\
 \end{align}
 $$
@@ -143,3 +146,16 @@ $$
 E^n+F^n=(E+F)(E^{n-1}=E^{n-2}F+E^{n-3}F^2-\dots-EF^{n-2}+F{n-1})
 $$
 
+### Trinomials and cubic formulas
+
+$$
+\begin{align}
+&x^2+y^2+z^2+2(xy+yz+xz)=(x+y+z)^2 \\
+\\
+&x^3+y^3+z^3-3xyz=(x+y+z)(x^2+y^2+z^2-xy-xz-yz) \\
+\\
+&x^3+y^3+z^3+3x^2(y+z)+3y^2(x+z)+3x^2(x+y)+6xyz=(x+y+z)^3 \\
+\\
+&x^4+x^2y^2+y^4=(x^2+xy+y^2)(x^2-xy+y^2) \\
+\end{align}
+$$
