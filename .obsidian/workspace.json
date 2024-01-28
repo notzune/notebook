@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "331e7d31d37ee13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "* (operation).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "* (operation).md",
+                "file": "List of trigonometric identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "* (operation).md",
+                "file": "List of trigonometric identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "* (operation).md"
+                "file": "List of trigonometric identities.md"
               }
             }
           }
@@ -174,15 +162,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "331e7d31d37ee13f",
+  "active": "d7c1dc26c14d01d4",
   "lastOpenFiles": [
-    "Welcome to my notebook!.md",
     "List of trigonometric identities.md",
+    "Untitled.md",
+    "Screenshot 2024-01-28 at 1.18.57 PM.png",
+    "Pasted image 20240128131834.png",
+    "Factorization.md",
+    "Welcome to my notebook!.md",
+    "* (operation).md",
     "publish.css",
     "publish.cssx.css",
     "theme.css",
     "Indices/Trigonometry (index).md",
-    "Factorization.md",
     "Indices/Geometry (index).md",
     "Indices/Number Theory (index).md",
     "Indices/Algebra (index).md",
@@ -203,7 +195,6 @@
     "Fundamental theorem of arithmetic.md",
     "Prime number.md",
     "Composite number.md",
-    "Abstract data type.md",
     "dataview",
     "Indices",
     "obsidian.css",
@@ -216,7 +207,6 @@
     "I",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
-    "venn_diagrams.png",
-    "Pasted image 20240111012758.png"
+    "venn_diagrams.png"
   ]
 }
