@@ -2,6 +2,7 @@
 ---
 - [[Binary]]
 - [[Complex numbers]]
+- [[Composite number]]
 - [[Countable set]]
 - [[Imaginary numbers]]
 - [[Integer]]
@@ -9,6 +10,7 @@
 - [[Natural numbers]]
 - [[Number theory]]
 - [[Partial order relation]]
+- [[Prime number]]
 - [[Real numbers]]
 - [[Total order]]
 - [[Total order relation]]

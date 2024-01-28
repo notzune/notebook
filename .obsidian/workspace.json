@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6745ac35aa5673d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29a2b607434a00c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "33e4e06d6052ae18",
         "type": "tabs",
         "children": [
@@ -31,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Algebra (index).md",
+                "file": "Factorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a5637be664f8b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AM–GM inequality.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Algebra (index).md",
+                "file": "Factorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Algebra (index).md",
+                "file": "Factorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Algebra (index).md"
+                "file": "Factorization.md"
               }
             }
           }
@@ -168,33 +163,33 @@
   },
   "active": "4f9194808068fe20",
   "lastOpenFiles": [
-    "Indices/Mathematics (index).md",
+    "Factorization.md",
+    "Difference of two squares.md",
+    "AM–GM inequality.md",
+    "Binomial (polynomial).md",
     "Operation.md",
+    "Indices/Mathematics (index).md",
+    "Indices/Number Theory (index).md",
+    "Indices/Algebra (index).md",
+    "Indices/Arithmetic (index).md",
+    "Fundamental theorem of arithmetic.md",
+    "Prime number.md",
+    "Composite number.md",
+    "Abstract data type.md",
     "Data structure.md",
+    "Algebra.md",
+    "Abstraction layer.md",
     "Data (computer science).md",
     "Operation 1.md",
     "Algebraic structure.md",
     "Identity (mathematics).md",
     "Operator (computer programming).md",
-    "Abstract data type.md",
     "Data type.md",
     "Indices/Computer Programming (index).md",
     "Welcome to my notebook!.md",
     "Bytecode.md",
     "Execution.md",
-    "* (operation).md",
-    "dataview/Recently edited.md",
     "dataview",
-    "Chemistry (index).md",
-    "Periodic Elements (index).md",
-    "Microprocessors and Microcontrollers (index).md",
-    "Binary operation.md",
-    "Vinculum.md",
-    "Computer Science (index).md",
-    "Theoretical computer science (TCS).md",
-    "Indices/Communications (index).md",
-    "Ternary operation.md",
-    "Telecommunications link.md",
     "Indices",
     "publish.css",
     "obsidian.css",

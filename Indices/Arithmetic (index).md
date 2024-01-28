@@ -9,3 +9,4 @@
 - [[Multiplicity]]
 - [[* (operation)]]
 - [[Floating-point arithmatic]]
+- [[Fundamental theorem of arithmetic]]

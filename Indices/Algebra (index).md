@@ -3,6 +3,7 @@
 - [[Algebra]]
 - [[Algebraic structure]]
 - [[Elementary algebra]]
+- [[Factorization]]
 - [[Function]]
 - [[Function application]]
 - [[Function composition]]
