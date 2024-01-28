@@ -177,3 +177,37 @@ $$
 &a^3-3a^2b+3ab^2-b^3=(a-b)^3 \\
 \end{align}
 $$
+
+### [[Root of unity|Roots of unity]]
+
+the $n$th roots of unity are the complex numbers which are a root of the polynomial $x^n-1$.
+
+$$
+e^{2ik\pi/n}=\cos\frac{2\pi k}{n}+i\sin\frac{2\pi k}{n}
+$$
+
+for $k=0,\dots,n-1$.
+
+so for any two expressions $E$ and $F$, one has
+
+$$
+\begin{align}
+&E^n-F^n=(E-F)\prod^{n-1}_{k=1}(E-Fe^{2ik\pi/n}) \\
+\\
+&E^n+F^n=\prod^{n-1}_{k=0}(E-Fe^{(2k+1)i\pi/n})&\text{ if $n$ is even} \\
+\\
+&E^n+F^n=(E+F)\prod^{n-1}_{k=1}(E+Fe^{2ik\pi/n})&\text{ if $n$ is odd}
+\end{align}
+$$
+
+if $E$ and $F$ are real expressions, and one wants real factors, you have to replace every pair of [[Complex conjugate|complex conjugate]] by its product
+
+as the complex conjugate of $e^{i\alpha}$ is $e^{-i\alpha}$, and
+
+$$
+\begin{align}
+(a-be^{i\alpha})(a-be^{-i\alpha})&=a^2-ab(e^{i\alpha}+e^{-i\alpha})+b^2e^{i\alpha}e^{-i\alpha} \\
+&=a^2-2ab\cos\alpha+b^2 \\
+\end{align}
+$$
+

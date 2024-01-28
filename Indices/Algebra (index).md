@@ -2,6 +2,7 @@
 ---
 - [[Algebra]]
 - [[Algebraic structure]]
+- [[Binomial theorem]]
 - [[Completing the square]]
 - [[Elementary algebra]]
 - [[Factorization]]

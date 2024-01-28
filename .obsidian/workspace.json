@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7c1dc26c14d01d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of trigonometric identities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "331e7d31d37ee13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Trigonometry (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorization.md",
+                "file": "List of trigonometric identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factorization.md",
+                "file": "List of trigonometric identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factorization.md"
+                "file": "List of trigonometric identities.md"
               }
             }
           }
@@ -149,17 +174,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f9194808068fe20",
+  "active": "d7c1dc26c14d01d4",
   "lastOpenFiles": [
-    "Binomial theorem.md",
+    "Indices/Trigonometry (index).md",
+    "List of trigonometric identities.md",
+    "Indices/Geometry (index).md",
     "Factorization.md",
+    "Indices/Number Theory (index).md",
+    "Indices/Algebra (index).md",
+    "Binomial theorem.md",
     "Complex numbers.md",
     "Welcome to my notebook!.md",
     "Moment.md",
     "Root of unity.md",
-    "Indices/Number Theory (index).md",
     "Binomial (polynomial).md",
-    "Indices/Algebra (index).md",
     "Polynomials (subindex).md",
     "Completing the square.md",
     "AM–GM inequality.md",
@@ -174,9 +202,6 @@
     "Composite number.md",
     "Abstract data type.md",
     "Data structure.md",
-    "Algebra.md",
-    "Abstraction layer.md",
-    "Data (computer science).md",
     "dataview",
     "Indices",
     "publish.css",
