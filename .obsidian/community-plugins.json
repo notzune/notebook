@@ -4,5 +4,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "templater-obsidian",
   "settings-search",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-minimal-settings",
+  "obsidian-hider"
 ]

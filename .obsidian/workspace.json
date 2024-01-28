@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fa537e735566464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to my notebook!.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "5912667714890064",
@@ -151,9 +162,11 @@
   },
   "active": "4f9194808068fe20",
   "lastOpenFiles": [
+    "Welcome to my notebook!.md",
+    "Factorization.md",
+    "Moment.md",
     "Root of unity.md",
     "Indices/Number Theory (index).md",
-    "Factorization.md",
     "Binomial (polynomial).md",
     "Indices/Algebra (index).md",
     "Polynomials (subindex).md",
@@ -175,8 +188,6 @@
     "Data (computer science).md",
     "Operation 1.md",
     "Algebraic structure.md",
-    "Identity (mathematics).md",
-    "Operator (computer programming).md",
     "dataview",
     "Indices",
     "publish.css",

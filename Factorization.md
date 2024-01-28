@@ -101,7 +101,7 @@ for example
 
 $$
 \begin{align}
-a^2&+2ab+b^2-x^2+2xy-y^2 \\
+a^2+2ab+b^2&-x^2+2xy-y^2 \\
 &=(a^2+2ab+b^2)-(x^2-2xy+y^2) \\
 &=(a+b)^2-(x-y)^2 \\
 &=(a+b+x-y)(a+b-x+y) \\
