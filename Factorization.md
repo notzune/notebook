@@ -52,7 +52,7 @@ $$
 \begin{align}
 x^4+1&=(x^4-2x^2+1)-2x^2 \\
 &=(x^2+1)^2-(x\sqrt{2})^2 \\
-&=(x^2+x\sqrt{2}+1)(x^2-x\sqrt{2}+1)
+&=(x^2+x\sqrt{2}+1)(x^2-x\sqrt{2}+1) \\
 \end{align}
 $$
 
@@ -123,3 +123,23 @@ E^4-F^4&=(E^2+F^2)(E^2-F^2) \\
 &=(E^2+F^2)(E+F)(E-F)
 \end{align}
 $$
+
+## Sum/difference of two $n$th powers
+### Difference, even exponent
+
+$$
+E^{2n}-F^{2n}=(E^n+F^n)(E^n-F^n)
+$$
+
+### Difference, even or odd exponent
+
+$$
+E^n-F^n=(E-F)(E^{n-1}+E^{n-2}F+E^{n-3}F^2+\dots+EF^{n-2}+F^{n-1})
+$$
+
+### Sum, odd exponent
+
+$$
+E^n+F^n=(E+F)(E^{n-1}=E^{n-2}F+E^{n-3}F^2-\dots-EF^{n-2}+F{n-1})
+$$
+
