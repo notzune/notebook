@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Computer Programming (index).md",
+                "file": "Data structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "33e4e06d6052ae18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f9194808068fe20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Algebra (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Computer Programming (index).md",
+                "file": "Indices/Algebra (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Computer Programming (index).md",
+                "file": "Indices/Algebra (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Computer Programming (index).md"
+                "file": "Indices/Algebra (index).md"
               }
             }
           }
@@ -133,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +166,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29a2b607434a00c9",
+  "active": "4f9194808068fe20",
   "lastOpenFiles": [
+    "Indices/Mathematics (index).md",
+    "Operation.md",
+    "Data structure.md",
+    "Data (computer science).md",
+    "Operation 1.md",
+    "Algebraic structure.md",
+    "Identity (mathematics).md",
+    "Operator (computer programming).md",
+    "Abstract data type.md",
+    "Data type.md",
+    "Indices/Computer Programming (index).md",
     "Welcome to my notebook!.md",
     "Bytecode.md",
     "Execution.md",
@@ -157,7 +187,6 @@
     "dataview",
     "Chemistry (index).md",
     "Periodic Elements (index).md",
-    "Indices/Mathematics (index).md",
     "Microprocessors and Microcontrollers (index).md",
     "Binary operation.md",
     "Vinculum.md",
@@ -166,16 +195,6 @@
     "Indices/Communications (index).md",
     "Ternary operation.md",
     "Telecommunications link.md",
-    "Indices/Network Theory (index).md",
-    "Indices/Geometry (index).md",
-    "Tangent.md",
-    "Indices/Logic (index).md",
-    "System.md",
-    "Symmetric relation.md",
-    "Syllogism.md",
-    "Probability and Statistics (index).md",
-    "Standard deviation.md",
-    "Indices/Computer Programming (index).md",
     "Indices",
     "publish.css",
     "obsidian.css",

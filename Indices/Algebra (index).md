@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Algebra]]
+- [[Algebraic structure]]
 - [[Elementary algebra]]
 - [[Function]]
 - [[Function application]]

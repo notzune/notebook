@@ -1,0 +1,1 @@
+an algebraic structure consists of a nonempty [[Sets|set]] $A$ (called the underlying set, carrier set, or domain), a collection of [[Operation|operations]] on $A$ (typically [[Binary operation|binary operations]]), and a finite set of [[Identity (mathematics)|identities]], known as [[Axiom|axioms]], that these operations must satisfy.

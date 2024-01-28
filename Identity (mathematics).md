@@ -1,0 +1,3 @@
+in math, an identity is an equality relating one mathematical expression $A$ to another mathematical expression $B$, such that $A$ and $B$ (which might contain some [[Variables|variables]]), produce the same value for all values of the variables within a certain range of [[Validity|validity]].
+
+in other words, $A=B$ is an identity if $A$ and $B$ define the same [[Function|functions]], and an identity is an equality between functions that are different.
