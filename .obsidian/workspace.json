@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Trigonometry (index).md",
+                "file": "Welcome to my notebook!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of trigonometric identities.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of trigonometric identities.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of trigonometric identities.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -174,12 +174,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7c1dc26c14d01d4",
+  "active": "331e7d31d37ee13f",
   "lastOpenFiles": [
+    "publish.css",
+    "publish.cssx.css",
+    "theme.css",
     "Indices/Trigonometry (index).md",
     "List of trigonometric identities.md",
-    "Indices/Geometry (index).md",
     "Factorization.md",
+    "Indices/Geometry (index).md",
     "Indices/Number Theory (index).md",
     "Indices/Algebra (index).md",
     "Binomial theorem.md",
@@ -201,10 +204,8 @@
     "Prime number.md",
     "Composite number.md",
     "Abstract data type.md",
-    "Data structure.md",
     "dataview",
     "Indices",
-    "publish.css",
     "obsidian.css",
     "Screenshot 2024-01-24 at 6.42.56 PM.png",
     "Pasted image 20240124184239.png",

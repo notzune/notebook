@@ -2,7 +2,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 ## 📧 Contact Me
 
-> If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
+>[!quote|brown] If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
 > 
 > zrashed02@gmail.com
 
