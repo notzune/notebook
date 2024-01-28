@@ -146,6 +146,10 @@ $$
 E^n+F^n=(E+F)(E^{n-1}=E^{n-2}F+E^{n-3}F^2-\dots-EF^{n-2}+F{n-1})
 $$
 
+### Sum, even exponent
+
+if the exponent is a power of two then the expression cannot be factorized without introducing [[Complex numbers|complex number]]. if $n$ has an odd divisor (if $n=pq$ with $p$ being odd), then use the formula [[Factorization#Sum, odd exponent|above]].
+
 ### Trinomials and cubic formulas
 
 $$
@@ -157,5 +161,19 @@ $$
 &x^3+y^3+z^3+3x^2(y+z)+3y^2(x+z)+3x^2(x+y)+6xyz=(x+y+z)^3 \\
 \\
 &x^4+x^2y^2+y^4=(x^2+xy+y^2)(x^2-xy+y^2) \\
+\end{align}
+$$
+
+### [[Binomial theorem|Binomial expansions]]
+
+$$
+\begin{align}
+&a^2+2ab+b^2=(a+b)^2 \\
+\\
+&a^2-2ab+b^2=(a-b)^2 \\
+\\
+&a^3+3a^2b+3ab^2+b^3=(a+b)^3 \\
+\\
+&a^3-3a^2b+3ab^2-b^3=(a-b)^3 \\
 \end{align}
 $$
