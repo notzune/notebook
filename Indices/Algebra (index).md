@@ -2,6 +2,7 @@
 ---
 - [[Algebra]]
 - [[Algebraic structure]]
+- [[Completing the square]]
 - [[Elementary algebra]]
 - [[Factorization]]
 - [[Function]]
@@ -14,3 +15,4 @@
 ---
 - [[Abstract Algebra (index)]]
 - [[Linear Algebra (index)]]
+- [[Polynomials (subindex)]]

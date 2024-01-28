@@ -13,19 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factorization.md",
+                "file": "Binomial (polynomial).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1772485e4fcb4e91",
+        "type": "tabs",
+        "children": [
           {
             "id": "9a5637be664f8b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AM–GM inequality.md",
+                "file": "Indices/Algebra (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorization.md",
+                "file": "Indices/Algebra (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factorization.md",
+                "file": "Indices/Algebra (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factorization.md"
+                "file": "Indices/Algebra (index).md"
               }
             }
           }
@@ -161,18 +167,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f9194808068fe20",
+  "active": "9a5637be664f8b1d",
   "lastOpenFiles": [
+    "Polynomials (subindex).md",
+    "Indices/Algebra (index).md",
+    "Binomial (polynomial).md",
+    "Factorization.md",
+    "Completing the square.md",
+    "AM–GM inequality.md",
     "Modulo.md",
     "Modular arithmetic.md",
-    "AM–GM inequality.md",
-    "Factorization.md",
     "Difference of two squares.md",
-    "Binomial (polynomial).md",
     "Operation.md",
     "Indices/Mathematics (index).md",
     "Indices/Number Theory (index).md",
-    "Indices/Algebra (index).md",
     "Indices/Arithmetic (index).md",
     "Fundamental theorem of arithmetic.md",
     "Prime number.md",
@@ -187,8 +195,6 @@
     "Identity (mathematics).md",
     "Operator (computer programming).md",
     "Data type.md",
-    "Indices/Computer Programming (index).md",
-    "Welcome to my notebook!.md",
     "dataview",
     "Indices",
     "publish.css",
