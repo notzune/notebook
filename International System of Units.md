@@ -64,15 +64,17 @@ the system also allows for *derived units* that come from the product of multipl
 | farad | $\text{F}$ | capacitance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{4}\cdot\text{A}^{2}$ |  |
 | ohm | $\Omega$ | resistance, impedance, reactance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-2}$ |  |
 | siemens | $\text{S}$ | electrical conductance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{3}\cdot\text{A}^{2}$ |  |
-| weber | $\text{Wb}$ | magnetic flux |  |  |
-| tesla | $\text{T}$ | magnetic flux density |  |  |
-| henry | $\text{H}$ | inductance |  |  |
-| degree Celsius | $\degree\text{C}$ | temperature relative to $273.15\text{ K}$ |  |  |
-| lumen | $\text{lm}$ | luminous flux |  |  |
-| lux | $\text{lx}$ | illuminance |  |  |
-| becquerel | $\text{Bq}$ | activity referred to a radionuclide (decays per unit time) |  |  |
-| gray | $\text{Gy}$ | absorbed dose (of ionizing radiation) |  |  |
-| sievert | $\text{Sv}$ | equivalent dose (of ionizing radiaiton) |  |  |
-| katal | $\text{kat}$ | catalytic activity |  |  |
-| velocity | $\text{v}$ | rate of change of displacement |  |  |
-| speed | $v$ | rate of change of distance |  |  |
+| weber | $\text{Wb}$ | magnetic flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ |  |
+| tesla | $\text{T}$ | magnetic flux density | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ |  |
+| henry | $\text{H}$ | inductance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ |  |
+| degree Celsius | $\degree\text{C}$ | temperature relative to $273.15\text{ K}$ | $\text{K}$ |  |
+| lumen | $\text{lm}$ | luminous flux | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ |  |
+| lux | $\text{lx}$ | illuminance | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ |  |
+| becquerel | $\text{Bq}$ | activity referred to a radionuclide (decays per unit time) | $\text{s}^{-1}$ |  |
+| gray | $\text{Gy}$ | absorbed dose (of ionizing radiation) | $\text{m}^{2}\cdot\text{s}^{-2}$ |  |
+| sievert | $\text{Sv}$ | equivalent dose (of ionizing radiaiton) | $\text{m}^{2}\cdot\text{s}^{-2}$ |  |
+| katal | $\text{kat}$ | catalytic activity | $\text{mol}\cdot\text{s}^{-1}$ |  |
+| velocity | $\text{v}$ | rate of change of displacement | $\text{m}/\text{s}$ |  |
+| speed | $v$ | rate of change of distance | $\text{m}/\text{s}$ |  |
+| acceleration | $\text{a}$ | rate of change of velocity | $\text{m}/\text{s}^2$ |  |
+| angular acceleration | $\alpha$ |  | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
