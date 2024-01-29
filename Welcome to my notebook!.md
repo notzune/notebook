@@ -78,3 +78,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 ### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
 
 - 🗃 [[Periodic Elements (index)|Periodic Elements]]
+
+### 🏗🚧🗄 [[Biology (index)|Biology]] 
+
+- 🗃 [[Cell and Molecular Biology (index)|Cell and Molecular Biology]]
