@@ -26,6 +26,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Geometry (index)|Geometry]]
     - 🗃 [[Trigonometry (index)|Trigonometry]]
     - 🗃 [[Differential Geometry (index)|Differential Geometry]]
+    - 🗃 [[Solid geometry (index)|Solid geometry]]
 - 🗃 [[Calculus (index)|Calculus]]
     - 🗃 [[Differential Calculus (index)|Differential Calculus]]
     - 🗃 [[Integral Calculus (index)|Integral Calculus]]
