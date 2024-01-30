@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instance (computer programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f08cfbf53e495d04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bd423dfe0aa182d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science (index).md",
+                "file": "Welcome to my notebook!.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instance (computer programming).md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -169,8 +151,8 @@
   },
   "active": "401792daa2452d22",
   "lastOpenFiles": [
-    "Foobar.md",
     "Instance (computer programming).md",
+    "Foobar.md",
     "Computer Science (index).md",
     "Example Java Class (reference).md",
     "Data types (java).md",

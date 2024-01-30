@@ -1,10 +1,12 @@
-my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. 
+my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. i'm also in the process of digitizing **ALL*** my notes from each and every single one of my notebooks (that I can still find and are readable) so that this will be one center of free knowledge for my peers and anyone else who happens to find this site.
 
 ## 📧 Contact Me
 
 >[!quote|brown] If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
 > 
 > zrashed02@gmail.com
+> 
+> also, follow me [on GitHub](https://github.com/notzune) 👀
 
 ## Table of Contents
 
