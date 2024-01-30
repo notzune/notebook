@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Foobar.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example Java Class (reference).md",
+                "file": "Computer Science (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example Java Class (reference).md",
+                "file": "Computer Science (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example Java Class (reference).md",
+                "file": "Computer Science (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example Java Class (reference).md"
+                "file": "Computer Science (index).md"
               }
             }
           }
@@ -170,6 +170,7 @@
   "active": "0bd423dfe0aa182d",
   "lastOpenFiles": [
     "Example Java Class (reference).md",
+    "Foobar.md",
     "Instance (computer programming).md",
     "Data types (java).md",
     "Object (computer science).md",
@@ -199,7 +200,6 @@
     "Binomial theorem.md",
     "Complex numbers.md",
     "Moment.md",
-    "Root of unity.md",
     "dataview",
     "Indices",
     "obsidian.css",

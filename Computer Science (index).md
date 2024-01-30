@@ -13,6 +13,7 @@
 - [[Computer science]]
 - [[Computing]]
 - [[Data type]]
+- [[Foobar]]
 - [[List]]
 - [[Theoretical computer science (TCS)]]
 - [[Theory of computation]]

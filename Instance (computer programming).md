@@ -2,14 +2,19 @@ in [[Object-Oriented Programming|object-oriented programming]], an instance is a
 
 in java, using the `new` operator will create a new instance of an object class.
 
-for example, we can [[Decleration (computer science)|declare]] an object as a variable
+for example, we can [[Decleration (computer science)|declare]] an object ([[Foobar|foobar]]) as a variable
 
 ```java
 // here we are declaring a variable
 
-String title;
+Object foo;
+```
 
+and then instantiate it (create a new instance) of it.
+
+```java 
 // and here we are instantiating it
 
-title = new String("some string");
+foo = new Object(bar);
 ```
+

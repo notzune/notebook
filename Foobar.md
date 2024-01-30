@@ -1,0 +1,3 @@
+in [[Computer science|computer science]], the terms: **"foobar"**, **"foo"**, **"bar"**, or sometimes **"baz"** are used as a placeholder in documentation or for [[Psuedocode|pseudocode]] writing purposes. 
+
+they are inserted when a name of a variable or object is unimportant and can be omitted but is still necessary to include in the documentation and/or example code to help the reader understand the larger scope of the topic in question.
