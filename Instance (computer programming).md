@@ -10,7 +10,7 @@ for example, we can [[Decleration (computer science)|declare]] an object ([[Foob
 Object foo;
 ```
 
-and then instantiate it (create a new instance) of it.
+and then instantiate (create a new instance of) it.
 
 ```java 
 // and here we are instantiating it
