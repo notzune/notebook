@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International System of Units.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "30bb94395af1ca6c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f9194808068fe20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Object (computer science).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Object (computer science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Object (computer science).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "International System of Units.md"
+                "file": "Object (computer science).md"
               }
             }
           }
@@ -169,13 +151,21 @@
   },
   "active": "401792daa2452d22",
   "lastOpenFiles": [
+    "Data types (java).md",
+    "Object (computer science).md",
+    "Instance (computer programming).md",
+    "Data type.md",
     "Welcome to my notebook!.md",
+    "International System of Units.md",
+    "Computer Science (index).md",
+    "Chemistry (index).md",
+    "Integral.md",
+    "Derivation.md",
+    "Derivative.md",
     "Indices/Logic (index).md",
     "Indices/Propositional calculus (index).md",
-    "International System of Units.md",
     "Factorization.md",
     "Caesium standard.md",
-    "Chemistry (index).md",
     "List of trigonometric identities.md",
     "Untitled.md",
     "Screenshot 2024-01-28 at 1.18.57 PM.png",
@@ -192,14 +182,6 @@
     "Complex numbers.md",
     "Moment.md",
     "Root of unity.md",
-    "Binomial (polynomial).md",
-    "Polynomials (subindex).md",
-    "Completing the square.md",
-    "AM–GM inequality.md",
-    "Modulo.md",
-    "Modular arithmetic.md",
-    "Difference of two squares.md",
-    "Operation.md",
     "dataview",
     "Indices",
     "obsidian.css",

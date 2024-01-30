@@ -56,8 +56,8 @@ the system also allows for *derived units* that come from the product of multipl
 | steradian | $\text{sr}$ | solid angle | $\text{m}^2/\text{m}^2$ | 1 |
 | hertz | $\text{Hz}$ | frequency | $\text{s}^{-1}$ |  |
 | newton | $\text{N}$ | force, weight | $\text{kg}\cdot\text{m}\cdot\text{s}^{-2}$ |  |
-| pascal | $\text{Pa}$ | pressure, stress | $\text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$ |  |
-| joule | $\text{J}$ | energy, work, heat | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}$ |  |
+| pascal | $\text{Pa}$ | pressure, stress | $\text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$ | $\text{N}/\text{m}^{2}=\text{J}/\text{m}^{3}$ |
+| joule | $\text{J}$ | energy, work, heat | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{N}\cdot\text{m}=\text{Pa}\cdot\text{m}^{3}$ |
 | watt | $\text{W}$ | power, radiant flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}$ |  |
 | [[Coulomb\|coulomb]] | $\text{C}$ | electric charge | $\text{s}\cdot\text{A}$ |  |
 | volt | $\text{V}$ | electric potential, voltage, emf | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-1}$ |  |

@@ -1,0 +1,1 @@
+there are two main data types in java, **primitive** data types that ship with the JDK and **[[Object (computer science)|object]]** data types.

@@ -1,0 +1,1 @@
+for object references, assignment copies the [[Memory address|address]].
