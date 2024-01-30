@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "f08cfbf53e495d04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd423dfe0aa182d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Example Java Class (reference).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Example Java Class (reference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Example Java Class (reference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instance (computer programming).md"
+                "file": "Example Java Class (reference).md"
               }
             }
           }
@@ -149,12 +167,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "401792daa2452d22",
+  "active": "0bd423dfe0aa182d",
   "lastOpenFiles": [
+    "Example Java Class (reference).md",
+    "Instance (computer programming).md",
     "Data types (java).md",
     "Object (computer science).md",
     "Data type.md",
-    "Instance (computer programming).md",
     "Welcome to my notebook!.md",
     "International System of Units.md",
     "Computer Science (index).md",
@@ -167,7 +186,6 @@
     "Factorization.md",
     "Caesium standard.md",
     "List of trigonometric identities.md",
-    "Untitled.md",
     "Screenshot 2024-01-28 at 1.18.57 PM.png",
     "Pasted image 20240128131834.png",
     "* (operation).md",
