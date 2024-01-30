@@ -5,11 +5,11 @@ in java, using the `new` operator will create a new instance of an object class.
 for example, we can [[Decleration (computer science)|declare]] an object as a variable
 
 ```java
-\\ here we are declaring a variable
+// here we are declaring a variable
 
 String title;
 
-\\ and here we are instantiating it
+// and here we are instantiating it
 
 title = new String("some string");
 ```
