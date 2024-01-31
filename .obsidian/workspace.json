@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Conditional probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "Conditional probability.md"
               }
             }
           }
@@ -151,14 +151,25 @@
   },
   "active": "401792daa2452d22",
   "lastOpenFiles": [
+    "Conditional statement.md",
+    "Union of events.md",
+    "Deck of cards.md",
+    "Disjoint event.md",
+    "Identities for set operations.md",
+    "Distributive laws of sets.md",
+    "Identity elements of sets.md",
+    "Associativity of sets.md",
+    "Intersection of events.md",
+    "Events.md",
+    "Probability and Statistics (index).md",
+    "Welcome to my notebook!.md",
+    "Computer Science (index).md",
     "Instance (computer programming).md",
     "Foobar.md",
-    "Computer Science (index).md",
     "Example Java Class (reference).md",
     "Data types (java).md",
     "Object (computer science).md",
     "Data type.md",
-    "Welcome to my notebook!.md",
     "International System of Units.md",
     "Chemistry (index).md",
     "Integral.md",
@@ -166,22 +177,11 @@
     "Derivative.md",
     "Indices/Logic (index).md",
     "Indices/Propositional calculus (index).md",
-    "Factorization.md",
-    "Caesium standard.md",
-    "List of trigonometric identities.md",
     "Screenshot 2024-01-28 at 1.18.57 PM.png",
     "Pasted image 20240128131834.png",
-    "* (operation).md",
     "publish.css",
     "publish.cssx.css",
     "theme.css",
-    "Indices/Trigonometry (index).md",
-    "Indices/Geometry (index).md",
-    "Indices/Number Theory (index).md",
-    "Indices/Algebra (index).md",
-    "Binomial theorem.md",
-    "Complex numbers.md",
-    "Moment.md",
     "dataview",
     "Indices",
     "obsidian.css",
