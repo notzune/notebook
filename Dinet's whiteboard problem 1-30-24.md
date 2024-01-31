@@ -5,8 +5,8 @@ to find the total probability of being pulled over we need to consider both of t
 
 the [[Conditional probability|conditional probability]] of being pulled over when speeding, $P(\text{pulled over}\mid\text{speeding})$ can't by added to the probability of someone being pulled over when not speeding, $P(\text{pulled over}|\text{not speeding})$ because these two probabilities alone do not take into account how likely each event is.
 
-therefore we need to weigh each conditional probability by the probability of its corresponding event (speeding or not speeding).
-$P(\text{pulled over}) = P(\text{pulled over} | \text{speeding}) \cdot P(\text{speeding}) + P(\text{pulled over} | \text{not speeding}) \cdot P(\text{not speeding})$
+therefore we need to weigh each conditional probability by the probability of its corresponding event (speeding or not speeding)
+
 $$
 \begin{align}
 P(\text{speeding})=\frac{1}{2} \\
@@ -18,6 +18,8 @@ P(\text{not speeding})=\frac{1}{2} \\
 P(\text{pulled over}\mid\text{not speeding})=\frac{1}{10} \\
 \end{align}
 $$
+
+$P(\text{pulled over})=P(\text{pulled over}\mid\text{speeding})\cdot P(\text{speeding})+P(\text{pulled over}\mid\text{not speeding})\cdot P(\text{not speeding})$
 
 $$
 P(\text{pulled over}) = \left( \frac{1}{5} \right) \left( \frac{1}{2} \right) + \left( \frac{1}{10} \right) \left( \frac{1}{2} \right)

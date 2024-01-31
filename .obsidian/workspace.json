@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Dinet's whiteboard problem 1-30-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Dinet's whiteboard problem 1-30-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Dinet's whiteboard problem 1-30-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics (index).md"
+                "file": "Dinet's whiteboard problem 1-30-24.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   },
   "active": "cc97c61633014a97",
   "lastOpenFiles": [
+    "Probability and Statistics (index).md",
     "Dinet's whiteboard problem 1-30-24.md",
     "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
@@ -189,7 +190,6 @@
     "Pasted image 20240124184239.png",
     "Pasted image 20240111012758.png",
     "Excalidraw/Drawing 2024-01-30 23.46.39.excalidraw.md",
-    "Probability and Statistics (index).md",
     "Excalidraw",
     "Bayesian Statistics (index).md",
     "Baye's theorem.md",
