@@ -74,7 +74,6 @@
 | [[Speed\|speed]], [[Velocity\|velocity]] | $v$ | [[Rate of change\|rate of change]] of distance/[[Displacement\|displacement]] | $\text{m}/\text{s}$ |  |
 | [[Acceleration\|acceleration]] | $a$ | [[Rate of change\|rate of change]] of [[Velocity\|velocity]] | $\text{m}/\text{s}^2$ |  |
 | [[Angular acceleration\|angular acceleration]] | $\alpha$ | [[Rate of change\|rate of change]] of [[Angular velocity\|angular velocity]] | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
-
 ## Coherent derived units
 | Name | Symbol | Derived quantity | Typical symbol |
 | ---- | ---- | ---- | ---- |
@@ -91,3 +90,19 @@
 | mole per cubic metre | $\text{mol}/\text{m}^{3}$ | [[Concentration\|concentration]] | $c$ |
 | [[Kilogram per cubic metre\|kilogram per cubic metre]] | $\text{kg}/\text{m}^{3}$ | [[Mass concentration (chemistry)\|mass concentration]] | $\rho,\gamma$ |
 | [[Candela per square metre\|candela per square metre]] | $\text{cd}/\text{m}^{2}$ | [[Luminance\|luminance]] | $L_{\text{v}}$ |
+# More derived units
+| Name | Symbol | Quantity | in SI base units |
+| ---- | ---- | ---- | ---- |
+| [[Viscosity\|pascal-second]] | $\text{Pa}\cdot\text{s}$ | [[Viscosity\|dynamic viscosity]] | $\text{m}^{-1}\cdot\text{kg}\cdot\text{s}^{-1}$ |
+| [[Newton-metre\|newton-metre]] | $\text{N}\cdot\text{m}$ | [[Torque\|moment of force]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{-2}$ |
+| newton per metre | $\text{N}/\text{m}$ | [[Surface tension\|surface tension]] | $\text{kg}\cdot\text{s}^{-2}$ |
+| [[Radian per second\|radian per second]] | $\text{rad}/\text{s}$ | [[Angular velocity\|angular velocity]], [[Angular frequency\|angular frequency]] | $\text{s}^{-1}$ |
+| [[Angular acceleration\|radian per second squared]] | $\text{rad}/\text{s}^{2}$ | [[Angular acceleration\|angular acceleration]] | $\text{s}^{-2}$ |
+| watt per square metre | $\text{W}/\text{m}^{2}$ | heat flux density, [[Irradiance\|irradiance]] | $\text{kg}\cdot\text{s}^{-3}$ |
+| joule per kelvin | $\text{J}/\text{K}$ | [[Entropy\|entropy]], [[Heat capacity\|heat capacity]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{-2}\cdot\text{K}^{-1}$ |
+| joule per kilogram-kelvin | $\text{J}(\text{kg}\cdot\text{K})$ | [[Specific heat capacity\|specific heat capacity]], [[Specific entropy\|specific entropy]] | $\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{K}^{-1}$ |
+| joule per kilogram | $\text{J}/\text{kg}$ | [[Specific energy\|specific energy]] | $\text{m}^{2}\cdot\text{s}^{-2}$ |
+| watt per metre-kelvin | $\text{W}/(\text{m}\cdot\text{K})$ | [[Thermal conductivity and resistivity\|thermal conductivity]] | $\text{m}\cdot\text{kg}\cdot\text{s}^{-3}\cdot\text{K}^{-1}$ |
+| joule per cubic metre | $\text{J}/\text{m}^{3}$ | [[Energy density\|energy density]] | $\text{m}\cdot\text{kg}\cdot\text{s}^{−3}\cdot\text{A}^{−1}$ |
+| volt per metre	 | $\text{V}/\text{m}$ | [[Electric field\|electric field strength]] | $\text{m}\cdot\text{kg}\cdot{s}^{−3}\cdot\text{A}^{−1}$ |
+| coulomb per cubic metre | $\text{C}/\text{m}^{3}$ | [[Charge density\|electric charge density]] | $\text{m}^{-3}\cdot\text{s}\cdot\text{A}$ |
