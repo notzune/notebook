@@ -1,7 +1,7 @@
 in [[Probability theory|probability theory]] a conditional probability of [[Events|event]] $A$ conditional on event $B$ is
 
 $$
-P(A|B)=\frac{P(A\cup B)}{P(B)}\text{ for }P(B)>0
+P(A|B)=\frac{P(A\cap B)}{P(B)}\text{ for }P(B)>0
 $$
 
 it measures the [[Probability|probability]] that event $A$ occurs when it is known that event $B$ occurs.
