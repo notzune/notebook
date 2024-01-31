@@ -52,29 +52,29 @@ the system also allows for *derived units* that come from the product of multipl
 
 | Name | Symbol | Quantity | in SI base units | in other SI units |
 | ---- | ---- | ---- | ---- | ---- |
-| radian | $\text{rad}$ | plane angle | $\text{m}/\text{m}$ | 1 |
-| steradian | $\text{sr}$ | solid angle | $\text{m}^2/\text{m}^2$ | 1 |
-| hertz | $\text{Hz}$ | frequency | $\text{s}^{-1}$ |  |
-| newton | $\text{N}$ | force, weight | $\text{kg}\cdot\text{m}\cdot\text{s}^{-2}$ |  |
-| pascal | $\text{Pa}$ | pressure, stress | $\text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$ | $\text{N}/\text{m}^{2}=\text{J}/\text{m}^{3}$ |
-| joule | $\text{J}$ | energy, work, heat | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{N}\cdot\text{m}=\text{Pa}\cdot\text{m}^{3}$ |
-| watt | $\text{W}$ | power, radiant flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}$ | $\text{J}/\text{s}$ |
+| [[Radian\|radian]] | $\text{rad}$ | [[Angle\|plane angle]] | $\text{m}/\text{m}$ | 1 |
+| [[Steradian\|steradian]] | $\text{sr}$ | [[Solid angle\|solid angle]] | $\text{m}^2/\text{m}^2$ | 1 |
+| [[Hertz\|hertz]] | $\text{Hz}$ | [[Frequency\|frequency]] | $\text{s}^{-1}$ |  |
+| [[Newton (unit)\|newton]] | $\text{N}$ | [[Force\|force]], [[Weight\|weight]] | $\text{kg}\cdot\text{m}\cdot\text{s}^{-2}$ |  |
+| [[Pascal (unit)\|pascal]] | $\text{Pa}$ | [[Pressure\|pressure]], [[Stress (mechanics)\|stress]] | $\text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$ | $\text{N}/\text{m}^{2}=\text{J}/\text{m}^{3}$ |
+| [[Joule\|joule]] | $\text{J}$ | [[Energy\|energy]], [[Work (physics)\|work]], [[Heat\|heat]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{N}\cdot\text{m}=\text{Pa}\cdot\text{m}^{3}$ |
+| [[Watt\|watt]] | $\text{W}$ | power, radiant flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}$ | $\text{J}/\text{s}$ |
 | [[Coulomb\|coulomb]] | $\text{C}$ | electric charge | $\text{s}\cdot\text{A}$ |  |
-| volt | $\text{V}$ | electric potential, voltage, emf | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-1}$ | $\text{W}/\text{A}=\text{J}/\text{C}$ |
-| farad | $\text{F}$ | capacitance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{4}\cdot\text{A}^{2}$ | $\text{C}/\text{V}=\text{C}^{2}/\text{J}$ |
-| ohm | $\Omega$ | resistance, impedance, reactance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-2}$ | $\text{V}/\text{A}=\text{J}\cdot\text{s}/\text{C}^{2}$ |
-| siemens | $\text{S}$ | electrical conductance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{3}\cdot\text{A}^{2}$ | $\Omega^{-1}$ |
-| weber | $\text{Wb}$ | magnetic flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{V}\cdot\text{s}$ |
-| tesla | $\text{T}$ | magnetic flux density | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{Wb}/\text{m}^{2}$ |
-| henry | $\text{H}$ | inductance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ | $\text{Wb}/\text{A}$ |
-| degree Celsius | $\degree\text{C}$ | temperature relative to $273.15\text{ K}$ | $\text{K}$ |  |
-| lumen | $\text{lm}$ | luminous flux | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ | $\text{cd}\cdot\text{sr}$ |
-| lux | $\text{lx}$ | illuminance | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ | $\text{lm}/\text{m}^{2}=\text{cd}\cdot\text{sr}\cdot\text{m}^{-2}$ |
-| becquerel | $\text{Bq}$ | activity referred to a radionuclide (decays per unit time) | $\text{s}^{-1}$ |  |
-| gray | $\text{Gy}$ | absorbed dose (of ionizing radiation) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
-| sievert | $\text{Sv}$ | equivalent dose (of ionizing radiaiton) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
-| katal | $\text{kat}$ | catalytic activity | $\text{mol}\cdot\text{s}^{-1}$ |  |
-| velocity | $\text{v}$ | rate of change of displacement | $\text{m}/\text{s}$ |  |
-| speed | $v$ | rate of change of distance | $\text{m}/\text{s}$ |  |
-| acceleration | $a$ | rate of change of velocity | $\text{m}/\text{s}^2$ |  |
-| angular acceleration | $\alpha$ |  | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
+| [[Volt\|volt]] | $\text{V}$ | electric potential, voltage, emf | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-1}$ | $\text{W}/\text{A}=\text{J}/\text{C}$ |
+| [[Farad\|farad]] | $\text{F}$ | capacitance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{4}\cdot\text{A}^{2}$ | $\text{C}/\text{V}=\text{C}^{2}/\text{J}$ |
+| [[Ohm\|ohm]] | $\Omega$ | resistance, impedance, reactance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-2}$ | $\text{V}/\text{A}=\text{J}\cdot\text{s}/\text{C}^{2}$ |
+| [[Siemens (unit)\|siemens]] | $\text{S}$ | electrical conductance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{3}\cdot\text{A}^{2}$ | $\Omega^{-1}$ |
+| [[Weber (unit)\|weber]] | $\text{Wb}$ | magnetic flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{V}\cdot\text{s}$ |
+| [[Tesla (unit)\|tesla]] | $\text{T}$ | magnetic flux density | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{Wb}/\text{m}^{2}$ |
+| [[Henry (unit)\|henry]] | $\text{H}$ | inductance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ | $\text{Wb}/\text{A}$ |
+| [[Celsius\|degree Celsius]] | $\degree\text{C}$ | temperature relative to $273.15\text{ K}$ | $\text{K}$ |  |
+| [[Lumen (unit)\|lumen]] | $\text{lm}$ | luminous flux | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ | $\text{cd}\cdot\text{sr}$ |
+| [[Lux\|lux]] | $\text{lx}$ | illuminance | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ | $\text{lm}/\text{m}^{2}=\text{cd}\cdot\text{sr}\cdot\text{m}^{-2}$ |
+| [[Becquerel\|becquerel]] | $\text{Bq}$ | activity of a radionuclide (decays per unit time) | $\text{s}^{-1}$ |  |
+| [[Gray (unit)\|gray]] | $\text{Gy}$ | absorbed dose (of ionizing radiation) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
+| [[Sievert\|sievert]] | $\text{Sv}$ | equivalent dose (of ionizing radiaiton) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
+| [[Katal\|katal]] | $\text{kat}$ | catalytic activity | $\text{mol}\cdot\text{s}^{-1}$ |  |
+| [[Velocity\|velocity]] | $\text{v}$ | rate of change of displacement | $\text{m}/\text{s}$ |  |
+| [[Speed\|speed]] | $v$ | rate of change of distance | $\text{m}/\text{s}$ |  |
+| [[Acceleration\|acceleration]] | $a$ | rate of change of velocity | $\text{m}/\text{s}^2$ |  |
+| [[Angular acceleration\|angular acceleration]] | $\alpha$ | rate of change of angular velocity  | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
