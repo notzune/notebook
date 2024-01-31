@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc97c61633014a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International System of Units.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "International System of Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "International System of Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional probability.md"
+                "file": "International System of Units.md"
               }
             }
           }
@@ -149,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "401792daa2452d22",
+  "active": "cc97c61633014a97",
   "lastOpenFiles": [
+    "Conditional probability.md",
+    "Intersection of events.md",
     "Conditional statement.md",
     "Union of events.md",
     "Deck of cards.md",
@@ -159,7 +174,6 @@
     "Distributive laws of sets.md",
     "Identity elements of sets.md",
     "Associativity of sets.md",
-    "Intersection of events.md",
     "Events.md",
     "Probability and Statistics (index).md",
     "Welcome to my notebook!.md",
@@ -176,7 +190,6 @@
     "Derivation.md",
     "Derivative.md",
     "Indices/Logic (index).md",
-    "Indices/Propositional calculus (index).md",
     "Screenshot 2024-01-28 at 1.18.57 PM.png",
     "Pasted image 20240128131834.png",
     "publish.css",
