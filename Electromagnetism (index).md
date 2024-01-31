@@ -4,6 +4,7 @@
 - [[Capacitance]]
 - [[Charge carrier]]
 - [[Charged particles]]
+- [[Current density]]
 - [[Electrical impedance]]
 - [[Electrical reactance]]
 - [[Electrical resistance and conductance]]

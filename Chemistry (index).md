@@ -13,6 +13,8 @@
 - [[Oxidation state]]
 - [[Oxide]]
 - [[Thermal oxidation]]
+- [[Density]]
+- [[Concentration]]
 
 # Sub indices
 ---
