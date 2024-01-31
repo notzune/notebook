@@ -17,9 +17,12 @@
 - [[Vectors]]
 - [[Vector space]]
 - [[Viscosity]]
+- [[Planck constant]]
+- [[Speed of light]]
 
 # Sub indices
 ---
 - [[Electromagnetism (index)]]
 - [[Mechanics (index)]]
 - [[Thermodynamics (index)]]
+- [[Radiometry (index)]]

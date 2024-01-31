@@ -14,6 +14,7 @@
 - [[Electric displacement field]]
 - [[Electric field]]
 - [[Electric potential]]
+- [[Elementary charge]]
 - [[Inductance]]
 - [[Irradiance]]
 - [[Magnetic field]]
@@ -25,3 +26,4 @@
 - [[Photovoltaics (PV)]]
 - [[Power (physics)]]
 - [[Radiant flux]]
+- [[Weber (unit)]]

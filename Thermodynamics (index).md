@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Boltzmann constant]]
 - [[Entropy]]
 - [[Gibbs free energy]]
 - [[Heat capacity]]
