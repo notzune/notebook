@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "Electromagnetism (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "Electromagnetism (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Physics (index).md",
+                "file": "Electromagnetism (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Physics (index).md"
+                "file": "Electromagnetism (index).md"
               }
             }
           }
@@ -170,10 +170,10 @@
   },
   "active": "94eef67b687a709c",
   "lastOpenFiles": [
-    "Radiometry (index).md",
-    "International System of Units.md",
-    "Caesium standard.md",
     "Indices/Physics (index).md",
+    "International System of Units.md",
+    "Radiometry (index).md",
+    "Caesium standard.md",
     "Thermodynamics (index).md",
     "Electromagnetism (index).md",
     "Deck of cards.md",

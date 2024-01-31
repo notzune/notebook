@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Ampere]]
 - [[Ballistic conduction]]
 - [[Capacitance]]
 - [[Charge carrier]]
@@ -19,6 +20,7 @@
 - [[Irradiance]]
 - [[Magnetic field]]
 - [[Magnetic flux]]
+- [[Ohm]]
 - [[Permeability (electromagnetism)]]
 - [[Permittivity]]
 - [[Photoelectric effect]]
@@ -26,4 +28,6 @@
 - [[Photovoltaics (PV)]]
 - [[Power (physics)]]
 - [[Radiant flux]]
+- [[Volt]]
+- [[Voltage]]
 - [[Weber (unit)]]
