@@ -43,7 +43,7 @@
 | $1016000$ | $1016$         | $1.016$               | $1.12$             | $1$              | $2240$      | $35840$      |
 | $453.59237$ | $0.45359237$ | $4.5359237\times10^{-4}$ | $5\times10^{-4}$ | $4.46428571\times10^{-4}$ | $1$         | $16$         |
 | $28$      | $0.028$        | $2.8\times10^{-5}$    | $3.08647167\times10^{-5}$ | $2.79017857\times10^{-5}$ | $0.0625$    | $1$          |
-# Table 6: Density Units
+# Table 5: Density Units
 | Gram/milliliter | Kilogram/meter cube | Pound/foot cube | Pound/inch cube |
 |------------------------|-----------------------------|--------------------------|--------------------------|
 | g/mL                   | kg/m³                       | lb/ft³                   | lb/in³                   |
@@ -51,7 +51,7 @@
 | $0.001$                | $1$                         | $0.062422$               | $0.000036$               |
 | $0.01602$              | $16.02$                     | $1$                      | $0.000579$               |
 | $27.68$                | $27680$                     | $1727.84$                | $1$                      |
-# Table 7: Volumetric Liquid Flow Units
+# Table 6: Volumetric Liquid Flow Units
 | Liter/second | Liter/minute | Meter cube/hour | Foot cube/minute | Foot cube/hour | US gallons/minute | US barrels (oil)/day |
 |----------------------|----------------------|-------------------------|----------------------------|-------------------------|-----------------------------|---------------------------------|
 | L/sec                | L/min                | m³/hr                   | ft³/min                    | ft³/hr                  | gal/min                     | US brl/d                         |
