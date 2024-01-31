@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbde96fb4221a1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit conversion chart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Unit conversion chart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Unit conversion chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "International System of Units.md"
+                "file": "Unit conversion chart.md"
               }
             }
           }
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,12 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94eef67b687a709c",
+  "active": "bbde96fb4221a1e1",
   "lastOpenFiles": [
+    "Meters.md",
+    "Unit conversion chart.md",
+    "International System of Units.md",
     "Displacement (geometry).md",
     "Electromagnetism (index).md",
     "Indices/Physics (index).md",
-    "International System of Units.md",
     "Radiometry (index).md",
     "Caesium standard.md",
     "Thermodynamics (index).md",
@@ -175,8 +191,6 @@
     "Reciprocal length.md",
     "Radiant flux.md",
     "Indices/Algebra (index).md",
-    "Indices/Arithmetic (index).md",
-    "List of logarithmic identities.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
