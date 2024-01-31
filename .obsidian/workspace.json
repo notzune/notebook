@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "cc97c61633014a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Law of total probability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "351b05ee9266bca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinet's whiteboard problem 1-30-24.md",
+                "file": "\"if and only if\".md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1ace1a43b0e78d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94485cfec4e1349c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Logic (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -110,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law of total probability.md",
+                "file": "Indices/Logic (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law of total probability.md",
+                "file": "Indices/Logic (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law of total probability.md"
+                "file": "Indices/Logic (index).md"
               }
             }
           }
@@ -174,9 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc97c61633014a97",
+  "active": "94485cfec4e1349c",
   "lastOpenFiles": [
+    "Indices/Propositional calculus (index).md",
+    "Indices/Logic (index).md",
+    "\"if and only if\".md",
+    "AM–GM inequality.md",
     "Dinet's whiteboard problem 1-30-24.md",
+    "Conditional probability.md",
+    "Law of total probability.md",
     "Probability and Statistics (index).md",
     "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
@@ -196,7 +209,6 @@
     "Bayesian inference.md",
     "International System of Units.md",
     "Avogadro constant.md",
-    "Conditional probability.md",
     "Intersection of events.md",
     "Conditional statement.md",
     "Union of events.md",
@@ -208,11 +220,6 @@
     "Associativity of sets.md",
     "Events.md",
     "Welcome to my notebook!.md",
-    "Computer Science (index).md",
-    "Instance (computer programming).md",
-    "Foobar.md",
-    "Example Java Class (reference).md",
-    "Data types (java).md",
     "publish.css",
     "publish.cssx.css",
     "theme.css",
