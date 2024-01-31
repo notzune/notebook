@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "351b05ee9266bca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinet's whiteboard problem 1-30-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "5912667714890064",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "International System of Units.md"
+                "file": "Probability and Statistics (index).md"
               }
             }
           }
@@ -159,11 +170,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "cc97c61633014a97",
   "lastOpenFiles": [
+    "Dinet's whiteboard problem 1-30-24.md",
+    "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
+    "Screenshot 2024-01-18 at 6.52.04 PM.png",
+    "Screenshot 2024-01-20 at 3.46.19 PM.png",
+    "Screenshot 2024-01-23 at 8.55.54 PM.png",
+    "Screenshot 2024-01-28 at 1.18.57 PM.png",
+    "Screenshot 2024-01-30 at 11.48.42 PM.png",
+    "Screenshot 2024-01-30 at 11.48.42 PM 1.png",
+    "Pasted Image 20240130234940_066.png",
+    "Pasted image 20240128131834.png",
+    "Pasted image 20240124184239.png",
+    "Pasted image 20240111012758.png",
+    "Excalidraw/Drawing 2024-01-30 23.46.39.excalidraw.md",
+    "Probability and Statistics (index).md",
+    "Excalidraw",
+    "Bayesian Statistics (index).md",
+    "Baye's theorem.md",
+    "Bayesian inference.md",
+    "International System of Units.md",
+    "Avogadro constant.md",
     "Conditional probability.md",
     "Intersection of events.md",
     "Conditional statement.md",
@@ -175,38 +207,19 @@
     "Identity elements of sets.md",
     "Associativity of sets.md",
     "Events.md",
-    "Probability and Statistics (index).md",
     "Welcome to my notebook!.md",
     "Computer Science (index).md",
     "Instance (computer programming).md",
     "Foobar.md",
     "Example Java Class (reference).md",
     "Data types (java).md",
-    "Object (computer science).md",
-    "Data type.md",
-    "International System of Units.md",
-    "Chemistry (index).md",
-    "Integral.md",
-    "Derivation.md",
-    "Derivative.md",
-    "Indices/Logic (index).md",
-    "Screenshot 2024-01-28 at 1.18.57 PM.png",
-    "Pasted image 20240128131834.png",
     "publish.css",
     "publish.cssx.css",
     "theme.css",
     "dataview",
     "Indices",
     "obsidian.css",
-    "Screenshot 2024-01-24 at 6.42.56 PM.png",
-    "Pasted image 20240124184239.png",
     "templates",
-    "Screenshot 2024-01-23 at 8.56.03 PM 1.png",
-    "Screenshot 2024-01-23 at 8.55.54 PM.png",
-    "Screenshot 2024-01-23 at 8.56.03 PM.png",
-    "I",
-    "Screenshot 2024-01-18 at 6.52.04 PM.png",
-    "Screenshot 2024-01-20 at 3.46.19 PM.png",
-    "venn_diagrams.png"
+    "I"
   ]
 }

@@ -57,4 +57,6 @@
 
 # References
 ---
-- 
+## Worked-Out Answers
+### Conditional probability and law of total probability
+- [[Dinet's whiteboard problem 1-30-24]]
