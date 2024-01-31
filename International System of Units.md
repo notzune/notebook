@@ -68,13 +68,12 @@ the system also allows for *derived units* that come from the product of multipl
 | [[Tesla (unit)\|tesla]] | $\text{T}$ | [[Magnetic field\|magnetic flux density]] | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{Wb}/\text{m}^{2}$ |
 | [[Henry (unit)\|henry]] | $\text{H}$ | [[Inductance\|inductance]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ | $\text{Wb}/\text{A}$ |
 | [[Celsius\|degree Celsius]] | $\degree\text{C}$ | [[Temperature\|temperature]] relative to $273.15\text{ K}$ | $\text{K}$ |  |
-| [[Lumen (unit)\|lumen]] | $\text{lm}$ | luminous flux | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ | $\text{cd}\cdot\text{sr}$ |
-| [[Lux\|lux]] | $\text{lx}$ | illuminance | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ | $\text{lm}/\text{m}^{2}=\text{cd}\cdot\text{sr}\cdot\text{m}^{-2}$ |
-| [[Becquerel\|becquerel]] | $\text{Bq}$ | activity of a radionuclide (decays per unit time) | $\text{s}^{-1}$ |  |
-| [[Gray (unit)\|gray]] | $\text{Gy}$ | absorbed dose (of ionizing radiation) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
-| [[Sievert\|sievert]] | $\text{Sv}$ | equivalent dose (of ionizing radiaiton) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
-| [[Katal\|katal]] | $\text{kat}$ | catalytic activity | $\text{mol}\cdot\text{s}^{-1}$ |  |
-| [[Velocity\|velocity]] | $\text{v}$ | rate of change of displacement | $\text{m}/\text{s}$ |  |
-| [[Speed\|speed]] | $v$ | rate of change of distance | $\text{m}/\text{s}$ |  |
-| [[Acceleration\|acceleration]] | $a$ | rate of change of velocity | $\text{m}/\text{s}^2$ |  |
-| [[Angular acceleration\|angular acceleration]] | $\alpha$ | rate of change of angular velocity  | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
+| [[Lumen (unit)\|lumen]] | $\text{lm}$ | [[Luminous flux\|luminous flux]] | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ | $\text{cd}\cdot\text{sr}$ |
+| [[Lux\|lux]] | $\text{lx}$ | [[Illuminance\|illuminance]] | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ | $\text{lm}/\text{m}^{2}=\text{cd}\cdot\text{sr}\cdot\text{m}^{-2}$ |
+| [[Becquerel\|becquerel]] | $\text{Bq}$ | [[Radioactive decay\|activity of a radionuclide]] (decays per unit time) | $\text{s}^{-1}$ |  |
+| [[Gray (unit)\|gray]] | $\text{Gy}$ | [[Absorbed dose\|absorbed dose]] (of [[Ionizing radiation\|ionizing radiation]]) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
+| [[Sievert\|sievert]] | $\text{Sv}$ | [[Equivalent dose\|equivalent dose]] (of [[Ionizing radiation\|ionizing radiation]]) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
+| [[Katal\|katal]] | $\text{kat}$ | [[Catalysis\|catalytic activity]] | $\text{mol}\cdot\text{s}^{-1}$ |  |
+| [[Speed\|speed]], [[Velocity\|velocity]] | $v$ | [[Rate of change\|rate of change]] of distance/[[Displacement\|displacement]] | $\text{m}/\text{s}$ |  |
+| [[Acceleration\|acceleration]] | $a$ | [[Rate of change\|rate of change]] of [[Velocity\|velocity]] | $\text{m}/\text{s}^2$ |  |
+| [[Angular acceleration\|angular acceleration]] | $\alpha$ | [[Rate of change\|rate of change]] of [[Angular velocity\|angular velocity]] | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |

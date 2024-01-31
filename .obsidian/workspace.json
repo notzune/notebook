@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "International System of Units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "International System of Units.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "International System of Units.md"
               }
             }
           }
@@ -163,11 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "167f744e9bf7aa67",
+  "active": "39243fb9212a62ec",
   "lastOpenFiles": [
-    "Chemistry (index).md",
     "International System of Units.md",
     "Welcome to my notebook!.md",
+    "Chemistry (index).md",
     "Electromagnetism (index).md",
     "Radiant flux.md",
     "Indices/Physics (index).md",
