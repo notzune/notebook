@@ -23,7 +23,7 @@
 - [[Isometry group]]
 - [[Line]]
 - [[Metric space]]
-- [[Motion]]
+- [[Motion (geometry)]]
 - [[Parabola]]
 - [[Perpendicularity]]
 - [[Pythagorean theorem]]

@@ -1,7 +1,11 @@
 # Index
 ---
 - [[Entropy]]
+- [[Gibbs free energy]]
 - [[Heat capacity]]
+- [[Internal energy]]
+- [[Joule per mole]]
+- [[Molar heat capacity]]
 - [[Specific entropy]]
 - [[Specific heat capacity]]
 - [[Specific volume]]

@@ -104,5 +104,15 @@
 | joule per kilogram | $\text{J}/\text{kg}$ | [[Specific energy\|specific energy]] | $\text{m}^{2}\cdot\text{s}^{-2}$ |
 | watt per metre-kelvin | $\text{W}/(\text{m}\cdot\text{K})$ | [[Thermal conductivity and resistivity\|thermal conductivity]] | $\text{m}\cdot\text{kg}\cdot\text{s}^{-3}\cdot\text{K}^{-1}$ |
 | joule per cubic metre | $\text{J}/\text{m}^{3}$ | [[Energy density\|energy density]] | $\text{m}\cdot\text{kg}\cdot\text{s}^{−3}\cdot\text{A}^{−1}$ |
-| volt per metre	 | $\text{V}/\text{m}$ | [[Electric field\|electric field strength]] | $\text{m}\cdot\text{kg}\cdot{s}^{−3}\cdot\text{A}^{−1}$ |
+| volt per metre | $\text{V}/\text{m}$ | [[Electric field\|electric field strength]] | $\text{m}\cdot\text{kg}\cdot{s}^{−3}\cdot\text{A}^{−1}$ |
 | coulomb per cubic metre | $\text{C}/\text{m}^{3}$ | [[Charge density\|electric charge density]] | $\text{m}^{-3}\cdot\text{s}\cdot\text{A}$ |
+| coulomb per square metre | $\text{C}/\text{m}^{2}$ | [[Charge carrier\|surface charge density]], [[Electric displacement field\|electric flux density]], [[Electric displacement field\|electric displacement]] | $\text{m}^{-2}\cdot\text{s}\cdot\text{A}$ |
+| farad per metre | $\text{F}/\text{m}$ | [[Permittivity\|permittivity]] | $\text{m}^{−3}\cdot\text{kg}^{−1}\cdot\text{s}^{4}\cdot\text{A}^{2}$<br> |
+| henry per metre | $\text{H}/\text{m}$ | [[Permeability (electromagnetism)\|permeability]] | $\text{m}\cdot\text{kg}\cdot\text{s}^{−2}\cdot\text{A}^{−2}$ |
+| joule per mole | $\text{J}/\text{mol}$ | [[Joule per mole\|molar energy]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{−2}\cdot\text{mol}^{−1}$ |
+| joule per mole-kelvin | $\text{J}/(\text{mol}\cdot\text{K})$ | [[Entropy\|molar entropy]], [[Molar heat capacity\|molar heat capacity]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{−2}\cdot\text{K}^{-1}\cdot\text{mol}^{−1}$ |
+| coulomb per kilogram | $\text{C}/\text{kg}$ | [[Radiation exposure\|exposure]] (x- and γ-rays) | $\text{kg}^{−1}\cdot\text{s}\cdot\text{A}$ |
+| gray per second | $\text{Gy}/\text{s}$ | [[Absorbed dose\|absorbed dose rate]] | $\text{m}\cdot\text{s}^{-3}$ |
+| watt per steradian | $\text{W}/\text{sr}$ | [[Radiant intensity\|radiant intensity]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{−3}$ |
+| watt per square metre-steradian | $\text{W}/(\text{m}^{2}\cdot\text{sr})$ | [[Radiance\|radiance]] | $\text{kg}\cdot\text{s}^{-3}$ |
+| katal per cubic metre | $\text{kat}/\text{m}^{3}$ | [[Catalysis\|catalytic activity concentration]] | $\text{m}^{−3}\cdot\text{s}^{−1}\cdot\text{mol}$ |

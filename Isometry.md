@@ -2,7 +2,7 @@ an isometry (or congruent transformation) is a distance-preserving transformatio
 
 from the Greek *isos* (equal) and *metron* (measure). 
 
-if the transformation is from a metric space to itself, it is a kind of [[Geometric transformation|geometric transformation]] known as a [[Motion|motion]].
+if the transformation is from a metric space to itself, it is a kind of [[Geometric transformation|geometric transformation]] known as a [[Motion (geometry)|motion]].
 
 ## Definition
 
