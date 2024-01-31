@@ -39,7 +39,7 @@ $$
 z^{-1}=\frac{\overline{z}}{|z|^2},\space\text{ for all }z\neq 0.
 $$
 
-conjugation is [[Commutative property|commutative]] under composition with [[Exponentiation|exponentiation]] to integer powers, with the [[Exponential function|exponential function]], and with the [[Natural log|natural logarithm]] for nonzero arguments:
+conjugation is [[Commutative property|commutative]] under composition with [[Exponentiation|exponentiation]] to integer powers, with the [[Exponential function|exponential function]], and with the [[Natural logarithm|natural logarithm]] for nonzero arguments:
 
 $$
 \begin{align}

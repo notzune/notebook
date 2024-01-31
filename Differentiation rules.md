@@ -9,7 +9,7 @@ the following are the rules for the derivatives of the most common basic functio
 	\end{align}
 	$$
 
-- ### Functions of [[Exponential function|exponential]], [[Natural log|natural logarithm]], and [[Logarithmic functions|logarithm]] with general base:
+- ### Functions of [[Exponential function|exponential]], [[Natural logarithm|natural logarithm]], and [[Logarithmic functions|logarithm]] with general base:
 	$$
 	\begin{align}
 	&\frac{d}{dx}e^x=e^x \\

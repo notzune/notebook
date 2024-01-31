@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "Geometric mean.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "351b05ee9266bca2",
+            "id": "8f2f5dea1d434880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"if and only if\".md",
+                "file": "List of logarithmic identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "1ace1a43b0e78d68",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94485cfec4e1349c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Logic (index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Logic (index).md",
+                "file": "List of logarithmic identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Logic (index).md",
+                "file": "List of logarithmic identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Logic (index).md"
+                "file": "List of logarithmic identities.md"
               }
             }
           }
@@ -181,14 +163,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94485cfec4e1349c",
+  "active": "8f2f5dea1d434880",
   "lastOpenFiles": [
-    "Indices/Propositional calculus (index).md",
-    "Indices/Logic (index).md",
+    "Logarithmic functions.md",
+    "Binary logarithm.md",
+    "Natural logarithm.md",
+    "e (constant).md",
+    "Graph.md",
+    "Exponentiation.md",
+    "List of logarithmic identities.md",
+    "Geometric mean.md",
+    "Mean.md",
+    "Conditional probability.md",
     "\"if and only if\".md",
+    "Indices/Logic (index).md",
+    "Indices/Propositional calculus (index).md",
     "AM–GM inequality.md",
     "Dinet's whiteboard problem 1-30-24.md",
-    "Conditional probability.md",
     "Law of total probability.md",
     "Probability and Statistics (index).md",
     "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
@@ -211,15 +202,6 @@
     "Avogadro constant.md",
     "Intersection of events.md",
     "Conditional statement.md",
-    "Union of events.md",
-    "Deck of cards.md",
-    "Disjoint event.md",
-    "Identities for set operations.md",
-    "Distributive laws of sets.md",
-    "Identity elements of sets.md",
-    "Associativity of sets.md",
-    "Events.md",
-    "Welcome to my notebook!.md",
     "publish.css",
     "publish.cssx.css",
     "theme.css",
