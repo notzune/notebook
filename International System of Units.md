@@ -1,4 +1,3 @@
-
 # Base units
 | Quantity | Name | Symbol |
 | ---- | ---- | ---- |
@@ -116,3 +115,4 @@
 | watt per steradian | $\text{W}/\text{sr}$ | [[Radiant intensity\|radiant intensity]] | $\text{m}^{2}\cdot\text{kg}\cdot\text{s}^{−3}$ |
 | watt per square metre-steradian | $\text{W}/(\text{m}^{2}\cdot\text{sr})$ | [[Radiance\|radiance]] | $\text{kg}\cdot\text{s}^{-3}$ |
 | katal per cubic metre | $\text{kat}/\text{m}^{3}$ | [[Catalysis\|catalytic activity concentration]] | $\text{m}^{−3}\cdot\text{s}^{−1}\cdot\text{mol}$ |
+(see also: [[Unit conversion chart|conversion chart]])
