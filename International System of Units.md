@@ -47,9 +47,6 @@
 | $N_\text{A}$ | [[Avogadro constant]] | $6.02214076\times10^{23}\space\text{mol}^{-1}$ |
 | $K_\text{cd}$ | [[Luminous efficacy\|luminous efficacy]] of 540 THz radiation | $683\space\text{lm/W}$ |
 # Derived units
-
-the system also allows for *derived units* that come from the product of multiplying two or more of the *base units*.
-
 | Name | Symbol | Quantity | in SI base units | in other SI units |
 | ---- | ---- | ---- | ---- | ---- |
 | [[Radian\|radian]] | $\text{rad}$ | [[Angle\|plane angle]] | $\text{m}/\text{m}$ | 1 |
