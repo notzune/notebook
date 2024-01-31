@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinet's whiteboard problem 1-30-24.md",
+                "file": "Law of total probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinet's whiteboard problem 1-30-24.md",
+                "file": "Law of total probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinet's whiteboard problem 1-30-24.md",
+                "file": "Law of total probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinet's whiteboard problem 1-30-24.md"
+                "file": "Law of total probability.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "cc97c61633014a97",
   "lastOpenFiles": [
-    "Probability and Statistics (index).md",
     "Dinet's whiteboard problem 1-30-24.md",
+    "Probability and Statistics (index).md",
     "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",

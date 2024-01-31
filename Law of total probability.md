@@ -25,6 +25,7 @@ where the events $A_i\cap B$ are disjoint, so that
 $$
 \begin{align}
 P(B)&=P(A_1\cap B)+\dots+P(A_n\cap B) \\
+\\
 &=P(A_1)P(B|A_1)+\dots+P(A_n)P(B|A_n)
 \end{align}
 $$
