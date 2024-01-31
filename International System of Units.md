@@ -71,7 +71,7 @@
 | [[Gray (unit)\|gray]] | $\text{Gy}$ | [[Absorbed dose\|absorbed dose]] (of [[Ionizing radiation\|ionizing radiation]]) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
 | [[Sievert\|sievert]] | $\text{Sv}$ | [[Equivalent dose\|equivalent dose]] (of [[Ionizing radiation\|ionizing radiation]]) | $\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{J}/\text{kg}$ |
 | [[Katal\|katal]] | $\text{kat}$ | [[Catalysis\|catalytic activity]] | $\text{mol}\cdot\text{s}^{-1}$ |  |
-| [[Speed\|speed]], [[Velocity\|velocity]] | $v$ | [[Rate of change\|rate of change]] of distance/[[Displacement\|displacement]] | $\text{m}/\text{s}$ |  |
+| [[Speed\|speed]], [[Velocity\|velocity]] | $v$ | [[Rate of change\|rate of change]] of distance/[[Displacement (geometry)\|displacement]] | $\text{m}/\text{s}$ |  |
 | [[Acceleration\|acceleration]] | $a$ | [[Rate of change\|rate of change]] of [[Velocity\|velocity]] | $\text{m}/\text{s}^2$ |  |
 | [[Angular acceleration\|angular acceleration]] | $\alpha$ | [[Rate of change\|rate of change]] of [[Angular velocity\|angular velocity]] | $\text{m}/\text{m}/\text{s}^{2}$ | $\text{rad}/\text{s}^{2}$ |
 ## Coherent derived units

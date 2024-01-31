@@ -4,7 +4,7 @@ more specifically, it is a [[Function|function]] whose [[Domain|domain]] and [[R
 
 ## Classifications
 
-- [[Displacement|displacements]]
+- [[Displacement (geometry)|displacements]]
 - [[Isometry|isometries]]
 - [[Similarity|similarities]]
 - [[Affine transformation|affine transformations]]

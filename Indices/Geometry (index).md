@@ -8,7 +8,7 @@
 - [[Congruence]]
 - [[Curvature]]
 - [[Curve]]
-- [[Displacement]]
+- [[Displacement (geometry)]]
 - [[Distance]]
 - [[Elliptic geometry]]
 - [[Euclidean plane]]
