@@ -2,8 +2,10 @@
 ---
 - [[Algebra]]
 - [[Algebraic structure]]
+- [[Binary logarithm]]
 - [[Binomial theorem]]
 - [[Completing the square]]
+- [[e (constant)]]
 - [[Elementary algebra]]
 - [[Factorization]]
 - [[Function]]
@@ -11,6 +13,9 @@
 - [[Function composition]]
 - [[Inverse functions]]
 - [[Involution]]
+- [[List of logarithmic identities]]
+- [[Logarithmic functions]]
+- [[Natural logarithm]]
 
 # Sub indices
 ---
