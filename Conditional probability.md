@@ -13,7 +13,7 @@ in this case, events $A$ and $B$ have no outcomes in common, so the occurrence o
 because of this, we can assert that the probability of event $A$ conditional on event $B$ must be zero:
 
 $$
-P(A|B)=0\text{ (if $A,B$ are disjoint)}
+P(A|B)=0\text{ (if $A$ and $B$ are disjoint)}
 $$
 
 since $A\cap B=\emptyset$ for mutually exclusive events, this assertion is in agreement with the formula
