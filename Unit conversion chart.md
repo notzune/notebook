@@ -133,8 +133,9 @@
 | $1\times10^{6}$  | $10000$    | $10.76392$                 | $1$                        |
 *Note: $\text{centistokes}\times\text{specific gravity}=\text{centipoise}$*
 # Table 15: Temperature Conversion Formulas
-| Degree Celsius ($\degree\text{C}$) | Degree Fahrenheit ($\degree\text{F}$) | Kelvin ($\text{K}$) |
+| Celsius | Fahrenheit | Kelvin |
 | ---- | ---- | ---- |
+| $\degree\text{C}$ | $\degree\text{F}$ | $\text{K}$ |
 | $1$ | $(\degree\text{C}\times9/5)+32$ | $(\degree\text{C}+273.15)$ |
 | $(\degree\text{F}-32)\times5/9$ | $1$ | $(((\degree\text{F}-32)\times5/9)+273.15)$ |
 | $(\text{K}-273.15)$ | $(K\times9/5)-459.67$ | 1 |
