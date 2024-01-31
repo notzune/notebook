@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "167f744e9bf7aa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to my notebook!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "International System of Units.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "International System of Units.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -150,10 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39243fb9212a62ec",
+  "active": "167f744e9bf7aa67",
   "lastOpenFiles": [
     "Chemistry (index).md",
+    "International System of Units.md",
     "Welcome to my notebook!.md",
+    "Electromagnetism (index).md",
+    "Radiant flux.md",
+    "Indices/Physics (index).md",
+    "Mechanics (index).md",
     "Indices/Algebra (index).md",
     "Indices/Arithmetic (index).md",
     "List of logarithmic identities.md",
@@ -173,7 +191,6 @@
     "Dinet's whiteboard problem 1-30-24.md",
     "Law of total probability.md",
     "Probability and Statistics (index).md",
-    "Excalidraw/Drawing 2024-01-30 23.57.35.excalidraw.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
@@ -184,11 +201,7 @@
     "Pasted image 20240128131834.png",
     "Pasted image 20240124184239.png",
     "Pasted image 20240111012758.png",
-    "Excalidraw/Drawing 2024-01-30 23.46.39.excalidraw.md",
     "Excalidraw",
-    "Bayesian Statistics (index).md",
-    "Baye's theorem.md",
-    "Bayesian inference.md",
     "publish.css",
     "publish.cssx.css",
     "theme.css",

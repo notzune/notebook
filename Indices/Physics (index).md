@@ -13,3 +13,4 @@
 # Sub indices
 ---
 - [[Electromagnetism (index)]]
+- [[Mechanics (index)]]

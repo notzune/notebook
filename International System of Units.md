@@ -7,7 +7,7 @@
 | time | [[Second\|second]] | $\text{s}$ |
 | temperature | [[Kelvin\|kelvin]] | $\text{K}$ |
 | electric current | [[Ampere\|ampere]] | $\text{A}$ |
-| amount of substance | [[Mole (unit)\|mole]] | $\text{mol}$ |
+| [[Amount of substance\|amount of substance]] | [[Mole (unit)\|mole]] | $\text{mol}$ |
 | luminous intensity | [[Candela\|candela]] | $\text{cd}$ |
 # Prefixes
 | Name | Symbol | Factor |
@@ -58,16 +58,16 @@ the system also allows for *derived units* that come from the product of multipl
 | [[Newton (unit)\|newton]] | $\text{N}$ | [[Force\|force]], [[Weight\|weight]] | $\text{kg}\cdot\text{m}\cdot\text{s}^{-2}$ |  |
 | [[Pascal (unit)\|pascal]] | $\text{Pa}$ | [[Pressure\|pressure]], [[Stress (mechanics)\|stress]] | $\text{kg}\cdot\text{m}^{-1}\cdot\text{s}^{-2}$ | $\text{N}/\text{m}^{2}=\text{J}/\text{m}^{3}$ |
 | [[Joule\|joule]] | $\text{J}$ | [[Energy\|energy]], [[Work (physics)\|work]], [[Heat\|heat]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}$ | $\text{N}\cdot\text{m}=\text{Pa}\cdot\text{m}^{3}$ |
-| [[Watt\|watt]] | $\text{W}$ | power, radiant flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}$ | $\text{J}/\text{s}$ |
-| [[Coulomb\|coulomb]] | $\text{C}$ | electric charge | $\text{s}\cdot\text{A}$ |  |
-| [[Volt\|volt]] | $\text{V}$ | electric potential, voltage, emf | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-1}$ | $\text{W}/\text{A}=\text{J}/\text{C}$ |
-| [[Farad\|farad]] | $\text{F}$ | capacitance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{4}\cdot\text{A}^{2}$ | $\text{C}/\text{V}=\text{C}^{2}/\text{J}$ |
-| [[Ohm\|ohm]] | $\Omega$ | resistance, impedance, reactance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-2}$ | $\text{V}/\text{A}=\text{J}\cdot\text{s}/\text{C}^{2}$ |
-| [[Siemens (unit)\|siemens]] | $\text{S}$ | electrical conductance | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{3}\cdot\text{A}^{2}$ | $\Omega^{-1}$ |
-| [[Weber (unit)\|weber]] | $\text{Wb}$ | magnetic flux | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{V}\cdot\text{s}$ |
-| [[Tesla (unit)\|tesla]] | $\text{T}$ | magnetic flux density | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{Wb}/\text{m}^{2}$ |
-| [[Henry (unit)\|henry]] | $\text{H}$ | inductance | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ | $\text{Wb}/\text{A}$ |
-| [[Celsius\|degree Celsius]] | $\degree\text{C}$ | temperature relative to $273.15\text{ K}$ | $\text{K}$ |  |
+| [[Watt\|watt]] | $\text{W}$ | [[Power (physics)\|power]], [[Radiant flux\|radiant flux]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}$ | $\text{J}/\text{s}$ |
+| [[Coulomb\|coulomb]] | $\text{C}$ | [[Electric charge\|electric charge]] | $\text{s}\cdot\text{A}$ |  |
+| [[Volt\|volt]] | $\text{V}$ | [[Electric potential\|electric potential]], [[Voltage\|voltage]], [[Electromotive force\|emf]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-1}$ | $\text{W}/\text{A}=\text{J}/\text{C}$ |
+| [[Farad\|farad]] | $\text{F}$ | [[Capacitance\|capacitance]] | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{4}\cdot\text{A}^{2}$ | $\text{C}/\text{V}=\text{C}^{2}/\text{J}$ |
+| [[Ohm\|ohm]] | $\Omega$ | [[Electrical resistance and conductance\|resistance]], [[Electrical impedance\|impedance]], [[Electrical reactance<br>\|reactance]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-3}\cdot\text{A}^{-2}$ | $\text{V}/\text{A}=\text{J}\cdot\text{s}/\text{C}^{2}$ |
+| [[Siemens (unit)\|siemens]] | $\text{S}$ | [[Electrical resistance and conductance\|electrical conductance]] | $\text{kg}^{-1}\cdot\text{m}^{-2}\cdot\text{s}^{3}\cdot\text{A}^{2}$ | $\Omega^{-1}$ |
+| [[Weber (unit)\|weber]] | $\text{Wb}$ | [[Magnetic flux\|magnetic flux]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{V}\cdot\text{s}$ |
+| [[Tesla (unit)\|tesla]] | $\text{T}$ | [[Magnetic field\|magnetic flux density]] | $\text{kg}\cdot\text{s}^{-2}\cdot\text{A}^{-1}$ | $\text{Wb}/\text{m}^{2}$ |
+| [[Henry (unit)\|henry]] | $\text{H}$ | [[Inductance\|inductance]] | $\text{kg}\cdot\text{m}^{2}\cdot\text{s}^{-2}\cdot\text{A}^{-2}$ | $\text{Wb}/\text{A}$ |
+| [[Celsius\|degree Celsius]] | $\degree\text{C}$ | [[Temperature\|temperature]] relative to $273.15\text{ K}$ | $\text{K}$ |  |
 | [[Lumen (unit)\|lumen]] | $\text{lm}$ | luminous flux | $\text{cd}\cdot\text{m}^{2}/\text{m}^{2}$ | $\text{cd}\cdot\text{sr}$ |
 | [[Lux\|lux]] | $\text{lx}$ | illuminance | $\text{cd}\cdot\text{m}^{2}/\text{m}^{4}$ | $\text{lm}/\text{m}^{2}=\text{cd}\cdot\text{sr}\cdot\text{m}^{-2}$ |
 | [[Becquerel\|becquerel]] | $\text{Bq}$ | activity of a radionuclide (decays per unit time) | $\text{s}^{-1}$ |  |
