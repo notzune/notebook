@@ -3,7 +3,6 @@
 - [[Center of mass]]
 - [[Energy density]]
 - [[Force]]
-- [[International System of Units]]
 - [[Mass]]
 - [[Moment]]
 - [[Moment of inertia]]
@@ -26,4 +25,8 @@
 - [[Mechanics (index)]]
 - [[Radiometry (index)]]
 - [[Thermodynamics (index)]]
+
+# References
+---
+- [[International System of Units]]
 - [[Unit Conversion Chart]]

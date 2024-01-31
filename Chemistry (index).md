@@ -10,7 +10,6 @@
 - [[Density]]
 - [[Dianion]]
 - [[Electrons]]
-- [[International System of Units]]
 - [[Kelvin]]
 - [[Mole (unit)]]
 - [[Oxidation state]]
@@ -22,4 +21,8 @@
 ---
 - [[Compounds (index)]]
 - [[Periodic Elements (index)]]
+
+# References
+---
+-  [[International System of Units]]
 - [[Unit Conversion Chart]]
