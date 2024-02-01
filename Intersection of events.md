@@ -27,3 +27,8 @@ $$
 \end{align}
 $$
 
+the intersection of [[Disjoint event|independent events]] $A_1,\dots,A_n$ is simply given by
+
+$$
+P(A_1\cap\dots\cap A_n)=P(A_1)P(A_2)\dots P(A_n)
+$$
