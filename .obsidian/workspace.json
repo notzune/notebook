@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International System of Units.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbde96fb4221a1e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Conversion Chart.md",
+                "file": "List of trigonometric identities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit Conversion Chart.md",
+                "file": "List of trigonometric identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit Conversion Chart.md",
+                "file": "List of trigonometric identities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit Conversion Chart.md"
+                "file": "List of trigonometric identities.md"
               }
             }
           }
@@ -163,13 +150,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbde96fb4221a1e1",
+  "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "International System of Units.md",
     "Unit Conversion Chart.md",
     "Indices/Physics (index).md",
     "Chemistry (index).md",
     "Physics.md",
-    "International System of Units.md",
     "Meters.md",
     "Displacement (geometry).md",
     "Electromagnetism (index).md",

@@ -36,6 +36,22 @@ $$
 \end{align}
 $$
 
+some other identities that are useful especially in [[Partial integration|partial integration]]:
+
+$$
+\begin{align}
+\sin^{2}x+\cot^{2}x&=1 \\
+\\
+1+\tan^{2}x&=\sec^{2}x \\
+\\
+1+\cot^{2}x&=\csc^{2}x \\
+\\
+\cos^{2}x&=\frac{1+\cos2x}{2} \\
+\\
+\sin^{2}x&=\frac{1-\cos2x}{2} \\
+\end{align}
+$$
+
 ## Table of trigonometric functions in terms of the other five
 
 | in terms of | $\sin\theta$ | $\csc\theta$ | $\cos\theta$ | $\sec\theta$ | $\tan\theta$ | $\cot\theta$ |
