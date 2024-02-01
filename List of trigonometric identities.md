@@ -36,7 +36,7 @@ $$
 \end{align}
 $$
 
-some other identities that are useful especially in [[Partial integration|partial integration]]:
+some other identities that are particularly useful especially in [[Partial integration|partial integration]]:
 
 $$
 \begin{align}
