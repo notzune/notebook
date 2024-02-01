@@ -26,8 +26,7 @@ $$
 P(A\cap B\cap C)=P(A\cap B)\space P(C|A\cap B)=P(A)\space P(B|A)\space P(C|A\cap B)
 $$
 
-thus the probability of all three events occurring can be obtained by multiplying together the probability of one event, the probability of a second conditioned on the first event, and probability of the third event conditioned on the intersection o
-f the first and second events.
+thus the probability of all three events occurring can be obtained by multiplying together the probability of one event, the probability of a second conditioned on the first event, and probability of the third event conditioned on the intersection of the first and second events.
 
 we can get the following multiplication law for the intersection of a series of events
 
