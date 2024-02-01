@@ -4,7 +4,11 @@ $$
 P(A\cap B)=P(B)\space P(A|B)
 $$
 
-in other words, the [[Probability|probability]] of events $A$ and $B$ both occurring can be obtained by multiplying the probability of event $B$ by the probability of event $A$ conditional on $B$. by definition, you can also calculate the probability of event $B$ conditional on $A$ in the same way.
+in other words, the [[Probability|probability]] of events $A$ and $B$ both occurring can be obtained by multiplying the probability of event $B$ by the probability of event $A$ conditional on $B$. 
+
+this behavior is due to the [[General Multiplication Law of Probability|general multiplication law of probability]].
+
+by definition, you can also calculate the probability of event $B$ conditional on $A$ in the same way.
 
 $$
 P(A\cup B)=P(A)\space P(B|A)
