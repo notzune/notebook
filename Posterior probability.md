@@ -46,11 +46,13 @@ intuitively you can just solve this using simple algebra, given that the school 
 
 total number of pants wearers $=0.6N+50\%\text{ of } 0.4N$, and number of girls wearing pants would be just $50\%\text{ of } 0.4N$.
 
-therefore, in the population of pants enthusiasts, girls are $=(50\%\text{ of }0.4N)/(0.6N+50\%\text{ of }0.4N)=25\%$
+therefore, in the population of pants enthusiasts, girls are $=(50\%\text{ of }0.4N)/(0.6N+50\%\text{ of }0.4N)=25\%$, rewritten for clarity this is:
 
 $$
 \begin{align}
-\text{girls wearing pants}&=\frac{0.5(0.4N)}{0.6N+(0.5(0.4N))} \\
+\text{\% girls wearing pants}&=\frac{\text{girls wearing pants}}{\text{total population of pant wearers}} \\
+\\
+&=\frac{0.5(0.4N)}{0.6N+(0.5(0.4N))} \\
 \\
 &=\frac{0.2N}{0.6N+0.2N} \\
 \\
