@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilities of event intersections.md",
+                "file": "Posterior probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilities of event intersections.md",
+                "file": "Posterior probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilities of event intersections.md",
+                "file": "Posterior probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilities of event intersections.md"
+                "file": "Posterior probability.md"
               }
             }
           }
@@ -176,8 +176,12 @@
   },
   "active": "94eef67b687a709c",
   "lastOpenFiles": [
-    "General Multiplication Law of Probability.md",
+    "Baye's theorem.md",
+    "Posterior probability.md",
+    "Law of total probability.md",
     "Probabilities of event intersections.md",
+    "Complement (probability).md",
+    "General Multiplication Law of Probability.md",
     "Probability and Statistics (index).md",
     "Dinet's whiteboard problem 1-30-24.md",
     "Conditional probability.md",
@@ -189,7 +193,6 @@
     "Replacement.md",
     "Variance.md",
     "Bayesian Statistics (index).md",
-    "Baye's theorem.md",
     "Bayesian inference.md",
     "Internet Marketing problem Hayer.md",
     "Approximating areas under curves.md",
@@ -199,9 +202,6 @@
     "Chemistry (index).md",
     "Physics.md",
     "Meters.md",
-    "Displacement (geometry).md",
-    "Electromagnetism (index).md",
-    "Radiometry (index).md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
