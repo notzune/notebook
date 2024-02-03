@@ -2,7 +2,7 @@ in mathematics and [[Statistics|statistics]], a quantitative [[Variables|variabl
 
 # Continuous variable
 
-a continuous variable is a variable whose value is obtained by measuring, i.e. a variable which can take on an [[Uncountable set|uncountable set]] of values.
+a continuous variable is a [[Variables|variable]] whose value is obtained by measuring, i.e. a variable which can take on an [[Uncountable set|uncountable set]] of values.
 
 for example, a variable over a non-empty range of the [[Real numbers|real numbers]] is continuous if it can take on any value in that range.
 

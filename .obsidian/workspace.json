@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuous or discrete variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b6f16bb16a4d67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "Variables.md"
               }
             }
           }
@@ -163,13 +150,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b6f16bb16a4d67f",
+  "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "Pasted image 20240203144718.png",
+    "Pasted image 20240203144545.png",
     "Continuous or discrete variable.md",
+    "Welcome to my notebook!.md",
     "Natural numbers.md",
     "Subset.md",
     "Power sets.md",
-    "Welcome to my notebook!.md",
     "Systems theory (index).md",
     "System.md",
     "Indices/Physics (index).md",
@@ -190,7 +179,6 @@
     "General Multiplication Law of Probability.md",
     "Dinet's whiteboard problem 1-30-24.md",
     "Conditional probability.md",
-    "Probability mass function (PMF).md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
@@ -200,7 +188,6 @@
     "Pasted Image 20240130234940_066.png",
     "Pasted image 20240128131834.png",
     "Pasted image 20240124184239.png",
-    "Pasted image 20240111012758.png",
     "Excalidraw",
     "publish.css",
     "publish.cssx.css",
