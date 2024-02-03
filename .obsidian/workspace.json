@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous or discrete variable.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuous or discrete variable.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Continuous or discrete variable.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -162,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94eef67b687a709c",
+  "active": "0b6f16bb16a4d67f",
   "lastOpenFiles": [
-    "Natural numbers.md",
     "Continuous or discrete variable.md",
+    "Natural numbers.md",
     "Subset.md",
     "Power sets.md",
     "Welcome to my notebook!.md",

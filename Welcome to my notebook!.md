@@ -2,9 +2,10 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 ## 📧 Contact Me
 
->[!quote|brown] If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me:
+>[!quote|brown] If you see any spelling or grammatical errors that I may have missed, or just have general questions or want to suggest changes, or even just to chat and vent about your life; feel free to email me or message me on Discord:
 > 
-> zrashed02@gmail.com
+> **Email**: zrashed02@gmail.com
+> **Discord**: zune_cs
 > 
 > also, follow me [on GitHub](https://github.com/notzune) 👀
 
