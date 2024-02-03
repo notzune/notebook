@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Continuous or discrete variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Continuous or discrete variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "Continuous or discrete variable.md"
               }
             }
           }
@@ -163,8 +162,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b6f16bb16a4d67f",
+  "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "Natural numbers.md",
+    "Continuous or discrete variable.md",
+    "Subset.md",
+    "Power sets.md",
+    "Welcome to my notebook!.md",
     "Systems theory (index).md",
     "System.md",
     "Indices/Physics (index).md",
@@ -172,7 +176,6 @@
     "Untitled.md",
     "Physical system.md",
     "Parameter.md",
-    "Continuous or discrete variable.md",
     "Probability and Statistics (index).md",
     "Variables.md",
     "Likelihood function.md",
@@ -187,10 +190,6 @@
     "Dinet's whiteboard problem 1-30-24.md",
     "Conditional probability.md",
     "Probability mass function (PMF).md",
-    "dinets.info.md",
-    "Random variables.md",
-    "Intersection of events.md",
-    "List of trigonometric identities.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
