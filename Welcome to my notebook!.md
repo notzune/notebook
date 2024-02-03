@@ -78,6 +78,8 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Computer Architecture (index)|Computer Architecture]]
 - 🗃 [[Robotics (index)|Robotics]]
 
+### 🏗🚧🗄 [[Systems theory (index)|Systems Theory]]
+
 ### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
 
 - 🗃 [[Periodic Elements (index)|Periodic Elements]]

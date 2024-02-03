@@ -6,6 +6,7 @@
 - [[Complement (probability)]]
 - [[Conditional probability]]
 - [[Conditional probability distribution]]
+- [[Continuous or discrete variable]]
 - [[Covariance]]
 - [[Cumulative distribution function (CDF)]]
 - [[Deviation]]

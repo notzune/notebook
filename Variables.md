@@ -1,2 +1,1 @@
-a placeholder. Used to make mathematical statements.
-
+a placeholder. Used to make mathematical statements. this may represent a number, a [[Vectors|vector]], a [[Matrices|matrix]], a [[Function|function]], the [[Argument of a function|argument of a function]], a [[Sets|set]], or an [[Element|element]] of a set.

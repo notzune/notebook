@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combination.md",
+                "file": "Continuous or discrete variable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6bff669aad5cd04",
+            "id": "0b6f16bb16a4d67f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Welcome to my notebook!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combination.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combination.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combination.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -162,12 +163,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94eef67b687a709c",
+  "active": "0b6f16bb16a4d67f",
   "lastOpenFiles": [
-    "Hypergeometric distribution.md",
-    "Combination.md",
-    "Posterior probability.md",
+    "Systems theory (index).md",
+    "System.md",
+    "Indices/Physics (index).md",
+    "Black box.md",
+    "Untitled.md",
+    "Physical system.md",
+    "Parameter.md",
+    "Continuous or discrete variable.md",
     "Probability and Statistics (index).md",
+    "Variables.md",
+    "Likelihood function.md",
+    "Combination.md",
+    "Hypergeometric distribution.md",
+    "Posterior probability.md",
     "Baye's theorem.md",
     "Law of total probability.md",
     "Probabilities of event intersections.md",
@@ -180,16 +191,6 @@
     "Random variables.md",
     "Intersection of events.md",
     "List of trigonometric identities.md",
-    "Replacement.md",
-    "Variance.md",
-    "Bayesian Statistics (index).md",
-    "Bayesian inference.md",
-    "Internet Marketing problem Hayer.md",
-    "Approximating areas under curves.md",
-    "International System of Units.md",
-    "Unit Conversion Chart.md",
-    "Indices/Physics (index).md",
-    "Chemistry (index).md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",

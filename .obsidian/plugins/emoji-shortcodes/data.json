@@ -4,13 +4,13 @@
   "historyPriority": true,
   "historyLimit": 100,
   "history": [
-    ":spiral_notepad:",
-    ":eyes:",
+    ":file_cabinet:",
     ":card_file_box:",
-    ":email:",
     ":construction:",
     ":building_construction:",
-    ":file_cabinet:",
+    ":spiral_notepad:",
+    ":eyes:",
+    ":email:",
     ":abacus:"
   ]
 }
