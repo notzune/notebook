@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables.md",
+                "file": "Shape of the distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables.md",
+                "file": "Shape of the distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables.md",
+                "file": "Shape of the distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables.md"
+                "file": "Shape of the distribution.md"
               }
             }
           }
@@ -152,10 +152,17 @@
   },
   "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "Probability mass function (PMF).md",
+    "Shape of the distribution.md",
+    "Welcome to my notebook!.md",
+    "Sample space.md",
+    "Random variables.md",
+    "Likelihood function.md",
+    "Combination.md",
+    "Continuous or discrete variable.md",
+    "Variables.md",
     "Pasted image 20240203144718.png",
     "Pasted image 20240203144545.png",
-    "Continuous or discrete variable.md",
-    "Welcome to my notebook!.md",
     "Natural numbers.md",
     "Subset.md",
     "Power sets.md",
@@ -167,18 +174,12 @@
     "Physical system.md",
     "Parameter.md",
     "Probability and Statistics (index).md",
-    "Variables.md",
-    "Likelihood function.md",
-    "Combination.md",
     "Hypergeometric distribution.md",
     "Posterior probability.md",
     "Baye's theorem.md",
     "Law of total probability.md",
     "Probabilities of event intersections.md",
     "Complement (probability).md",
-    "General Multiplication Law of Probability.md",
-    "Dinet's whiteboard problem 1-30-24.md",
-    "Conditional probability.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
@@ -187,7 +188,6 @@
     "Screenshot 2024-01-30 at 11.48.42 PM 1.png",
     "Pasted Image 20240130234940_066.png",
     "Pasted image 20240128131834.png",
-    "Pasted image 20240124184239.png",
     "Excalidraw",
     "publish.css",
     "publish.cssx.css",
