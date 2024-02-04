@@ -61,6 +61,7 @@
 - [[Bayesian Statistics (index)]]
 - [[Combinatorics (index)]]
 - [[Statistical Mechanics (index)]]
+- [[Comparison of mean, median and mode]]
 
 # References
 ---
