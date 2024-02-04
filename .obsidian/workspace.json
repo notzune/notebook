@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "641aaa73c66a1726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Probability and Statistics (index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Mode (statistics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Mode (statistics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md"
+                "file": "Mode (statistics).md"
               }
             }
           }
@@ -163,11 +150,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "641aaa73c66a1726",
+  "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "Python formula sheet.md",
+    "Indices/Probability and Statistics (index).md",
     "Comparison of mean, median and mode.md",
     "Mode (statistics).md",
-    "Indices/Probability and Statistics (index).md",
     "Pasted image 20240204133038.png",
     "Screenshot 2024-02-04 at 1.29.50 PM.png",
     "Pasted image 20240204132920.png",

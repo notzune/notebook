@@ -66,6 +66,7 @@
 # References
 ---
 - [[Deck of cards]]
+- [[Python formula sheet]]
 
 ## Worked-Out Answers
 ### Conditional probability and law of total probability
