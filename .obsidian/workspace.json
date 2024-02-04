@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ea2a0ded8f8d6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shape of the distribution.md",
+                "file": "Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shape of the distribution.md",
+                "file": "Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shape of the distribution.md"
+                "file": "Probability and Statistics (index).md"
               }
             }
           }
@@ -150,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94eef67b687a709c",
+  "active": "3ea2a0ded8f8d6e8",
   "lastOpenFiles": [
-    "Multimodal distribution.md",
     "Shape of the distribution.md",
+    "Multimodal distribution.md",
     "Unimodality.md",
     "Pasted image 20240203223550.png",
     "Probability mass function (PMF).md",
