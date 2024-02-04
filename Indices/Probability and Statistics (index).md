@@ -45,6 +45,7 @@
 - [[Replacement]]
 - [[Sample space]]
 - [[Shape of the distribution]]
+- [[Skewness]]
 - [[Squared deviations from the mean (SDM)]]
 - [[Standard deviation]]
 - [[Statistical model]]
