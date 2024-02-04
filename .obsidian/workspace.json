@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skewness.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skewness.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skewness.md"
+                "file": "Indices/Probability and Statistics (index).md"
               }
             }
           }
@@ -162,12 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94eef67b687a709c",
+  "active": "72547f6795721a6b",
   "lastOpenFiles": [
-    "Screenshot 2024-02-04 at 4.20.01 PM.png",
-    "Pasted image 20240204161952.png",
+    "Shape of the distribution.md",
     "Indices/Probability and Statistics (index).md",
     "Skewness.md",
+    "Screenshot 2024-02-04 at 4.20.01 PM.png",
+    "Pasted image 20240204161952.png",
     "Mode (statistics).md",
     "Probability distribution.md",
     "Python formula sheet.md",
@@ -178,7 +180,6 @@
     "Normal distribution.md",
     "Weighted arithmetic mean.md",
     "Mean.md",
-    "Shape of the distribution.md",
     "Multimodal distribution.md",
     "Unimodality.md",
     "Pasted image 20240203223550.png",
@@ -199,7 +200,6 @@
     "System.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
-    "Screenshot 2024-01-23 at 8.55.54 PM.png",
     "Excalidraw",
     "publish.css",
     "publish.cssx.css",
