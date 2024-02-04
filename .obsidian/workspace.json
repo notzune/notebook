@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shape of the distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ea2a0ded8f8d6e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Mode (statistics).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Mode (statistics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability and Statistics (index).md",
+                "file": "Mode (statistics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability and Statistics (index).md"
+                "file": "Mode (statistics).md"
               }
             }
           }
@@ -163,8 +150,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ea2a0ded8f8d6e8",
+  "active": "94eef67b687a709c",
   "lastOpenFiles": [
+    "Probability and Statistics (index).md",
+    "Mode (statistics).md",
+    "Normal distribution.md",
+    "Weighted arithmetic mean.md",
+    "Mean.md",
     "Shape of the distribution.md",
     "Multimodal distribution.md",
     "Unimodality.md",
@@ -189,11 +181,6 @@
     "Untitled.md",
     "Physical system.md",
     "Parameter.md",
-    "Probability and Statistics (index).md",
-    "Hypergeometric distribution.md",
-    "Posterior probability.md",
-    "Baye's theorem.md",
-    "Law of total probability.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-01-23 at 8.55.54 PM.png",
