@@ -1,0 +1,1 @@
+the ideal gas law, also called the general gas equation is the equation of state of a hypothetical ideal gas. 
