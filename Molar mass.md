@@ -1,6 +1,6 @@
 in [[Chemistry|chemistry]], the molar mass ($M$) of a [[Chemical compound|chemical compound]] is defined as the ratio between the [[Mass|mass]] of the [[Amount of substance|amount of substance]] (measured in [[Mole (unit)|moles]]) of any sample of the compound.
 
-the molar mass is a bulk, not molecular, property of a substance and is an average of many instances of the compound which often vary in mass due ot the presence of [[Isotope|isotopes]].
+the molar mass is a bulk, not molecular, property of a substance and is an average of many instances of the compound which often vary in mass due to the presence of [[Isotope|isotopes]].
 
 molar mass is an [[Intensive and extensive properties|intensive]] property of the substance that does not depend on the size of the sample.
 
@@ -47,5 +47,53 @@ $$
 \\
 &M(\text{C}_{12}\text{H}_{22}\text{O}_{11}) &= \left[ 12 \times 12.0107 + 22 \times 1.00794 + 11 \times 15.9994 \right] \times 1 \text{ g/mol} \\
 &&= 342.297\text{ g/mol} \\
+\end{align*}
+$$
+
+the average molar mass of mixtures $\overline{M}$ can be calculated from the [[Mole fraction|mole fractions]] $x_i$ of the components and their molar masses $M_i$.
+
+$$
+\overline{M}=\sum_ix_iM_i
+$$
+
+it can also be calculated from the [[Mass fraction (chemistry)|mass fractions]] $w_i$ of the components:
+
+$$
+\frac{1}{M}=\sum_i\frac{w_i}{M_i}
+$$
+
+as an example the average molar mass of dry air is 28.97 g/mol:
+
+dry air is primarily composed of [[Nitrogen|nitrogen]] ($\text{N}_2$), [[Oxygen|oxygen]] ($\text{O}_2$), Argon ($\text{Ar}$), and [[Carbon dioxide|carbon dioxide]] ($\text{CO}_2$), along with trace amounts of other gases. for simplicity, we will only consider the major components:
+
+$$
+\begin{align}
+&M_{\text{N}_{2}}&=28.014\space\text{g/mol} \\
+&M_{\text{O}_{2}}&=31.998\space\text{g/mol} \\
+&M_{\text{Ar}}&=39.948\space\text{g/mol} \\
+&M_{\text{CO}_{2}}&=44.01\space\text{g/mol} \\
+\end{align}
+$$
+
+we then take the generally accepted average values based on the composition of Earth's atmosphere:
+
+- nitrogen $(\text{N}_2)\approx 78\%$
+- oxygen $(\text{O}_2)\approx 21\%$ by volume.
+- argon $(\text{Ar})\approx 0.93\%$ by volume.
+- carbon $(\text{CO}_2)\approx 0.04\%$ by volume
+
+these percentages are then converted into mole fractions (which, in the case of gases in a mixture like air, are approximately equal to volume fractions because of the properties of gases under the [[Ideal gas law|ideal gas law]]).
+
+- $x_{\text{N}_2}=0.78$
+- $x_{\text{O}_2}=0.21$
+- $x_{\text{Ar}}=0.0093$
+- - $x_{\text{CO}_2}=0.0004$
+
+$$
+\begin{align*}
+\overline{M}_{\text{dry air}} &= x_{\text{N₂}} M_{\text{N₂}} + x_{\text{O₂}} M_{\text{O₂}} + x_{\text{Ar}} M_{\text{Ar}} + x_{\text{CO₂}} M_{\text{CO₂}} \\
+&= (0.78 \times 28.014) + (0.21 \times 31.998) + (0.0093 \times 39.948) + (0.0004 \times 44.01) \\
+&= 21.89092 + 6.71958 + 0.3716214 + 0.017604 \\
+&\approx 28.99972 \text{ g/mol}
 \end{align*}
 $$
