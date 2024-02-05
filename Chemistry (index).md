@@ -2,19 +2,27 @@
 ---
 - [[Amount of substance]]
 - [[Anion]]
+- [[Atom]]
 - [[Avogadro constant]]
 - [[Celsius]]
+- [[Chemical compound]]
+- [[Chemical element]]
 - [[Chemical formula]]
 - [[Chemistry]]
 - [[Concentration]]
 - [[Density]]
 - [[Dianion]]
 - [[Electrons]]
+- [[Intensive and extensive properties]]
+- [[Isotope]]
 - [[Kelvin]]
+- [[Molar mass]]
 - [[Mole (unit)]]
+- [[Neutrons]]
 - [[Oxidation state]]
 - [[Oxide]]
 - [[Pressure]]
+- [[Protons]]
 - [[Thermal oxidation]]
 
 # Sub indices
@@ -24,6 +32,7 @@
 
 # References
 ---
--  [[International System of Units]]
+- [[International System of Units]]
+- [[Periodic Table]]
 - [[Significant figures]]
 - [[Unit Conversion Chart]]

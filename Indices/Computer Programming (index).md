@@ -3,6 +3,7 @@
 - [[Abstraction layer]]
 - [[Computer programming]]
 - [[Coupling (computer programming)]]
+- [[Deprecation]]
 - [[Execution]]
 - [[Functional programming]]
 - [[Function composition (computer science)]]
