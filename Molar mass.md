@@ -64,7 +64,7 @@ $$
 
 as an example the average molar mass of dry air is 28.97 g/mol:
 
-dry air is primarily composed of [[Nitrogen|nitrogen]] ($\text{N}_2$), [[Oxygen|oxygen]] ($\text{O}_2$), Argon ($\text{Ar}$), and [[Carbon dioxide|carbon dioxide]] ($\text{CO}_2$), along with trace amounts of other gases. for simplicity, we will only consider the major components:
+dry air is primarily composed of [[Nitrogen|nitrogen]] ($\text{N}_2$), [[Oxygen|oxygen]] ($\text{O}_2$), [[Argon|argon]] ($\text{Ar}$), and [[Carbon dioxide|carbon dioxide]] ($\text{CO}_2$), along with trace amounts of other gases. for simplicity, we will only consider the major components:
 
 $$
 \begin{align}
