@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skewness.md",
+                "file": "Discrete uniform distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5769c1ce06c79c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Chemistry (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Chemistry (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md"
+                "file": "Chemistry (index).md"
               }
             }
           }
@@ -163,15 +175,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72547f6795721a6b",
+  "active": "f5769c1ce06c79c8",
   "lastOpenFiles": [
-    "Shape of the distribution.md",
+    "Significant figures.md",
+    "Chemistry.md",
     "Indices/Probability and Statistics (index).md",
-    "Skewness.md",
-    "Screenshot 2024-02-04 at 4.20.01 PM.png",
-    "Pasted image 20240204161952.png",
+    "Discrete uniform distribution.md",
     "Mode (statistics).md",
     "Probability distribution.md",
+    "Skewness.md",
+    "Shape of the distribution.md",
+    "Screenshot 2024-02-04 at 4.20.01 PM.png",
+    "Pasted image 20240204161952.png",
     "Python formula sheet.md",
     "Comparison of mean, median and mode.md",
     "Pasted image 20240204133038.png",
@@ -196,8 +211,6 @@
     "Natural numbers.md",
     "Subset.md",
     "Power sets.md",
-    "Systems theory (index).md",
-    "System.md",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Excalidraw",

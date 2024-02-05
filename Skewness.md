@@ -1,4 +1,6 @@
-in [[Probability theory|probability theory]] and [[Statistics|stats]], skewness is a measure of the asymmetry of the [[Probability distribution|probability distribution of a real-values]] [[Random variables|random variable]] about its [[Weighted arithmetic mean|mean]]. the skewness value can be positive, zero, negative, or undefined.
+in [[Probability theory|probability theory]] and [[Statistics|stats]], skewness is a measure of the asymmetry of the [[Probability distribution|probability distribution]] of a real-valued [[Random variables|random variable]] about its [[Weighted arithmetic mean|mean]]. 
+
+the skewness value can be positive, zero, negative, or undefined.
 
 for a [[Unimodality|unimodal]] distribution, negative skew indicates that the tail is on the left side of the distribution, and positive skew indicates the tail is on the right.
 
@@ -8,7 +10,7 @@ therefore, skewness should not be the judge of symmetry of a given distribution 
 
 # Definitions
 
-1. negative skew: the left tail is longer; the mass of the distribution is concentrated on the right of the figure. this distribution is considered *left-skewed*, *left-tailed*, or *skewed to the left*. left in this definition refers to the tail being on the left despite the graph appearing to be leaning to the right.
-2. positive skew: the right tail is longer; the mass of the distribution is concentrated on the left of the figure. this distribution is considered *right-skewed*, *right-tailed*, or *skewed to the right*. like the definition for left skewness, right in this definition refers to the tail being on the right despite the graph appearing to be leaning to the left.
+1. *negative skew*: the left tail is longer; the mass of the distribution is concentrated on the right of the figure. this distribution is considered *left-skewed*, *left-tailed*, or *skewed to the left*. left in this definition refers to the tail being on the left despite the graph appearing to be leaning to the right.
+2. *positive skew*: the right tail is longer; the mass of the distribution is concentrated on the left of the figure. this distribution is considered *right-skewed*, *right-tailed*, or *skewed to the right*. like the definition for left skewness, right in this definition refers to the tail being on the right despite the graph appearing to be leaning to the left.
 
 ![[Screenshot 2024-02-04 at 4.20.01 PM.png]]

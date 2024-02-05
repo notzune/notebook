@@ -11,6 +11,7 @@
 - [[Cumulative distribution function (CDF)]]
 - [[Deviation]]
 - [[Discrete probability distribution]]
+- [[Discrete uniform distribution]]
 - [[Disjoint event]]
 - [[Dispersion]]
 - [[Events]]
