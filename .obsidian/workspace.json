@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Periodic Elements (index).md",
+                "file": "Significant figures.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Significant figures.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Significant figures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to my notebook!.md",
+                "file": "Significant figures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to my notebook!.md"
+                "file": "Significant figures.md"
               }
             }
           }
@@ -177,14 +177,21 @@
   },
   "active": "bf2f45cb5225ff3b",
   "lastOpenFiles": [
-    "Indices/Physics (index).md",
+    "Indices/Chemistry (index).md",
     "Welcome to my notebook!.md",
+    "Molar mass.md",
+    "publish.css",
+    "publish.csszx.css",
+    "publish.csszz.css",
+    "theme.css",
+    "publish.cssx.css",
+    "publish.cssxz.css",
+    "Significant figures.md",
+    "Indices/Periodic Elements (index).md",
+    "Indices/Physics (index).md",
     "Indices/Computer Science (index).md",
     "Computer Engineering (index).md",
-    "Indices/Periodic Elements (index).md",
-    "Indices/Chemistry (index).md",
     "Indices/Systems theory (index).md",
-    "Molar mass.md",
     "Periodic Table.md",
     "Silicon.md",
     "Deprecation.md",
@@ -192,7 +199,6 @@
     "Intensive and extensive properties.md",
     "Indices/Probability and Statistics (index).md",
     "Discrete uniform distribution.md",
-    "Significant figures.md",
     "Chemistry.md",
     "Mode (statistics).md",
     "Probability distribution.md",
@@ -207,20 +213,14 @@
     "Pasted image 20240204132920.png",
     "Normal distribution.md",
     "Weighted arithmetic mean.md",
-    "Mean.md",
     "Pasted image 20240203223550.png",
     "Pasted image 20240203144718.png",
     "Pasted image 20240203144545.png",
     "Screenshot 2024-01-18 at 6.52.04 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Excalidraw",
-    "publish.css",
-    "publish.cssx.css",
-    "theme.css",
     "dataview",
     "Indices",
-    "obsidian.css",
-    "templates",
-    "I"
+    "obsidian.css"
   ]
 }

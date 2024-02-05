@@ -1,4 +1,4 @@
-my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. i'm also in the process of digitizing **ALL*** my notes from each and every single one of my notebooks (that I can still find and are readable) so that this will be one center of free knowledge for my peers and anyone else who happens to find this site.
+my personal notebook that i use for my studies and project planning. eventually i'll get around to organizing this a lot better. i'm also in the process of digitizing ***ALL*** my notes from each and every single one of my notebooks (that I can still find and are readable) so that this will be one center of free knowledge for my peers and anyone else who happens to find this site.
 
 ## 📧 Contact Me
 

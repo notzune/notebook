@@ -25,9 +25,9 @@ for example. if your ruler only measures to the nearest millimeter, it doesn't m
 - **$2500$:** without a decimal point, it's unclear if the trailing zeroes are significant. if it's noted that the measurement is accurate to the nearest ten, then the number would be significant up to the first zero, making it three significant figures (2, 5, 0). if it's precise to the nearest unit, then all four digits are significant.
 - **$50.00$ m:** here, the trailing zeroes indicate precision. this could be a length measured with a tool that's accurate to the hundredths of a meter, making all four digits significant.
 - **$0.00700$ kg:** leading zeroes aren't significant, but the trailing zeroes are because they show the measurement is precise up to the ten-thousandths place. so, three digits are significant here (7, 0, 0).
-- **$2.98$ L (with an uncertainty of $\pm0.05$ L)**: this measurement is down to the hundredths of a liter, so it's pretty precise. every digit (2, 9, 8) is significant because they all say something about the volume you're measuring.
+- **$2.98$ L** (with an **uncertainty** of **$\pm0.05$ L**): this measurement is down to the hundredths of a liter, so it's pretty precise. every digit (2, 9, 8) is significant because they all say something about the volume you're measuring.
 
-if you've got a measurement like $2.98854$ L with an uncertainty of $\pm0.05$ L, it's still super precise, down to the hundred-thousandths place. but here's the twist: the uncertainty tells you about the precision of your measurement tool or method. 
+if you've got a measurement like $2.98854$ L with an uncertainty of $\pm0.05$ L, it's still super precise, down to the hundred-thousandths place, but the provided uncertainty tells you about the precision of your measurement tool or method. 
 
 even though the number itself looks really precise, the uncertainty of $\pm0.05$ L suggests your tool's precision is only up to the hundredths place. the digits **2, 9, 8, and 8** are within the realm of your tool's precision. they're telling you something reliable about the volume.
 
