@@ -34,3 +34,58 @@ the CDF of a continuous random variable $X$ can be expressed as the [[Integratio
 $$
 F_X(x)=\int^{x}_{-\infty}fx(t)dt
 $$
+
+# Examples
+
+## Discrete Random Variable (Using PMF to find CDF)
+
+suppose you have a discrete random variable $X$ that represents the number of heads when flipping a fair coin three times. the possible values of $X$ are ${0, 1, 2, 3}$.
+
+the probability mass function, $P(X=x)$, might look like this:
+
+- $P(X=0) = 0.125$ (getting all tails)
+- $P(X=1) = 0.375$ (getting one head and two tails)
+- $P(X=2) = 0.375$ (getting two heads and one tail)
+- $P(X=3) = 0.125$ (getting all heads)
+
+to find the cumulative distribution function, $F(x)$, you sum the probabilities for all outcomes up to and including $x$:
+
+$$
+F(x)=\sum_{y:y\leq x}P(X=y)
+$$
+
+so, $F(x)$ will be:
+
+- $F(0) = P(X=0) = 0.125$
+- $F(1) = P(X=0) + P(X=1) = 0.125 + 0.375 = 0.500$
+- $F(2) = P(X=0) + P(X=1) + P(X=2) = 0.500 + 0.375 = 0.875$
+- $F(3) = P(X=0) + P(X=1) + P(X=2) + P(X=3) = 0.875 + 0.125 = 1.000$
+
+## Continuous Random Variable (Using PDF and CDF)
+
+consider a continuous random variable $X$ that has a uniform distribution between 0 and 1. the probability density function, $f_X(x)$, is:
+
+$$
+f_X(x) = \begin{cases} 
+1 & \text{for } 0 \leq x \leq 1 \\
+0 & \text{otherwise}
+\end{cases}
+$$
+
+the cumulative distribution function, $F_X(x)$, is the integral of the probability density function from $-\infty$ to $x$:
+
+$$
+F_X(x)=\int^{x}_{-\infty}f_X(t)dt
+$$
+
+so, for $0 \leq x \leq 1$, $F_X(x)$ will be:
+
+$$
+F_X(x) = \int_{0}^{x} 1 dt = x
+$$
+
+and $F_X(x)$ will look like:
+
+- $F_X(x) = 0$ for $x < 0$
+- $F_X(x) = x$ for $0 \leq x \leq 1$
+- $F_X(x) = 1$ for $x > 1$

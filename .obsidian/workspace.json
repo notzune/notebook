@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Probability density function (PDF).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Probability density function (PDF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Probability density function (PDF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cumulative distribution function (CDF).md"
+                "file": "Probability density function (PDF).md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "0edb3b5c8295fc6e",
   "lastOpenFiles": [
-    "Indices/Probability and Statistics (index).md",
     "Cumulative distribution function (CDF).md",
+    "Probability mass function (PMF).md",
+    "Indices/Probability and Statistics (index).md",
     "Ideal gas law.md",
     "Indices/Chemistry (index).md",
     "Charles's law.md",
@@ -197,7 +198,6 @@
     "Screenshot 2024-02-04 at 4.20.01 PM.png",
     "Pasted image 20240204161952.png",
     "Python formula sheet.md",
-    "Comparison of mean, median and mode.md",
     "Pasted image 20240204133038.png",
     "Screenshot 2024-02-04 at 1.29.50 PM.png",
     "Pasted image 20240204132920.png",
