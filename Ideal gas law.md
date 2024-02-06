@@ -1,6 +1,6 @@
 the ideal gas law, also called the general gas equation is the equation of state of a hypothetical ideal gas. 
 
-it is a combination of the empirical [[Boyle's law]], [[Charles's Law]], [[Avogadro's law]], and [[Gay-Lussac's law]].
+it is a combination of the empirical [[Boyle's law]], [[Charles's law]], [[Avogadro's law]], and [[Gay-Lussac's law]].
 
 the ideal gas law is written empirically as:
 
