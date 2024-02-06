@@ -63,10 +63,10 @@
 - [[Bayesian Statistics (index)]]
 - [[Combinatorics (index)]]
 - [[Statistical Mechanics (index)]]
-- [[Comparison of mean, median and mode]]
 
 # References
 ---
+- [[Comparison of mean, median and mode]]
 - [[Deck of cards]]
 - [[Python formula sheet]]
 
