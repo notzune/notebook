@@ -1,0 +1,1 @@
+an encapsulated [[Object (computer science)|object]] can be thought of as a [[Black box|black box]]–its inner workings are hidden from the client.  the client can then invoke the [[Interface (computer science)|interface]] methods and they manage the [[Instance (computer programming)|instance]] data.

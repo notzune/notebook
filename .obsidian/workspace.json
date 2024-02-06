@@ -20,18 +20,55 @@
             }
           },
           {
+            "id": "9452ee76c3e1dc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4355f0178889b335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encapsulation (computer programming).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7294f72fc34b20d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Method (computer programming).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9b3942b67e6331c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability density function (PDF).md",
+                "file": "Indices/Computer Programming (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability density function (PDF).md",
+                "file": "Indices/Computer Programming (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability density function (PDF).md"
+                "file": "Indices/Computer Programming (index).md"
               }
             }
           }
@@ -162,11 +199,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0edb3b5c8295fc6e",
+  "active": "b9b3942b67e6331c",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
+    "Indices/Computer Programming (index).md",
+    "Instance (computer programming).md",
+    "Indices/Computer Science (index).md",
+    "Method (computer programming).md",
+    "Encapsulation (computer programming).md",
+    "UML Diagram.md",
+    "Indices/Probability and Statistics (index).md",
+    "Probability density function (PDF).md",
     "Cumulative distribution function (CDF).md",
     "Probability mass function (PMF).md",
-    "Indices/Probability and Statistics (index).md",
     "Ideal gas law.md",
     "Indices/Chemistry (index).md",
     "Charles's law.md",
@@ -181,23 +226,15 @@
     "publish.cssxz.css",
     "Indices/Periodic Elements (index).md",
     "Indices/Physics (index).md",
-    "Indices/Computer Science (index).md",
     "Computer Engineering (index).md",
     "Indices/Systems theory (index).md",
     "Periodic Table.md",
     "Silicon.md",
     "Deprecation.md",
-    "Indices/Computer Programming (index).md",
     "Intensive and extensive properties.md",
     "Discrete uniform distribution.md",
-    "Chemistry.md",
-    "Mode (statistics).md",
-    "Probability distribution.md",
-    "Skewness.md",
-    "Shape of the distribution.md",
     "Screenshot 2024-02-04 at 4.20.01 PM.png",
     "Pasted image 20240204161952.png",
-    "Python formula sheet.md",
     "Pasted image 20240204133038.png",
     "Screenshot 2024-02-04 at 1.29.50 PM.png",
     "Pasted image 20240204132920.png",
