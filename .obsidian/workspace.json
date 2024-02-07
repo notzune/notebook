@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "af783036f18e15e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd1c7f3418d79b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dinet's quiz question 2-6-23.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dinet's quiz question 2-6-23.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dinet's quiz question 2-6-23.md"
+                "file": "Indices/Probability and Statistics (index).md"
               }
             }
           }
@@ -150,17 +168,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed848edc9ab0d1b",
+  "active": "fd1c7f3418d79b16",
   "lastOpenFiles": [
-    "Probability density function (PDF).md",
     "Dinet's quiz question 2-6-23.md",
+    "Indices/Probability and Statistics (index).md",
+    "Untitled.md",
+    "Probabilities of event intersections.md",
+    "General Multiplication Law of Probability.md",
+    "Multiplication rule of probability.md",
+    "Multiplication rule of combinatorics.md",
+    "Probability density function (PDF).md",
     "Factorial.md",
     "Dinet's whiteboard problem 1-30-24.md",
-    "Probabilities of event intersections.md",
     "Posterior probability.md",
     "Baye's theorem.md",
     "Conditional probability.md",
-    "Indices/Probability and Statistics (index).md",
     "Indices/Computer Programming (index).md",
     "UML Diagram.md",
     "Encapsulation (computer programming).md",
@@ -174,16 +196,12 @@
     "Indices/Chemistry (index).md",
     "Charles's law.md",
     "Significant figures.md",
-    "Molar mass.md",
-    "Welcome to my notebook!.md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",
     "theme.css",
     "publish.cssx.css",
     "publish.cssxz.css",
-    "Indices/Periodic Elements (index).md",
-    "Indices/Physics (index).md",
     "Screenshot 2024-02-04 at 4.20.01 PM.png",
     "Pasted image 20240204161952.png",
     "Pasted image 20240204133038.png",

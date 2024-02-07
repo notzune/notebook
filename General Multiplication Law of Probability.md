@@ -1,4 +1,6 @@
-from the definition of [[Conditional probability|conditional probability]] $P(A\mid B)$ the probability of the [[Intersection of events|intersection of two events]] $A\cap B$ can be calculated as
+to find the [[Probability|probability]] of the [[Intersection of events|intersection]] of two [[Events|events]], multiply the two probabilities together.
+
+formally, from the definition of [[Conditional probability|conditional probability]] $P(A\mid B)$ the probability of the [[Intersection of events|intersection of two events]] $A\cap B$ can be calculated as
 
 $$
 P(A\cap B)=P(B)P(A\mid B)
