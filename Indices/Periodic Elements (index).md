@@ -55,6 +55,7 @@
 - [[Holmium]]
 - [[Hydrochloric acid]]
 - [[Hydrogen]]
+- [[Hydroxide]]
 - [[Indium]]
 - [[Iodine]]
 - [[Iridium]]
