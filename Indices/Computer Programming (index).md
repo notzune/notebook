@@ -2,6 +2,7 @@
 ---
 - [[Abstraction layer]]
 - [[Access modifier]]
+- [[Accessors and mutators]]
 - [[Compiler]]
 - [[Computer programming]]
 - [[Constructor (computer programming)]]
