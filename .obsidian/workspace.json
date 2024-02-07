@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML Diagram.md",
+                "file": "Encapsulation (computer programming).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f333a6f084430f8",
+            "id": "074bd8ce1a19224f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML Diagram.md",
+                "file": "Encapsulation (computer programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML Diagram.md",
+                "file": "Encapsulation (computer programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML Diagram.md"
+                "file": "Encapsulation (computer programming).md"
               }
             }
           }
@@ -165,7 +165,14 @@
   "active": "4ed848edc9ab0d1b",
   "lastOpenFiles": [
     "Indices/Computer Programming (index).md",
+    "Encapsulation (computer programming).md",
+    "Class invariant.md",
+    "Indices/Computer Science (index).md",
+    "Welcome to my notebook!.md",
+    "Indices/Databases (index).md",
+    "Memory address.md",
     "UML Diagram.md",
+    "Encapsulation (networking).md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
@@ -176,22 +183,16 @@
     "Function overloading.md",
     "Instance (computer programming).md",
     "Return type.md",
-    "Indices/Computer Science (index).md",
     "Member variable.md",
     "Variable (computer science).md",
     "Parameter (computer science).md",
-    "Indices/Databases (index).md",
     "Function (computer programming).md",
     "Method (computer programming).md",
     "Data structure.md",
     "Class (computer programming).md",
     "Dinet's quiz question 2-6-23.md",
-    "Welcome to my notebook!.md",
     "Indices/Probability and Statistics (index).md",
     "Variance.md",
-    "Squared deviations from the mean (SDM).md",
-    "Probabilities of event intersections.md",
-    "General Multiplication Law of Probability.md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",
