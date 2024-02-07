@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulation (computer programming).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "074bd8ce1a19224f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Computer Programming (index).md",
+                "file": "Access modifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encapsulation (computer programming).md",
+                "file": "Access modifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encapsulation (computer programming).md",
+                "file": "Access modifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encapsulation (computer programming).md"
+                "file": "Access modifier.md"
               }
             }
           }
@@ -164,7 +152,11 @@
   },
   "active": "4ed848edc9ab0d1b",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
     "Indices/Computer Programming (index).md",
+    "Access modifier.md",
+    "Scope.md",
+    "Global variable.md",
     "Encapsulation (computer programming).md",
     "Class invariant.md",
     "Indices/Computer Science (index).md",
@@ -178,7 +170,6 @@
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
     "Constructor (computer programming).md",
     "Scope (computer programming).md",
-    "Indices/Object-Oriented Programming (index).md",
     "Initialization (computer programming).md",
     "Function overloading.md",
     "Instance (computer programming).md",
@@ -190,9 +181,6 @@
     "Method (computer programming).md",
     "Data structure.md",
     "Class (computer programming).md",
-    "Dinet's quiz question 2-6-23.md",
-    "Indices/Probability and Statistics (index).md",
-    "Variance.md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",

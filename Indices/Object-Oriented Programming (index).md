@@ -12,5 +12,6 @@
 - [[Object (computer science)]]
 - [[Object-Oriented Programming]]
 - [[Object pool pattern]]
+- [[Package (object-oriented programming)]]
 - [[Prototype based programming]]
 - [[SOLID]]
