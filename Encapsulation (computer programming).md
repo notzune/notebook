@@ -10,10 +10,12 @@ it also encourages programmers to put all the code that is concerned with a cert
 
 encapsulation is a technique that encourages [[Coupling (computer programming)|decoupling]].
 
+in this example, we encapsulate the salary using an [[Access modifier|access modifier]] (`private`):
+
 ```java
 public class Employee {
 
-	// here we encapsulate the salary
+	// here we encapsulate the salary using an access modifier
     private BigDecimal salary = new BigDecimal(50000.00);
     
     public BigDecimal getSalary() {

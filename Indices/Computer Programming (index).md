@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Abstraction layer]]
+- [[Access modifier]]
 - [[Compiler]]
 - [[Computer programming]]
 - [[Constructor (computer programming)]]
