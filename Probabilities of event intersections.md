@@ -14,7 +14,7 @@ $$
 P(A\cup B)=P(A)\space P(B|A)
 $$
 
-therefore it does not matter which of the two events $A$ or $BR$ is being conditioned upon. more generally,
+therefore it does not matter which of the two events $A$ or $B$ is being conditioned upon. more generally,
 
 $$
 P(C|A\cap B)=\frac{P(A\cap B\cap C)}{P(A\cap B)}

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0edb3b5c8295fc6e",
+            "id": "4ed848edc9ab0d1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability density function (PDF).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0cb4b5a0d841b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posterior probability.md",
+                "file": "Dinet's quiz question 2-6-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posterior probability.md",
+                "file": "Dinet's quiz question 2-6-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posterior probability.md",
+                "file": "Dinet's quiz question 2-6-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posterior probability.md"
+                "file": "Dinet's quiz question 2-6-23.md"
               }
             }
           }
@@ -163,12 +150,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0cb4b5a0d841b15",
+  "active": "4ed848edc9ab0d1b",
   "lastOpenFiles": [
-    "Conditional probability.md",
-    "Posterior probability.md",
-    "Indices/Probability and Statistics (index).md",
     "Probability density function (PDF).md",
+    "Dinet's quiz question 2-6-23.md",
+    "Factorial.md",
+    "Dinet's whiteboard problem 1-30-24.md",
+    "Probabilities of event intersections.md",
+    "Posterior probability.md",
+    "Baye's theorem.md",
+    "Conditional probability.md",
+    "Indices/Probability and Statistics (index).md",
     "Indices/Computer Programming (index).md",
     "UML Diagram.md",
     "Encapsulation (computer programming).md",
@@ -192,11 +184,6 @@
     "publish.cssxz.css",
     "Indices/Periodic Elements (index).md",
     "Indices/Physics (index).md",
-    "Computer Engineering (index).md",
-    "Indices/Systems theory (index).md",
-    "Periodic Table.md",
-    "Silicon.md",
-    "Deprecation.md",
     "Screenshot 2024-02-04 at 4.20.01 PM.png",
     "Pasted image 20240204161952.png",
     "Pasted image 20240204133038.png",
