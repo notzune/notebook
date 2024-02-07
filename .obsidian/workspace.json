@@ -13,25 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dinet's quiz question 2-6-23.md",
+                "file": "Constructor (computer programming).md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "af783036f18e15e5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "fd1c7f3418d79b16",
+            "id": "5f333a6f084430f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Indices/Object-Oriented Programming (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Constructor (computer programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Constructor (computer programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md"
+                "file": "Constructor (computer programming).md"
               }
             }
           }
@@ -168,34 +162,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd1c7f3418d79b16",
+  "active": "4ed848edc9ab0d1b",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
+    "Constructor (computer programming).md",
+    "Indices/Computer Programming (index).md",
+    "Initialization (computer programming).md",
+    "Function overloading.md",
+    "Instance (computer programming).md",
+    "Return type.md",
+    "Indices/Computer Science (index).md",
+    "Member variable.md",
+    "Variable (computer science).md",
+    "Parameter (computer science).md",
+    "Indices/Databases (index).md",
+    "Function (computer programming).md",
+    "Method (computer programming).md",
+    "Data structure.md",
+    "Class (computer programming).md",
     "Dinet's quiz question 2-6-23.md",
+    "Welcome to my notebook!.md",
     "Indices/Probability and Statistics (index).md",
+    "Variance.md",
+    "Squared deviations from the mean (SDM).md",
     "Untitled.md",
     "Probabilities of event intersections.md",
     "General Multiplication Law of Probability.md",
     "Multiplication rule of probability.md",
     "Multiplication rule of combinatorics.md",
-    "Probability density function (PDF).md",
-    "Factorial.md",
-    "Dinet's whiteboard problem 1-30-24.md",
-    "Posterior probability.md",
-    "Baye's theorem.md",
-    "Conditional probability.md",
-    "Indices/Computer Programming (index).md",
-    "UML Diagram.md",
-    "Encapsulation (computer programming).md",
-    "Method (computer programming).md",
-    "Indices/Object-Oriented Programming (index).md",
-    "Instance (computer programming).md",
-    "Indices/Computer Science (index).md",
-    "Cumulative distribution function (CDF).md",
-    "Probability mass function (PMF).md",
-    "Ideal gas law.md",
-    "Indices/Chemistry (index).md",
-    "Charles's law.md",
-    "Significant figures.md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",

@@ -1,10 +1,16 @@
 # Index
 ---
+- [[Class-based programming]]
 - [[Class (computer programming)]]
+- [[Class invariant]]
+- [[Factory (object-oriented programming)]]
 - [[GRASP]] 
+- [[Immutable object]]
 - [[Inheritance (object-oriented programming)]]
 - [[Java]]
+- [[Member variable]]
 - [[Object (computer science)]]
 - [[Object-Oriented Programming]]
-- [[Pointer (computer programming)]]
+- [[Object pool pattern]]
+- [[Prototype based programming]]
 - [[SOLID]]

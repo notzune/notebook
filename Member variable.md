@@ -1,0 +1,3 @@
+in [[Object-Oriented Programming|object-oriented programming]], a member variable (sometimes called a member [[Field (computer science)|field]]) is a [[Variable (computer science)|variable]] that is associated with a specific [[Object (computer science)|object]], and accessible for all its [[Function (computer programming)|methods]] (member functions).
+
+in [[Class-based programming|class-based programming]] languages, these are distinguished into two types: class variables (also called static member variables), where only one copy of the variable is shared with all [[Instance (computer programming)|instances]] of the class; and instance variables, where each instance of the class has its own independent copy of the variable.
