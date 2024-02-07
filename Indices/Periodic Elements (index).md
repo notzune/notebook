@@ -5,6 +5,7 @@
 - [[Aluminium]]
 - [[Americium]]
 - [[Ammonia]]
+- [[Ammonium]]
 - [[Antimony]]
 - [[Argon]]
 - [[Arsenic]]

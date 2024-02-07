@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "2ba1cf6388bbb924",
+            "id": "c110d4d3ccd5e890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java naming conventions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "094352349dbc06ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessors and mutators.md",
+                "file": "Java naming conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessors and mutators.md",
+                "file": "Java naming conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessors and mutators.md"
+                "file": "Java naming conventions.md"
               }
             }
           }
@@ -162,37 +175,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed848edc9ab0d1b",
+  "active": "c110d4d3ccd5e890",
   "lastOpenFiles": [
     "Indices/Computer Programming (index).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Java naming conventions.md",
     "Accessors and mutators.md",
-    "Access modifier.md",
-    "Indices/Periodic Elements (index).md",
-    "Acids and Bases Reference Sheet.md",
     "Solubility chart.md",
+    "Indices/Periodic Elements (index).md",
+    "Indices/Mathematics (index).md",
+    "Microelectronics (index).md",
+    "Microfabrication.md",
+    "Microprocessors and Microcontrollers (index).md",
+    "Welcome to my notebook!.md",
+    "Access modifier.md",
+    "Acids and Bases Reference Sheet.md",
     "Base (chemistry).md",
     "Indices/Chemistry (index).md",
     "Electric charge.md",
     "Silver.md",
     "Periodic Table.md",
     "Silicon.md",
-    "Indices/Object-Oriented Programming (index).md",
     "Scope.md",
     "Global variable.md",
     "Encapsulation (computer programming).md",
     "Class invariant.md",
     "Indices/Computer Science (index).md",
-    "Welcome to my notebook!.md",
     "Indices/Databases (index).md",
     "Memory address.md",
-    "UML Diagram.md",
-    "Encapsulation (networking).md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
-    "Constructor (computer programming).md",
-    "Scope (computer programming).md",
-    "Initialization (computer programming).md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",

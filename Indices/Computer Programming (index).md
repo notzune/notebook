@@ -22,6 +22,7 @@
 - [[Machine code]]
 - [[Name binding]]
 - [[Name collision]]
+- [[Naming convention]]
 - [[Object-Oriented Programming]]
 - [[Pointer (computer programming)]]
 - [[Programming language]]

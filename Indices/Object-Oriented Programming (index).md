@@ -8,6 +8,7 @@
 - [[Immutable object]]
 - [[Inheritance (object-oriented programming)]]
 - [[Java]]
+- [[Java naming conventions]]
 - [[Member variable]]
 - [[Object (computer science)]]
 - [[Object-Oriented Programming]]
