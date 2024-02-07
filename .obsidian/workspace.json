@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecology and Evolution (index).md",
+                "file": "Integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ee4bfb041e48306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Calculus (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecology and Evolution (index).md",
+                "file": "Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecology and Evolution (index).md",
+                "file": "Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecology and Evolution (index).md"
+                "file": "Integration.md"
               }
             }
           }
@@ -134,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,10 +163,15 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "Indices/Calculus (index).md",
+    "Integration.md",
+    "Integral.md",
+    "Probability density function (PDF).md",
+    "Screenshot 2024-02-07 at 11.39.55 AM.png",
+    "Ecology and Evolution (index).md",
     "Cell and Molecular Biology (index).md",
     "Biology (index).md",
     "Welcome to my notebook!.md",
-    "Ecology and Evolution (index).md",
     "Indices/Computer Programming (index).md",
     "Indices/Object-Oriented Programming (index).md",
     "Correctness (computer science).md",
@@ -174,10 +190,6 @@
     "Base (chemistry).md",
     "Indices/Chemistry (index).md",
     "Electric charge.md",
-    "Silver.md",
-    "Periodic Table.md",
-    "Silicon.md",
-    "Scope.md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
@@ -194,7 +206,6 @@
     "Pasted image 20240204132920.png",
     "Pasted image 20240203223550.png",
     "Pasted image 20240203144718.png",
-    "Pasted image 20240203144545.png",
     "Excalidraw",
     "dataview",
     "Indices",

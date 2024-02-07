@@ -1,8 +1,11 @@
 # Index
 ---
+- [[Antiderivative]]
 - [[Derivation]]
 - [[Derivative]]
 - [[Integral]]
+- [[Integration]]
+- [[Integration by parts]]
 - [[Leibniz's notation]]
 - [[Limit]]
 - [[Limit of a function]]
