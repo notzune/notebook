@@ -1,10 +1,12 @@
 # Index
 ---
+- [[Acid]]
 - [[Amount of substance]]
 - [[Anion]]
 - [[Atom]]
 - [[Avogadro constant]]
 - [[Avogadro's law]]
+- [[Base (chemistry)]]
 - [[Boltzmann constant]]
 - [[Boyle's law]]
 - [[Celsius]]
@@ -16,10 +18,10 @@
 - [[Concentration]]
 - [[Density]]
 - [[Dianion]]
+- [[Electronegativity]]
 - [[Electrons]]
 - [[Gay-Lussac's law]]
 - [[Ideal gas constant]]
-- [[Ideal gas law]]
 - [[Ideal gas law]]
 - [[Intensive and extensive properties]]
 - [[Isotope]]
@@ -31,8 +33,10 @@
 - [[Neutrons]]
 - [[Oxidation state]]
 - [[Oxide]]
+- [[pH]]
 - [[Pressure]]
 - [[Protons]]
+- [[Salt]]
 - [[Thermal oxidation]]
 
 # Sub indices

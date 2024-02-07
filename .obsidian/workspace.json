@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b92fccded9c5104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acids and Bases Reference Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "431979c8d6c22e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Periodic Elements (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Access modifier.md",
+                "file": "Acids and Bases Reference Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Access modifier.md",
+                "file": "Acids and Bases Reference Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Access modifier.md"
+                "file": "Acids and Bases Reference Sheet.md"
               }
             }
           }
@@ -150,11 +175,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ed848edc9ab0d1b",
+  "active": "2b92fccded9c5104",
   "lastOpenFiles": [
-    "Indices/Object-Oriented Programming (index).md",
+    "Solubility chart.md",
+    "Acids and Bases Reference Sheet.md",
+    "Indices/Periodic Elements (index).md",
+    "Base (chemistry).md",
+    "Indices/Chemistry (index).md",
     "Indices/Computer Programming (index).md",
+    "Electric charge.md",
+    "Silver.md",
     "Access modifier.md",
+    "Periodic Table.md",
+    "Silicon.md",
+    "Indices/Object-Oriented Programming (index).md",
     "Scope.md",
     "Global variable.md",
     "Encapsulation (computer programming).md",
@@ -172,15 +206,6 @@
     "Scope (computer programming).md",
     "Initialization (computer programming).md",
     "Function overloading.md",
-    "Instance (computer programming).md",
-    "Return type.md",
-    "Member variable.md",
-    "Variable (computer science).md",
-    "Parameter (computer science).md",
-    "Function (computer programming).md",
-    "Method (computer programming).md",
-    "Data structure.md",
-    "Class (computer programming).md",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",
