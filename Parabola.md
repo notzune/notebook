@@ -24,7 +24,7 @@ $$
 y=a(x-x_1)(x-x_2)
 $$
 
-# Vertex
+# [[Vertex (geometry)|Vertex]]
 
 the vertex of a parabola is the highest or lowest point, depending on whether the parabola opens upwards ($a>0$) or downwards ($a<0$), the vertex can be found using the formula
 

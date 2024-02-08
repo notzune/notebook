@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b73b83e8c385b46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eccentricity (mathematics).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae4ab22bee42fd33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Geometry (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -152,8 +176,11 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
-    "Quadratic formula.md",
+    "Indices/Geometry (index).md",
+    "Geometric mean.md",
+    "Eccentricity (mathematics).md",
     "Parabola.md",
+    "Quadratic formula.md",
     "Zero.md",
     "Point.md",
     "Probability density function (PDF).md",
@@ -176,9 +203,6 @@
     "Solubility chart.md",
     "Indices/Periodic Elements (index).md",
     "Microelectronics (index).md",
-    "Microfabrication.md",
-    "Microprocessors and Microcontrollers (index).md",
-    "Access modifier.md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
