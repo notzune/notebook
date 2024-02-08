@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff063eff4e4f56e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parabola.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Parabola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Parabola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cumulative distribution function (CDF).md"
+                "file": "Parabola.md"
               }
             }
           }
@@ -150,8 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "094352349dbc06ff",
+  "active": "ff063eff4e4f56e6",
   "lastOpenFiles": [
+    "Cumulative distribution function (CDF).md",
+    "Probability density function (PDF).md",
     "Continuous or discrete variable.md",
     "Parabola.md",
     "Reflection symmetry.md",
@@ -161,7 +176,6 @@
     "Quadratic formula.md",
     "Zero.md",
     "Point.md",
-    "Probability density function (PDF).md",
     "Integration.md",
     "Indices/Calculus (index).md",
     "Integral.md",
@@ -178,7 +192,6 @@
     "Indices/Mathematics (index).md",
     "Accessors and mutators.md",
     "Java naming conventions.md",
-    "Solubility chart.md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",

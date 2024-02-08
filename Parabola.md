@@ -82,8 +82,54 @@ $$
 
 ## Finding a parabola from an ordered pair
 
-say a certain manufacturing plant makes metal cylinders with a diameter of $50.0\,\text{mm}$ with a tolerance[^1] of $0.5\,\text{mm}$. 
+say a certain manufacturing plant makes metal cylinders with a diameter of $50.0\,\text{mm}$ with a tolerance[^1] of $0.5\,\text{mm}$, we want to then graph the parabola that represents the possible values of the diameter.[^2]
 
+so now from this we know: 
 
+the diameter is meant to be $50.0\,\text{mm}$ which is the "perfect" diameter (where we can assume most of the values will fall around) and we can correctly assume this to be the vertex of the function.
 
-[^1]: the [[Tolerance|tolerance of something]] just means plus/minus ($\pm n$) whatever value the tolerance is said to be ($n$), in this case: $50.0\pm0.5=(49.5,50.5)$.
+the parabola should have a maximum or minimum at the [[#Vertex (geometry) Vertex|vertex]], representing the ideal measurement without any tolerance.
+
+the parabola will intersect the $x$-axis (diameter) at the points where the tolerance is at its limits, which we know are $49.5\,\text{mm}$ and $50.5\,\text{mm}$.
+
+given this we can set up the parabola in [[#Vertex form|vertex form]]. we can assume the vertex $(h,k)$ is at the perfect measurement ($50.0\,\text{mm}$, the *goal*) and the maximum value ($k$) which can be any positive value since it just represent the maximum amount of tolerance; set this to $k=1$.5[^3]. 
+
+the vertex form of the parabola is then:
+
+$$
+\begin{align}
+y&=a(x-h)^{2}+k \\
+\\
+y&=a(x-50.0)^{2}+1.5 \\
+\end{align}
+$$
+
+to find $a$, we can use the fact that we know the roots of the parabola (where it intersects the $x$-axis) since we know the limits of the function (the range of possible values, $49.5$ and $50.5$), and that we know since it intersects the $x$-axis then $y=0$.
+
+$if we plug in $x=49.5$ into the equation and solve for $a$ using $y=0$ at this point:
+
+$$
+0=a(49.5-50.0)^{2}+1.5
+$$
+
+solving for $a$, we get:
+
+$$
+\begin{align}
+-1.5&=a(-0.5)^{2} \\
+\\
+-1.5&=0.25a \\
+\\
+a&=-6 \\
+\end{align}
+$$
+
+so the equation modeling the possible diameters for metal cylinders at this particular factory is
+
+$$
+f(x)=1.5-6(x-50.0)^{2}
+$$
+
+[^1]: the [[Tolerance|tolerance of something]] just means plus/minus ($\pm\,n$) whatever value the tolerance is said to be ($n$), in this case: $50.0\pm0.5=(49.5,50.5)$.
+[^2]:  in-order to get the [[Probability distribution|probability distribution]] so that we can calculate the [[Probability|probability]] that a cylinder will have a specific diameter within the allowed range. (see also: [[Probability density function (PDF)#Example|this example]])
+[^3]: this number is arbitrary, it can mean literally anything since there is no other context given for this example, i actually don't even know why it would be 1.5, that's just the number that the textbook used for this problem when I was working through it
