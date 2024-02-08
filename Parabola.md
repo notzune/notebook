@@ -77,3 +77,13 @@ the directrix for a parabola in vertex form is the line given by
 $$
 y=k-\frac{1}{4a}
 $$
+
+# Examples
+
+## Finding a parabola from an ordered pair
+
+say a certain manufacturing plant makes metal cylinders with a diameter of $50.0\,\text{mm}$ with a tolerance[^1] of $0.5\,\text{mm}$. 
+
+
+
+[^1]: the [[Tolerance|tolerance of something]] just means plus/minus ($\pm n$) whatever value the tolerance is said to be ($n$), in this case: $50.0\pm0.5=(49.5,50.5)$.

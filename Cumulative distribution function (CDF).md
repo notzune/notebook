@@ -5,6 +5,7 @@ the cumulative distribution function is an alternate way of specifying the proba
 $$
 F(x)=P(X\leq x)
 $$
+
 where the right-hand side represents the probability that the random variable $X$ takes on a value less than or equal to $x$.
 
 the probability that $X$ lies in the semi-closed [[Interval|interval]] $(a,b]$, where $a<b$, is therefore
@@ -56,10 +57,14 @@ $$
 
 so, $F(x)$ will be:
 
-- $F(0) = P(X=0) = 0.125$
-- $F(1) = P(X=0) + P(X=1) = 0.125 + 0.375 = 0.500$
-- $F(2) = P(X=0) + P(X=1) + P(X=2) = 0.500 + 0.375 = 0.875$
-- $F(3) = P(X=0) + P(X=1) + P(X=2) + P(X=3) = 0.875 + 0.125 = 1.000$
+$$
+\begin{align}
+&F(0)&=P(X=0)&&=0.125 \\
+&F(1)&=P(X=0)+P(X=1)&=0.125+0.375&=0.500 \\
+&F(2)&=P(X=0)+P(X=1)+P(X=2)&=0.500+0.375&=0.875 \\
+&F(3)&=P(X=0)+P(X=1)+P(X=2)+P(X=3)&=0.875+0.125&=1.000 \\
+\end{align}
+$$
 
 ## Continuous Random Variable (Using PDF and CDF)
 
