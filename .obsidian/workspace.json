@@ -26,13 +26,12 @@
               "type": "markdown",
               "state": {
                 "file": "Parabola.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parabola.md",
+                "file": "Cumulative distribution function (CDF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parabola.md",
+                "file": "Cumulative distribution function (CDF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parabola.md"
+                "file": "Cumulative distribution function (CDF).md"
               }
             }
           }
@@ -163,12 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff063eff4e4f56e6",
+  "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "Parabola.md",
     "Cumulative distribution function (CDF).md",
     "Probability density function (PDF).md",
     "Continuous or discrete variable.md",
-    "Parabola.md",
     "Reflection symmetry.md",
     "Indices/Geometry (index).md",
     "Geometric mean.md",

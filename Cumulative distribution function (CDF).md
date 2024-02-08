@@ -38,7 +38,7 @@ $$
 
 # Examples
 
-## Discrete Random Variable (Using PMF to find CDF)
+## Discrete Random Variable (Using [[Probability mass function (PMF)|PMF]] to find CDF)
 
 suppose you have a discrete random variable $X$ that represents the number of heads when flipping a fair coin three times. the possible values of $X$ are ${0, 1, 2, 3}$.
 
