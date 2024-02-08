@@ -68,7 +68,7 @@ $$
 
 ## Continuous Random Variable (Using PDF and CDF)
 
-consider a continuous random variable $X$ that has a uniform distribution between 0 and 1. the probability density function, $f_X(x)$, is:
+consider a [[Continuous or discrete variable|continuous]] [[Random variables|random variable]] $X$ that has a [[Shape of the distribution|uniform distribution]] between 0 and 1. the probability density function, $f_X(x)$, is:
 
 $$
 f_X(x) = \begin{cases} 
