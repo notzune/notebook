@@ -66,7 +66,7 @@ $$
 \end{align}
 $$
 
-## Continuous Random Variable (Using PDF and CDF)
+## Continuous Random Variable (Using [[Probability density function (PDF)|PDF]] and CDF)
 
 consider a [[Continuous or discrete variable|continuous]] [[Random variables|random variable]] $X$ that has a [[Shape of the distribution|uniform distribution]] between 0 and 1. the probability density function, $f_X(x)$, is:
 
