@@ -9,6 +9,7 @@
 - [[Leibniz's notation]]
 - [[Limit]]
 - [[Limit of a function]]
+- [[Limit of a sequence]]
 - [[Linear function]]
 - [[Sequence]]
 - [[Series]]

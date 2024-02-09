@@ -23,6 +23,7 @@
 - [[Interquartile range (IQR)]]
 - [[Intersection of events]]
 - [[Joint probability distribution]]
+- [[Law of large numbers]]
 - [[Law of total probability]]
 - [[Likelihood function]]
 - [[Marginal distribution]]
@@ -68,6 +69,8 @@
 ---
 - [[Comparison of mean, median and mode]]
 - [[Deck of cards]]
+- [[Dice (die)]]
+- [[Pip (counting)]]
 - [[Python formula sheet]]
 
 ## Worked-Out Answers

@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Expected value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4279342c70910831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c679378890def066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Calculus (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Expected value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Expected value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cumulative distribution function (CDF).md"
+                "file": "Expected value.md"
               }
             }
           }
@@ -152,8 +176,11 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
-    "Probability density function (PDF).md",
+    "Indices/Probability and Statistics (index).md",
+    "Indices/Calculus (index).md",
+    "Expected value.md",
     "Cumulative distribution function (CDF).md",
+    "Probability density function (PDF).md",
     "Dinet's quiz question 2-6-23.md",
     "Parabola.md",
     "Shape of the distribution.md",
@@ -166,7 +193,6 @@
     "Zero.md",
     "Point.md",
     "Integration.md",
-    "Indices/Calculus (index).md",
     "Integral.md",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Ecology and Evolution (index).md",
@@ -177,8 +203,6 @@
     "Indices/Object-Oriented Programming (index).md",
     "Correctness (computer science).md",
     "Indices/Computer Science (index).md",
-    "Indices/Probability and Statistics (index).md",
-    "Indices/Mathematics (index).md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",
