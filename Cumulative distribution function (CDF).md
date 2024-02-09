@@ -22,7 +22,7 @@ $$
 F(x)=\sum_{y:y\leq x}P(X=y)
 $$
 
-in other words, the value of $F(x)$ is constructed by simply adding together the probabilities $P(X=y)$ for values $y$ that are no larger than $x$.
+in other words, the value of $F(x)$ is constructed by simply adding together the probabilities $P(X=y)$ for values $y$ that are less than or equal to $x$.
 
 the probability density function of a continuous random variable can be determined from the cumulative distribution function by differentiating using the [[Fundamental theorem of calculus|fundamental theorem of calculus]] as long as the [[Derivative|derivative]] exists.; i.e. given $F(x)$,
 
