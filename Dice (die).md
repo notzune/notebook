@@ -1,0 +1,1 @@
+small object with sides that have [[Pip (counting)|pips]] that display different numbers. the most commonly used kind of dice is a 6 sided cube that displays numbers 1-6. 

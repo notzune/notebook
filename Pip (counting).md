@@ -1,0 +1,1 @@
+pips refer to any small but easily countable item such as the dots on dominoes and [[Dice (die)|dice]], or the symbols on a [[Deck of cards|playing card]] that denote its suit and value.
