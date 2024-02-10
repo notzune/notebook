@@ -8,6 +8,7 @@
 - [[Floating-point arithmetic]]
 - [[Fundamental theorem of arithmetic]]
 - [[Geometric mean]]
+- [[Mantissa]]
 - [[Multiplicative inverse]]
 - [[Multiplicity]]
 - [[* (operation)]]
