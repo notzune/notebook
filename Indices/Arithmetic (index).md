@@ -5,7 +5,7 @@
 - [[Arithmetic mean]]
 - [[Binary operation]]
 - [[Euclidean division]]
-- [[Floating-point arithmatic]]
+- [[Floating-point arithmetic]]
 - [[Fundamental theorem of arithmetic]]
 - [[Geometric mean]]
 - [[Multiplicative inverse]]

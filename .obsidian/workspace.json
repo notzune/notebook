@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expected value.md",
+                "file": "Floating-point arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47036321bac1be7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Computer Science (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expected value.md",
+                "file": "Floating-point arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expected value.md",
+                "file": "Floating-point arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expected value.md"
+                "file": "Floating-point arithmetic.md"
               }
             }
           }
@@ -152,10 +164,20 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "Indices/Computer Science (index).md",
+    "Floating-point arithmetic.md",
+    "Example Java Class (reference).md",
+    "Computer science.md",
+    "Mantissa.md",
+    "Sign.md",
+    "Indices/Arithmetic (index).md",
+    "Indices/Algorithms and Data Structures (index).md",
+    "Indices/Algebra (index).md",
+    "Indices/Abstract Algebra (index).md",
+    "Expected value.md",
     "Indices/Probability and Statistics (index).md",
     "Dice (die).md",
     "Pip (counting).md",
-    "Expected value.md",
     "Indices/Calculus (index).md",
     "Cumulative distribution function (CDF).md",
     "Probability density function (PDF).md",
@@ -168,17 +190,7 @@
     "Geometric mean.md",
     "Eccentricity (mathematics).md",
     "Quadratic formula.md",
-    "Zero.md",
-    "Point.md",
-    "Integration.md",
-    "Integral.md",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
-    "Ecology and Evolution (index).md",
-    "Cell and Molecular Biology (index).md",
-    "Biology (index).md",
-    "Welcome to my notebook!.md",
-    "Indices/Computer Programming (index).md",
-    "Indices/Object-Oriented Programming (index).md",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
     "Screenshot 2024-02-07 at 12.55.07 AM.png",

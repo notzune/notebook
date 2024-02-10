@@ -11,15 +11,15 @@
 - [[Computer memory]]
 - [[Computer science]]
 - [[Computing]]
-- [[Correctness (computer science)]]
 - [[Concurrent computing]]
+- [[Correctness (computer science)]]
 - [[Data type]]
 - [[Field (computer science)]]
-- [[Foobar]]
+- [[Floating-point arithmetic]]
 - [[Integer (computer science)]]
 - [[List]]
-- [[Variable (computer science)]]
 - [[Lock (computer science)]]
+- [[Mantissa]]
 - [[Memory address]]
 - [[Memory management]]
 - [[Parameter (computer science)]]
@@ -28,6 +28,7 @@
 - [[Theory of computation]]
 - [[Time complexity]]
 - [[Tuple]]
+- [[Variable (computer science)]]
 
 # Sub indices
 ---
@@ -37,3 +38,4 @@
 ## References
 ---
 - [[Example Java Class (reference)]]
+- [[Foobar]]
