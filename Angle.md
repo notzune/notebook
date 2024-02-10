@@ -23,3 +23,4 @@ an angle that is not a multiple of a right angle is called an oblique angle.
 | degree | $0\degree$ | $(0,90)\degree$ | $90\degree$ | $(90,180)\degree$ | $180\degree$ | $(180,360)\degree$ | $360\degree$ |
 | gon | $0^{\text{g}}$ | $(0,100)^{\text{g}}$ | $100^{\text{g}}$ | $(100,200)^{\text{g}}$ | $200^{\text{g}}$ | $(200,400)^{\text{g}}$ | $400^{\text{g}}$ |
 
+see also: [[Vertical and adjacent angle pairs|vertical and adjacent angle pairs]]

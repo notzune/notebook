@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angle.md",
+                "file": "Vertical and adjacent angle pairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "446e8c94fc100399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Geometry (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angle.md",
+                "file": "Vertical and adjacent angle pairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angle.md",
+                "file": "Vertical and adjacent angle pairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angle.md"
+                "file": "Vertical and adjacent angle pairs.md"
               }
             }
           }
@@ -151,6 +163,14 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "Indices/Geometry (index).md",
+    "Vertical and adjacent angle pairs.md",
+    "Special types of adjacent angles.md",
+    "Hatch marks.md",
+    "Indices/Calculus (index).md",
+    "Screenshot 2024-02-10 at 5.44.58 PM.png",
+    "Congruence.md",
+    "Angle.md",
     "AM–GM inequality.md",
     "Algorithm.md",
     "Algebraic structure.md",
@@ -170,13 +190,6 @@
     "\"if and only if\".md",
     "Indices/Arithmetic (index).md",
     "Floating-point arithmetic.md",
-    "Indices/Computer Science (index).md",
-    "Example Java Class (reference).md",
-    "Computer science.md",
-    "Mantissa.md",
-    "Sign.md",
-    "Indices/Algorithms and Data Structures (index).md",
-    "Indices/Algebra (index).md",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
@@ -193,7 +206,6 @@
     "Screenshot 2024-02-04 at 1.29.50 PM.png",
     "Pasted image 20240204132920.png",
     "Pasted image 20240203223550.png",
-    "Pasted image 20240203144718.png",
     "Excalidraw",
     "dataview",
     "Indices",

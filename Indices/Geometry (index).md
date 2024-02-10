@@ -41,11 +41,17 @@
 - [[Rotation]]
 - [[Similarity]]
 - [[Slope]]
+- [[Special types of adjacent angles]]
 - [[Tangent]]
 - [[Translation]]
 - [[Vertex (geometry)]]
+- [[Vertical and adjacent angle pairs]]
 - [[Zero]]
 
-## Sub indices
+# Sub indices
 ---
 - [[Trigonometry (index)]]
+
+# References
+---
+- [[Hatch marks]]
