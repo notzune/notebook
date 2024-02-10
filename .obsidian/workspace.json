@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Arithmetic (index).md",
+                "file": "Angle.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "5912667714890064",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Arithmetic (index).md",
+                "file": "Angle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Arithmetic (index).md",
+                "file": "Angle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Arithmetic (index).md"
+                "file": "Angle.md"
               }
             }
           }
@@ -152,32 +151,32 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "AM–GM inequality.md",
+    "Algorithm.md",
+    "Algebraic structure.md",
+    "Algebra.md",
+    "Affirming the consequent.md",
+    "Affine transformation.md",
+    "Address space.md",
+    "Additive inverse.md",
+    "Acids and Bases Reference Sheet.md",
+    "Accessors and mutators.md",
+    "Access modifier.md",
+    "Abstraction layer.md",
+    "Abstraction (mathematics).md",
+    "Abstract data type.md",
+    "Absolute value.md",
+    "* (operation).md",
+    "\"if and only if\".md",
+    "Indices/Arithmetic (index).md",
     "Floating-point arithmetic.md",
     "Indices/Computer Science (index).md",
     "Example Java Class (reference).md",
     "Computer science.md",
     "Mantissa.md",
     "Sign.md",
-    "Indices/Arithmetic (index).md",
     "Indices/Algorithms and Data Structures (index).md",
     "Indices/Algebra (index).md",
-    "Indices/Abstract Algebra (index).md",
-    "Expected value.md",
-    "Indices/Probability and Statistics (index).md",
-    "Dice (die).md",
-    "Pip (counting).md",
-    "Indices/Calculus (index).md",
-    "Cumulative distribution function (CDF).md",
-    "Probability density function (PDF).md",
-    "Dinet's quiz question 2-6-23.md",
-    "Parabola.md",
-    "Shape of the distribution.md",
-    "Continuous or discrete variable.md",
-    "Reflection symmetry.md",
-    "Indices/Geometry (index).md",
-    "Geometric mean.md",
-    "Eccentricity (mathematics).md",
-    "Quadratic formula.md",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
     "Untitled.canvas",
