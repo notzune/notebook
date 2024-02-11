@@ -3,6 +3,7 @@
 - [[Algorithm]]
 - [[Binary code]]
 - [[Bit]]
+- [[Bit numbering]]
 - [[Bit-reversal permutation]]
 - [[Boolean]]
 - [[Byte]]
@@ -16,6 +17,7 @@
 - [[Correctness (computer science)]]
 - [[Data type]]
 - [[Field (computer science)]]
+- [[Fixed-point arithmetic]]
 - [[Floating-point arithmetic]]
 - [[Integer (computer science)]]
 - [[List]]
@@ -27,6 +29,7 @@
 - [[Parameter (computer science)]]
 - [[Predicate (mathematical logic)]]
 - [[Primitive data type]]
+- [[Signed number representations]]
 - [[State (computer science)]]
 - [[Switch statement]]
 - [[Theoretical computer science (TCS)]]
@@ -34,7 +37,7 @@
 - [[Time complexity]]
 - [[Tuple]]
 - [[Two's complement]]
-- [[Variable (computer science)]]\
+- [[Variable (computer science)]]
 
 # Sub indices
 ---
