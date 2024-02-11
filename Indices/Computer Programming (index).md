@@ -8,6 +8,7 @@
 - [[Constructor (computer programming)]]
 - [[Coupling (computer programming)]]
 - [[Deprecation]]
+- [[Do while loop]]
 - [[Encapsulation (computer programming)]]
 - [[Execution]]
 - [[Functional programming]]

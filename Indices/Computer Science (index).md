@@ -34,7 +34,7 @@
 - [[Time complexity]]
 - [[Tuple]]
 - [[Two's complement]]
-- [[Variable (computer science)]]
+- [[Variable (computer science)]]\
 
 # Sub indices
 ---

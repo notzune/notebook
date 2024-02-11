@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Object-Oriented Programming (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -163,11 +163,11 @@
   },
   "active": "094352349dbc06ff",
   "lastOpenFiles": [
+    "Indices/Computer Programming (index).md",
+    "Indices/Computer Science (index).md",
     "Indices/Object-Oriented Programming (index).md",
     "List of Java keywords.md",
     "Superclass (computer programming).md",
-    "Indices/Computer Programming (index).md",
-    "Indices/Computer Science (index).md",
     "Object (computer science).md",
     "Logic (computer programming).md",
     "Boolean.md",

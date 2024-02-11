@@ -9,6 +9,7 @@
 - [[Inheritance (object-oriented programming)]]
 - [[Inner class]]
 - [[Java]]
+- [[Java annotation]]
 - [[Java naming conventions]]
 - [[Member variable]]
 - [[Method body (object-oriented programming)]]
