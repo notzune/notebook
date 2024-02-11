@@ -20,5 +20,6 @@
 # Sub indices
 ---
 - [[Abstract Algebra (index)]]
+- [[Boolean algebra (index)]]
 - [[Linear Algebra (index)]]
 - [[Polynomials (subindex)]]
