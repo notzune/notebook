@@ -19,6 +19,7 @@
 - [[Initialization (computer programming)]]
 - [[Instance (computer programming)]]
 - [[Instance variable]]
+- [[Logic (computer programming)]]
 - [[Machine code]]
 - [[Name binding]]
 - [[Name collision]]
@@ -46,3 +47,4 @@
 # References
 ---
 - [[Foobar]]
+- [[List of Java keywords]]

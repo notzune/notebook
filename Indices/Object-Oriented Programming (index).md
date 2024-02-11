@@ -16,3 +16,5 @@
 - [[Package (object-oriented programming)]]
 - [[Prototype based programming]]
 - [[SOLID]]
+- [[Polymorphism (computer science)]]
+- [[Method body (object-oriented programming)]]

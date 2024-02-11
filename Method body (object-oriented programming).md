@@ -1,0 +1,1 @@
+the method body is where all the action of a [[Function (computer programming)#Definition of a Method ( Object-Oriented Programming OOP )|method]] takes place. the body contains all of the instructions in-order to *implement* the method; this is also known as the *[[Logic (computer programming)|logic]]*.

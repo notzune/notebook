@@ -1,0 +1,1 @@
+- `abstract` - a [[Function (computer programming)|method]] with no [[Method body (object-oriented programming)|definition]] must be declared

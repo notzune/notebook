@@ -1,4 +1,4 @@
-when two straight [[Line|lines]] intersect at a point, four [[Angle|angles]] are formed. 
+when two straight [[Line|lines]] intersect at a [[Point|point]], four [[Angle|angles]] are formed. 
 
 ![[Screenshot 2024-02-10 at 5.44.58 PM.png]]
 

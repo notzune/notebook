@@ -1,0 +1,1 @@
+a small section of [[Source code|source code]] from a usually much larger [[Computer program|program]].
