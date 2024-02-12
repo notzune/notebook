@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "List of Java keywords.md",
+                "file": "Conditional (computer programming).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Double (data type).md",
+                "file": "Indices/Object-Oriented Programming (index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Double (data type).md",
+                "file": "Conditional (computer programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Double (data type).md",
+                "file": "Conditional (computer programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Double (data type).md"
+                "file": "Conditional (computer programming).md"
               }
             }
           }
@@ -162,20 +161,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b94dfbdf48a0f570",
+  "active": "094352349dbc06ff",
   "lastOpenFiles": [
-    "Indices/Computer Science (index).md",
+    "Python.md",
+    "Conditional (computer programming).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Indices/Computer Programming (index).md",
+    "Functional Programming (index).md",
+    "Conditional statement.md",
+    "List of Java keywords.md",
     "Double (data type).md",
+    "Indices/Computer Science (index).md",
     "NaN.md",
     "IEEE 754.md",
     "Computer Engineering (index).md",
     "Computer engineering.md",
     "Polymorphism (computer science).md",
     "Data types (subindex).md",
-    "List of Java keywords.md",
     "Primitive data type.md",
-    "Indices/Computer Programming (index).md",
-    "Indices/Object-Oriented Programming (index).md",
     "Variable (computer science).md",
     "Foobar.md",
     "Biology (index).md",
@@ -186,10 +189,6 @@
     "Data types (java).md",
     "Two's complement.md",
     "Superclass (computer programming).md",
-    "Object (computer science).md",
-    "Logic (computer programming).md",
-    "Boolean.md",
-    "Boolean algebra (index).md",
     "Screenshot 2024-02-10 at 5.44.58 PM.png",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",

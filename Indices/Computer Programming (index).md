@@ -6,6 +6,7 @@
 - [[Compiler]]
 - [[Computer programming]]
 - [[Concrete implementation]]
+- [[Conditional (computer programming)]]
 - [[Constructor (computer programming)]]
 - [[Coupling (computer programming)]]
 - [[Deprecation]]

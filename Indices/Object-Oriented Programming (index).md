@@ -23,6 +23,7 @@
 - [[Parametric polymorphism]]
 - [[Polymorphism (computer science)]]
 - [[Prototype based programming]]
+- [[Python]]
 - [[SOLID]]
 - [[Subtyping]]
 - [[Superclass (computer programming)]]
