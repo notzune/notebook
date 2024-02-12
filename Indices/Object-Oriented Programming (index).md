@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Ad hoc polymorphism]]
 - [[Class-based programming]]
 - [[Class (computer programming)]]
 - [[Class invariant]]
@@ -14,11 +15,14 @@
 - [[Java naming conventions]]
 - [[Member variable]]
 - [[Method body (object-oriented programming)]]
+- [[Method overriding]]
 - [[Object (computer science)]]
 - [[Object-Oriented Programming]]
 - [[Object pool pattern]]
 - [[Package (object-oriented programming)]]
+- [[Parametric polymorphism]]
 - [[Polymorphism (computer science)]]
 - [[Prototype based programming]]
 - [[SOLID]]
+- [[Subtyping]]
 - [[Superclass (computer programming)]]

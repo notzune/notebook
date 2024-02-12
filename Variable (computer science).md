@@ -2,4 +2,4 @@ much like the definition of a [[Variables|variable]] in mathematics, a variable 
 
 or in simpler terms, a variable is a named container for a particular set of [[Bit|bits]] or type of data (like [[Integer (data type)|integer]], [[Float (data type)|float]], [[String (data type)|string]] etc...). 
 
-formally, a variable is an abstract storage location paired with an associated symbolic name.
+formally, a variable is an abstract storage location (a [[Memory address|memory address]] or [[Pointer (computer programming)|pointer]]) paired with an associated symbolic name.

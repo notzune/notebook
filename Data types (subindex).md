@@ -6,6 +6,7 @@
 - [[Data type]]
 - [[Double (data type)]]
 - [[Float (data type)]]
+- [[Generic type]]
 - [[Integer (data type)]]
 - [[Long (data type)]]
 - [[Primitive data type]]
