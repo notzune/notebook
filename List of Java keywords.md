@@ -10,3 +10,4 @@
 - `continue` - used to resume program execution at the end of the current loop body. if followed by a label, continue resumes execution at the end of the enclosing labeled loop body.
 - `default` - can optionally be used in a switch statement to label a block of statements to b executed if no `case` matches the specified value. alternatively, the `default` keyword can also be used to declare default values in a [[Java annotation]]. the `default` keyword can also be used to allow an interface to provide an implementation of a method.
 - `do` - used in conjunction with `while` to create a [[Do while loop|do-while loop]], which executes a block of statements associated with the loop and then tests a boolean expression associated with the `while`. if the expression evaluates to `true`, the block is executed again; this continues until the expression evaluates to `false`.
+- `double` - the 

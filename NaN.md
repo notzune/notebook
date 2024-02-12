@@ -1,0 +1,1 @@
+in [[Computing|computing]], NaN, standing for Not a Number, is a particular [[Value (computer science)|value]] of a numeric [[Data type|data type]] (usually a [[Float (data type)|floating-point]]) which is undefined as a number, such as the result of $0/0$.

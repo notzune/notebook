@@ -1,0 +1,1 @@
+a `double` is a data type used to refer to a [[Double-precision floating-point format|double-precision]] [[IEEE 754]] [[Floating-point arithmetic|floating-point]] [[Computer number format|number format]].
