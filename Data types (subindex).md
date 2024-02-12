@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Abstract data type]]
+- [[Boolean (data type)]]
 - [[Byte (data type)]]
 - [[Char (data type)]]
 - [[Data type]]

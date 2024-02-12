@@ -3,6 +3,8 @@
 - [[Abstraction layer]]
 - [[Access modifier]]
 - [[Accessors and mutators]]
+- [[Boolean]]
+- [[Boolean expression]]
 - [[Compiler]]
 - [[Computer programming]]
 - [[Concrete implementation]]

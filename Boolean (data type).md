@@ -1,0 +1,1 @@
+a [[Data type|data type]] that is used in conjunction with a [[Boolean expression|boolean expression]] and evaluates to a [[Boolean|boolean]] [[Value (computer science)|value]] ("true" or "false").
