@@ -62,6 +62,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Computer Programming (index)|Programming]]
 	- 🗃 [[Data types (subindex)|Data types]]
     - 🗃 [[Object-Oriented Programming (index)|Object-Oriented Programming]]
+	    - 🗒 [[List of Java keywords]]
     - 🗃 [[Functional Programming (index)|Functional Programming]]
 - 🗃 [[Operating Systems (index)|Operating Systems]]
 - 🗃 [[Databases (index)|Databases]]

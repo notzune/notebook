@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee24c2a33cd300e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome to my notebook!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Java keywords.md",
+                "file": "Welcome to my notebook!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Java keywords.md",
+                "file": "Welcome to my notebook!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Java keywords.md"
+                "file": "Welcome to my notebook!.md"
               }
             }
           }
@@ -173,13 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "094352349dbc06ff",
+  "active": "ee24c2a33cd300e6",
   "lastOpenFiles": [
+    "List of Java keywords.md",
     "Indices/Object-Oriented Programming (index).md",
     "Indices/Computer Programming (index).md",
     "Encapsulation (computer programming).md",
     "Data types (subindex).md",
-    "List of Java keywords.md",
     "Variable (computer science).md",
     "Integer.md",
     "Welcome to my notebook!.md",
