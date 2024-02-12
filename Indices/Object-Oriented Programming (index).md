@@ -3,6 +3,7 @@
 - [[Class-based programming]]
 - [[Class (computer programming)]]
 - [[Class invariant]]
+- [[Encapsulation (computer programming)]]
 - [[Factory (object-oriented programming)]]
 - [[GRASP]] 
 - [[Immutable object]]

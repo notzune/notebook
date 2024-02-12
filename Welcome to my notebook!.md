@@ -60,6 +60,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 - 🗃 [[Algorithms and Data Structures (index)|Algorithms and Data Structures]]
 - 🗃 [[Computer Programming (index)|Programming]]
+	- 🗃 [[Data types (subindex)|Data types]]
     - 🗃 [[Object-Oriented Programming (index)|Object-Oriented Programming]]
     - 🗃 [[Functional Programming (index)|Functional Programming]]
 - 🗃 [[Operating Systems (index)|Operating Systems]]

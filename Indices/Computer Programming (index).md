@@ -9,7 +9,6 @@
 - [[Coupling (computer programming)]]
 - [[Deprecation]]
 - [[Do while loop]]
-- [[Encapsulation (computer programming)]]
 - [[Execution]]
 - [[Functional programming]]
 - [[Function composition (computer science)]]
@@ -42,8 +41,9 @@
 
 # Sub indices
 ---
-- [[Object-Oriented Programming (index)]]
+- [[Data types (subindex)]]
 - [[Functional Programming (index)]]
+- [[Object-Oriented Programming (index)]]
 
 # References
 ---
