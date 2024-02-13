@@ -7,6 +7,7 @@
 - [[Char (data type)]]
 - [[Data type]]
 - [[Double (data type)]]
+- [[Enumerated type]]
 - [[Float (data type)]]
 - [[Generic type]]
 - [[HashMap (datatype)]]
