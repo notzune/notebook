@@ -51,6 +51,7 @@
 - [[Data types (subindex)]]
 - [[Functional Programming (index)]]
 - [[Object-Oriented Programming (index)]]
+- [[Programming Language Theory (index)]]
 
 # References
 ---
