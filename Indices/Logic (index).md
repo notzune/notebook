@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Abstraction (mathematics)]]
 - [[Affirming the consequent]]
 - [[Antecedent]]
 - [[Argument]]
@@ -17,6 +18,7 @@
 - [[Formal language]]
 - [[Formal logic]]
 - [[Formal proof]]
+- [[Generalization]]
 - [[Hypothetical syllogism]]
 - [["if and only if"]]
 - [[Intension]]
@@ -36,6 +38,7 @@
 - [[Modus tollens]]
 - [[Multiple-conclusion logic]]
 - [[Non-logical symbol]]
+- [[Philosophy of mathematics]]
 - [[Predicate (mathematical logic)]]
 - [[Quantifiers]]
 - [[Rule of inferences]]

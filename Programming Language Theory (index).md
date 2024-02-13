@@ -5,3 +5,4 @@
 - [[Lazy evaluation]]
 - [[Memoization]]
 - [[Programming language theory (PLT)]]
+- [[Short-circuit evaluation]]

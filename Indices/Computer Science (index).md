@@ -35,6 +35,7 @@
 - [[Predicate (mathematical logic)]]
 - [[Primitive data type]]
 - [[Sharing (computer science)]]
+- [[Short-circuit evaluation]]
 - [[Signed number representations]]
 - [[Stack overflow]]
 - [[State (computer science)]]
