@@ -24,6 +24,7 @@
 - [[Instance (computer programming)]]
 - [[Instance variable]]
 - [[Logic (computer programming)]]
+- [[Lookup table]]
 - [[Machine code]]
 - [[Name binding]]
 - [[Name collision]]

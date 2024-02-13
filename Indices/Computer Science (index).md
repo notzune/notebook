@@ -33,6 +33,7 @@
 - [[Parameter (computer science)]]
 - [[Predicate (mathematical logic)]]
 - [[Primitive data type]]
+- [[Sharing (computer science)]]
 - [[Signed number representations]]
 - [[Stack overflow]]
 - [[State (computer science)]]

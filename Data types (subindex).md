@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Abstract data type]]
+- [[Array (datatype)]]
 - [[Boolean (data type)]]
 - [[Byte (data type)]]
 - [[Char (data type)]]
@@ -8,7 +9,9 @@
 - [[Double (data type)]]
 - [[Float (data type)]]
 - [[Generic type]]
+- [[HashMap (datatype)]]
 - [[Integer (data type)]]
+- [[List (datatype)]]
 - [[Long (data type)]]
 - [[Primitive data type]]
 - [[String (data type)]]
