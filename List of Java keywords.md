@@ -12,4 +12,4 @@
 - `do` - used in conjunction with `while` to create a [[Do while loop|do-while loop]], which executes a block of statements associated with the loop and then tests a boolean expression associated with the `while`. if the expression evaluates to `true`, the block is executed again; this continues until the expression evaluates to `false`.
 - `double` - see: [[Double (data type)|double (data type)]]
 - `else` - used in conjunction with `if` to create an [[Conditional (computer programming)|if-else statement]], which tests a [[Boolean expression|boolean expression]]; if the expression evaluates to `true`, the block of statements associated with the `if` are evaluated; if `false`, the block of statements associated with the `else` are executed.
-- `enum` - used to declare an [[Enumerated type|enumerated type]]. 
+- `enum` - used to declare an [[Enumerated type|enumerated type]].

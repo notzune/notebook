@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Java keywords.md",
+                "file": "Enumerated type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Java keywords.md",
+                "file": "Enumerated type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "List of Java keywords.md"
+                "file": "Enumerated type.md"
               }
             }
           }
@@ -162,12 +163,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "094352349dbc06ff",
+  "active": "0a85b52e7705b196",
   "lastOpenFiles": [
+    "Meniscus.md",
+    "Mechanics (index).md",
+    "Screenshot 2024-02-13 at 1.52.11 PM.png",
+    "Pasted image 20240213135159.png",
+    "Indices/Physics (index).md",
+    "Indices/Chemistry (index).md",
     "Enumerated type.md",
+    "List of Java keywords.md",
     "Enumeration.md",
     "Data types (subindex).md",
-    "List of Java keywords.md",
     "Instance variable.md",
     "Lazy evaluation.md",
     "Functional Programming (index).md",
@@ -185,11 +192,6 @@
     "Programming language theory (PLT).md",
     "Welcome to my notebook!.md",
     "Untitled.md",
-    "Boolean (data type).md",
-    "Boolean.md",
-    "Python.md",
-    "Conditional statement.md",
-    "Double (data type).md",
     "Screenshot 2024-02-10 at 5.44.58 PM.png",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",
@@ -205,8 +207,6 @@
     "Pasted image 20240204161952.png",
     "Pasted image 20240204133038.png",
     "Screenshot 2024-02-04 at 1.29.50 PM.png",
-    "Pasted image 20240204132920.png",
-    "Pasted image 20240203223550.png",
     "Excalidraw",
     "dataview",
     "Indices",

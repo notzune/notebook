@@ -1,7 +1,13 @@
 # Index
 ---
+- [[Adhesion]]
 - [[Angular acceleration]]
 - [[Angular frequency]]
 - [[Angular velocity]]
+- [[Capillary action]]
+- [[Cohesion]]
+- [[Fluid statics]]
 - [[Stress (mechanics)]]
+- [[Surface tension]]
 - [[Torque]]
+- [[Wetting]]

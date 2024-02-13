@@ -2,7 +2,9 @@
 ---
 - [[Center of mass]]
 - [[Energy density]]
+- [[Fluid statics]]
 - [[Force]]
+- [[Liquid]]
 - [[Mass]]
 - [[Moment]]
 - [[Moment of inertia]]
