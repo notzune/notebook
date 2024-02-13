@@ -1,0 +1,2 @@
+in [[Programming language theory (PLT)|programming language theory]], lazy evaluation, or **call-by-need**, is an [[Evaluation strategy|evaluation strategy]] which delays the evaluation of an [[Expression (computer science)|expression]] until its [[Value (computer science)|value]] is needed (non-strict evaluation) and which also avoids repeated evaluations (by the use of [[Sharing (computer science)|sharing]])
+
