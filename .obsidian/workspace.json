@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Language Theory (index).md",
+                "file": "Indices/Software Engineering (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a3c9c7f6acbff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Computer Programming (index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Language Theory (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Language Theory (index).md",
+                "file": "Indices/Computer Programming (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Language Theory (index).md"
+                "file": "Indices/Computer Programming (index).md"
               }
             }
           }
@@ -175,11 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "589e4127da2f19ca",
+  "active": "a9a3c9c7f6acbff1",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
     "Indices/Computer Programming (index).md",
     "Indices/Computer Science (index).md",
+    "Indices/Software Engineering (index).md",
     "Lazy evaluation.md",
+    "Java Virtual Machine (JVM).md",
     "Programming Language Theory (index).md",
     "Data types (subindex).md",
     "Programming language theory (PLT).md",
@@ -188,7 +203,6 @@
     "List of Java keywords.md",
     "Boolean (data type).md",
     "Boolean.md",
-    "Indices/Object-Oriented Programming (index).md",
     "Conditional (computer programming).md",
     "Python.md",
     "Functional Programming (index).md",
@@ -201,8 +215,6 @@
     "Polymorphism (computer science).md",
     "Primitive data type.md",
     "Variable (computer science).md",
-    "Foobar.md",
-    "Biology (index).md",
     "Screenshot 2024-02-10 at 5.44.58 PM.png",
     "Screenshot 2024-02-07 at 11.39.55 AM.png",
     "Screenshot 2024-02-07 at 12.55.07 AM 1.png",

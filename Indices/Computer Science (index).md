@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Abstraction (computer science)]]
 - [[Algorithm]]
 - [[Binary code]]
 - [[Bit]]
