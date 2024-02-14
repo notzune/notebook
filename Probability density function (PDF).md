@@ -18,7 +18,9 @@ $$
 
 the probability that a [[Continuous or discrete variable|continuous]] [[Random variables|random variable]] $X$ takes any specific value $a$ is always $0$.
 
-# Example
+# Examples
+
+## With a parabolic PDF
 ![[Screenshot 2024-02-07 at 11.39.55 AM.png]]
 suppose that a metal cylinder is manufactured to have a $50$ mm diameter with a tolerance of $\pm0.5$ mm, the PDF would be written as: 
 
@@ -49,3 +51,7 @@ $$
 &=0.432 \\
 \end{align}
 $$
+
+## With a [[Piecewise|piecewise]] PDF
+
+(see: [[Hayter 2.2.3]])

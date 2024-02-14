@@ -131,5 +131,5 @@ f(x)=1.5-6(x-50.0)^{2}
 $$
 
 [^1]: the [[Tolerance|tolerance of something]] just means plus/minus ($\pm\,n$) whatever value the tolerance is said to be ($n$), in this case: $50.0\pm0.5=(49.5,50.5)$.
-[^2]:  in-order to get the [[Probability distribution|probability distribution]] so that we can calculate the [[Probability|probability]] that a cylinder will have a specific diameter within the allowed range. (see also: [[Probability density function (PDF)#Example|this example]])
+[^2]:  in-order to get the [[Probability distribution|probability distribution]] so that we can calculate the [[Probability|probability]] that a cylinder will have a specific diameter within the allowed range. (see also: [[Probability density function (PDF)#Examples#With a parabolic PDF|this example]])
 [^3]: this number is arbitrary, it can mean literally anything since there is no other context given for this example, i actually don't even know why it would be 1.5, that's just the number that the textbook used for this problem when I was working through it

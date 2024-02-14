@@ -80,13 +80,13 @@ $$
 the cumulative distribution function, $F_X(x)$, is the integral of the probability density function from $-\infty$ to $x$:
 
 $$
-F_X(x)=\int^{x}_{-\infty}f_X(t)dt
+F_X(x)=\int^{x}_{-\infty}f_X(t)\,dt
 $$
 
 so, for $0 \leq x \leq 1$, $F_X(x)$ will be:
 
 $$
-F_X(x) = \int_{0}^{x} 1 dt = x
+F_X(x)=\int_{0}^{x}1\,dt=x
 $$
 
 and $F_X(x)$ will look like:

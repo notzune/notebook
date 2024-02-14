@@ -11,6 +11,7 @@
 - [[Limit of a function]]
 - [[Limit of a sequence]]
 - [[Linear function]]
+- [[Piecewise]]
 - [[Sequence]]
 - [[Series]]
 - [[Taylor series]]

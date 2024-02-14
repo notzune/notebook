@@ -6,6 +6,7 @@
 - [[Angular velocity]]
 - [[Capillary action]]
 - [[Cohesion]]
+- [[Fick's laws of diffusion]]
 - [[Fluid statics]]
 - [[Stress (mechanics)]]
 - [[Surface tension]]
