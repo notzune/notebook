@@ -1,0 +1,1 @@
+in [[Geometry|geometry]], two or more objects are said to be concentric when they share the same [[Center (geometry)|center]].
