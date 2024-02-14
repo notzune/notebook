@@ -36,6 +36,8 @@ $$
 \text{probability value}=\frac{\text{number of items}}{\text{total number of items}}
 $$
 
+probability values can only take the form of numbers between 0 and 1 inclusive, 1 being with certainty and 0 being impossible.
+
 see also: 
 - [[Replacement]]
 - [[Independent events]]

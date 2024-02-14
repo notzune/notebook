@@ -21,7 +21,7 @@ $$
 \int^{0}_{-2}\left(\frac{15}{64}+ \frac{x}{64}\right)\,dx+\int^{3}_{0}\left(\frac{3}{8}+cx\right)\,dx=1
 $$
 
-here we set it equal to $1$ since that is the desired range (because it has to represent the total probability of all outcomes, which is out of 1)
+here we set it equal to $1$ since that is the desired [[Range|range]] (because it has to represent the total probability of all outcomes, which is out of 1) ^55621e
 
 the first integral:
 
@@ -153,4 +153,7 @@ $$
 
 for the last step it asks us to construct and sketch the [[Cumulative distribution function (CDF)|CDF]]. 
 
+... and this is where i got stuck, ill try this another time[^2]
+
 [^1]: the total area under the probability density function $f(x)$ over the its entire range must equal 1, because it represents the total probability of all outcomes.
+[^2]: timestamp so i can guilt myself later: 2024-02-13 @ 11:11 PM 🕚
