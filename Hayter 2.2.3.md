@@ -155,5 +155,7 @@ for the last step it asks us to construct and sketch the [[Cumulative distributi
 
 ... and this is where i got stuck, ill try this another time[^2]
 
+
+
 [^1]: the total area under the probability density function $f(x)$ over the its entire range must equal 1, because it represents the total probability of all outcomes.
 [^2]: timestamp so i can guilt myself later: 2024-02-13 @ 11:11 PM 🕚
