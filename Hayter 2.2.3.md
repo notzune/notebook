@@ -198,7 +198,7 @@ $$
 we do the same for the second part, the interval from $0$ to $3$:
 
 $$
-F(x)=\int\left(\frac{3}{8}+0.125x\right)\,dx=\frac{3x}{8}+\frac{125x^{2}}{2000}
+F(x)=\int\left(\frac{3}{8}+0.125x\right)\,dx=\frac{3x}{8}+\frac{x^{2}}{16}
 $$
 
 which gives us the general form of:
