@@ -97,3 +97,4 @@ and $F_X(x)$ will look like:
 
 ## Finding the CDF of a [[Piecewise|piecewise]] PDF
 
+see [[Hayter 2.2.3#Finding and sketching the CDF|this example]].

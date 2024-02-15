@@ -13,6 +13,8 @@ f(x)=
 \end{cases}
 $$
 
+# Finding the missing variable $c$ and plotting the PDF
+
 it first asks us to find the value of $c$, and then sketch the PDF:
 
 to find the value of $c$ we must [[Integration|integrate]] $f(x)$ over its entire range to find $c$:
@@ -102,6 +104,8 @@ which we can then plot:
 | 2 | 0.36363636 |
 | 3 | 0.35820896 |
 ![[Screenshot 2024-02-13 at 6.50.55 PM.png]]
+# Finding the probability of $P(-1\leq X\leq1)$
+
 to answer the second part of the problem, we are asked to find $P(-1\leq X\leq1)$ which we can find through integration of $f(x)$ from $-1$ to $1$. however since the function changes at $x=0$, we will need to split the integration at that point:
 
 $$
@@ -150,6 +154,8 @@ P(-1\leq X\leq1)&=\int^{0}_{-1}\left(\frac{15}{64}+\frac{x}{64}\right)\,dx+\int^
 P(-1\leq X\leq1)&=0.6640625
 \end{align}
 $$
+
+# Finding and sketching the CDF
 
 for the last step it asks us to construct and sketch the [[Cumulative distribution function (CDF)|CDF]]. 
 
