@@ -94,3 +94,6 @@ and $F_X(x)$ will look like:
 - $F_X(x) = 0$ for $x < 0$
 - $F_X(x) = x$ for $0 \leq x \leq 1$
 - $F_X(x) = 1$ for $x > 1$
+
+## Finding the CDF of a [[Piecewise|piecewise]] PDF
+

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Hayter 2.2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cumulative distribution function (CDF).md",
+                "file": "Hayter 2.2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cumulative distribution function (CDF).md"
+                "file": "Hayter 2.2.3.md"
               }
             }
           }
@@ -163,9 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "794cb782865a1fa6",
+  "active": "75c8d540372cc0e2",
   "lastOpenFiles": [
+    "Screenshot 2024-02-15 at 6.18.27 PM.png",
+    "Integration.md",
     "Hayter 2.2.3.md",
+    "Cumulative distribution function (CDF).md",
     "\"Circle calculator\".md",
     "Java Tutorials & Lessons (index).md",
     "Circle.md",
@@ -182,7 +184,6 @@
     "Application programming interface (API).md",
     "Indices/Probability and Statistics (index).md",
     "Chebyshev's inequality.md",
-    "Cumulative distribution function (CDF).md",
     "Piecewise.md",
     "Probability.md",
     "Outcome.md",
@@ -190,9 +191,7 @@
     "Probability theory.md",
     "Probability density function (PDF).md",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
-    "Integration.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
-    "Indices/Calculus (index).md",
     "Screenshot 2024-02-13 at 1.52.11 PM.png",
     "Pasted image 20240213135159.png",
     "Screenshot 2024-02-10 at 5.44.58 PM.png",
