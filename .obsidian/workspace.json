@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "68–95–99.7 rule.md",
+                "file": "Chebyshev's inequality.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "68–95–99.7 rule.md",
+                "file": "Hayter 2.4.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "68–95–99.7 rule.md",
+                "file": "Hayter 2.4.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "68–95–99.7 rule.md"
+                "file": "Hayter 2.4.11.md"
               }
             }
           }
@@ -162,14 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcee59e44c350d35",
+  "active": "f6220a4a80abded5",
   "lastOpenFiles": [
-    "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Chebyshev's inequality.md",
-    "Hayter 2.4.1.md",
     "Hayter 2.4.11.md",
-    "Indices/Probability and Statistics (index).md",
+    "Unit Conversion Chart.md",
     "68–95–99.7 rule.md",
+    "Screenshot 2024-02-15 at 10.24.17 PM.png",
+    "Hayter 2.4.1.md",
+    "Indices/Probability and Statistics (index).md",
     "Interval estimation.md",
     "Random variables.md",
     "Untitled.md",
@@ -206,7 +208,6 @@
     "theme.css",
     "publish.cssx.css",
     "publish.cssxz.css",
-    "Screenshot 2024-02-04 at 4.20.01 PM.png",
     "Excalidraw",
     "dataview",
     "Indices",

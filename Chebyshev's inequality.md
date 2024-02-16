@@ -36,3 +36,4 @@ so that means the probability that a score is more than 8 points away from the m
 
 this doesn't mean that exactly 25% of the scores will be outside of the range, it just means **at most** 25% will be.
 
+
