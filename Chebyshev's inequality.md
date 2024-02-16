@@ -36,4 +36,23 @@ so that means the probability that a score is more than 8 points away from the m
 
 this doesn't mean that exactly 25% of the scores will be outside of the range, it just means **at most** 25% will be.
 
+# Obtaining a weak bound
+
+following what we know about our knowledge of [[Complement (probability)|complements of probabilities]], we can use the upper bound calculated through the inequality to get a rough lower bound as well
+
+| $k$ | min. % within $k$ standard deviations of mean | max. % beyond $k$ standard deviations from mean |
+| ---- | ---- | ---- |
+| $1$ | $0\%$ | $100\%$ |
+| $\sqrt{2}$ | $50\%$ | $50\%$ |
+| $1.5$ | $55.56\%$ | $44.44\%$ |
+| 2 | $75\%$ | $25\%$ |
+| $2\sqrt{2}$ | $87.5\%$ | $12.5\%$ |
+| $3$ | $88.8889\%$ | $11.1111\%$ |
+| $4$ | $93.75\%$ | $6.25\%$ |
+| $5$ | $96\%$ | $4\%$ |
+| $6$ | $97.2222\%$ | $2.7778\%$ |
+| $7$ | $97.9592\%$ | $2.0408\%$ |
+| $8$ | $98.4375\%$ | $1.5625\%$ |
+| $9$ | $98.7654\%$ | $1.2346\%$ |
+| $10$ | $99\%$ | $1\%$ |
 
