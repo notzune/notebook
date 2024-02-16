@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hayter 2.4.11.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hayter 2.4.11.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hayter 2.4.11.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hayter 2.4.11.md"
+                "file": "Indices/Probability and Statistics (index).md"
               }
             }
           }
@@ -165,8 +165,8 @@
   },
   "active": "f6220a4a80abded5",
   "lastOpenFiles": [
-    "Chebyshev's inequality.md",
     "Hayter 2.4.11.md",
+    "Chebyshev's inequality.md",
     "Unit Conversion Chart.md",
     "68–95–99.7 rule.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

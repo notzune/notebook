@@ -84,7 +84,7 @@
 ### PDF and CDF
 - [[Hayter 2.2.3]]
 
-### Expected Value
+### Expected value
 - [[Hayter 2.4.1]]
 
 ### Chebyshev's inequality
