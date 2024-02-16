@@ -6,6 +6,7 @@
 - [[Binomial coefficient]]
 - [[Central moment]]
 - [[Central tendency]]
+- [[Chain rule (probability)]]
 - [[Chebyshev's inequality]]
 - [[Complement (probability)]]
 - [[Conditional probability]]
