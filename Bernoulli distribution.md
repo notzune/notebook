@@ -1,0 +1,1 @@
+in [[Probability theory|probability theory]] and [[Statistics|statistics]], the Bernoulli distribution is the [[Continuous or discrete variable#Discrete variable|discrete]] [[Probability distribution|probability distribution]] of a [[Random variables|random variable]] which takes the value 1 with the [[Probability|probability]] $p$ and the value $0$ with probability $q=1-p$.

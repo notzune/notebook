@@ -1,0 +1,1 @@
+randomness is the apparent or actual lack of definite pattern or predictability in information.

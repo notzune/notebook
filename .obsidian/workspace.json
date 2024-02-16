@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcee59e44c350d35",
+            "id": "b4a0dfa2b75a4aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Joint probability mass function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8685dc74ac339976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e3cc39f520ff1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Probability and Statistics (index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Indices/Probability and Statistics (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chebyshev's inequality.md"
+                "file": "Indices/Probability and Statistics (index).md"
               }
             }
           }
@@ -150,15 +175,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcee59e44c350d35",
+  "active": "58e3cc39f520ff1a",
   "lastOpenFiles": [
+    "Joint probability mass function.md",
+    "Joint probability distribution.md",
     "Indices/Probability and Statistics (index).md",
+    "Bernoulli distribution.md",
+    "Probability measure.md",
+    "Fair coin.md",
+    "Probability space.md",
+    "Bernoulli trial.md",
+    "Boolean expression.md",
+    "Boolean.md",
+    "Randomness.md",
     "Hayter 2.4.11.md",
     "Chebyshev's inequality.md",
-    "Unit Conversion Chart.md",
     "68–95–99.7 rule.md",
-    "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Hayter 2.4.1.md",
+    "Unit Conversion Chart.md",
+    "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Interval estimation.md",
     "Random variables.md",
     "Untitled.md",
@@ -170,16 +205,6 @@
     "Cumulative distribution function (CDF).md",
     "Converting decimals to fractions.md",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
-    "Integration.md",
-    "\"Circle calculator\".md",
-    "Java Tutorials & Lessons (index).md",
-    "Circle.md",
-    "SOLID.md",
-    "Indices/Object-Oriented Programming (index).md",
-    "Indices/Geometry (index).md",
-    "Object-Oriented Programming.md",
-    "Center (geometry).md",
-    "Concentric objects.md",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-02-13 at 1.52.11 PM.png",

@@ -1,6 +1,8 @@
 # Index
 ---
 - [[68–95–99.7 rule]]
+- [[Bernoulli distribution]]
+- [[Bernoulli trial]]
 - [[Binomial coefficient]]
 - [[Central moment]]
 - [[Central tendency]]
@@ -26,6 +28,7 @@
 - [[Intersection of events]]
 - [[Interval estimation]]
 - [[Joint probability distribution]]
+- [[Joint probability mass function]]
 - [[Law of large numbers]]
 - [[Law of total probability]]
 - [[Likelihood function]]
@@ -46,7 +49,9 @@
 - [[Probability distribution]]
 - [[Probability mass function (PMF)]]
 - [[Probability measure]]
+- [[Probability space]]
 - [[Probability theory]]
+- [[Randomness]]
 - [[Replacement]]
 - [[Sample space]]
 - [[Shape of the distribution]]
@@ -73,6 +78,7 @@
 - [[Comparison of mean, median and mode]]
 - [[Deck of cards]]
 - [[Dice (die)]]
+- [[Fair coin]]
 - [[Pip (counting)]]
 - [[Python formula sheet]]
 
