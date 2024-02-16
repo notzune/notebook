@@ -10,7 +10,7 @@ $$
 
 the inequality holds for any [[Probability distribution|probability distribution]]; it doesn't require the random variable to follow a [[Normal distribution|normal distribution]].
 
-this inequality is useful for proving the [[Law of large numbers|law of large numbers]].
+this inequality is useful for proving the [[Law of large numbers|law of large numbers]], and it's practical applications are similar to the [[68–95–99.7 rule]].
 
 # Example
 

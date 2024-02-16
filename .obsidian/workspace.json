@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "68–95–99.7 rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Hayter 2.4.11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "68–95–99.7 rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "68–95–99.7 rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chebyshev's inequality.md"
+                "file": "68–95–99.7 rule.md"
               }
             }
           }
@@ -164,11 +164,13 @@
   },
   "active": "fcee59e44c350d35",
   "lastOpenFiles": [
+    "Screenshot 2024-02-15 at 10.24.17 PM.png",
+    "Chebyshev's inequality.md",
     "Hayter 2.4.1.md",
+    "Hayter 2.4.11.md",
     "Indices/Probability and Statistics (index).md",
     "68–95–99.7 rule.md",
     "Interval estimation.md",
-    "Chebyshev's inequality.md",
     "Random variables.md",
     "Untitled.md",
     "Probability mass function (PMF).md",
@@ -189,8 +191,6 @@
     "Object-Oriented Programming.md",
     "Center (geometry).md",
     "Concentric objects.md",
-    "Program documentation.md",
-    "Geometry.md",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-02-13 at 1.52.11 PM.png",

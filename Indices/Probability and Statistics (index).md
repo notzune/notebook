@@ -86,3 +86,6 @@
 
 ### Expected Value
 - [[Hayter 2.4.1]]
+
+### Chebyshev's inequality
+- [[Hayter 2.4.11]]
