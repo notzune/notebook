@@ -10,8 +10,8 @@ to find how many standard deviations away the desired interval is, we can subtra
 
 $$
 \begin{align}
-110.8-109.55=1.25/0.5=2.5 \\
-112.05-110.8=1.25/0.5=2.5 \\
+110.8-109.55&=1.25/0.5=2.5 \\
+112.05-110.8&=1.25/0.5=2.5 \\
 \end{align}
 $$
 

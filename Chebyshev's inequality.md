@@ -12,6 +12,11 @@ the inequality holds for any [[Probability distribution|probability distribution
 
 this inequality is useful for proving the [[Law of large numbers|law of large numbers]], and it's practical applications are similar to the [[68–95–99.7 rule]].
 
+this formula provides an upper bound, to calculate a weak lower bound we can simply use this formula
+
+$$
+P(\mu-k\sigma\leq X\leq\mu+k\sigma)=1-\frac{1}{k^{2}}
+$$
 # Example
 
 suppose that we have a random variable $X$ that represents the scores on a test. the mean score, $\mu$, is 75 and the variance, $\sigma^{2}$, is 16, which means the standard deviation $\sigma$ is 4 (since standard deviation ($\sigma$) is the square root of the variance)
@@ -26,7 +31,7 @@ $$
 P(|X-\mu|\geq k\sigma)\leq\frac{1}{k^{2}}
 $$
 
-and plugi n $k=2$:
+and plug in $k=2$:
 
 $$
 P(|X-75|\geq 8)\leq\frac{1}{4}
