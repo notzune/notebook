@@ -34,6 +34,16 @@ $$
 \end{align}
 $$
 
+or alternatively, can be thought of as:
+
+$$
+\begin{align}
+\text{Var}(X)&=E((X-E(X))^{2}) \\
+\\
+&=\sum(P(X)\cdot(X-E(X))^{2}) \\
+\end{align}
+$$
+
 the variance can also be thought of as the covariance of a random variable with itself:
 
 $$

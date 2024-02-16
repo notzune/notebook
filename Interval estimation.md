@@ -1,0 +1,1 @@
+in [[Statistics|statistics]], interval estimation is the use of [[Sampling (statistics)|sample data]] to estimate an interval of possible values of a [[Parameter (statistics)|parameter]] of interest. 

@@ -1,5 +1,6 @@
 # Index
 ---
+- [[68–95–99.7 rule]]
 - [[Binomial coefficient]]
 - [[Central moment]]
 - [[Central tendency]]
@@ -23,6 +24,7 @@
 - [[Independent events]]
 - [[Interquartile range (IQR)]]
 - [[Intersection of events]]
+- [[Interval estimation]]
 - [[Joint probability distribution]]
 - [[Law of large numbers]]
 - [[Law of total probability]]
@@ -81,3 +83,6 @@
 
 ### PDF and CDF
 - [[Hayter 2.2.3]]
+
+### Expected Value
+- [[Hayter 2.4.1]]
