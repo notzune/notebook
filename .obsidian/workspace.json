@@ -13,62 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joint probability mass function.md",
+                "file": "Conditional probability distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58e3cc39f520ff1a",
+            "id": "ad332b1fdb65e119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain rule (probability).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "817a7a31d8203eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Multiplication Law of Probability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc3811c3ffbda44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chebyshev's inequality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a68d56a8c312c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hayter 2.4.11.md",
+                "file": "Law of large numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Law of large numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Law of large numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chebyshev's inequality.md"
+                "file": "Law of large numbers.md"
               }
             }
           }
@@ -199,16 +163,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dc3811c3ffbda44",
+  "active": "ad332b1fdb65e119",
   "lastOpenFiles": [
-    "Hayter 2.4.11.md",
+    "Arithmetic mean.md",
+    "Law of large numbers.md",
+    "Indices/Calculus (index).md",
+    "Calculus.md",
+    "Independence.md",
+    "Indices/Probability and Statistics (index).md",
+    "Conditional probability distribution.md",
+    "Categorical variable.md",
+    "Probability distribution.md",
+    "Probability theory.md",
+    "Marginal distribution.md",
+    "Joint probability distribution.md",
+    "Joint probability mass function.md",
     "Chebyshev's inequality.md",
+    "Hayter 2.4.11.md",
     "Chain rule (probability).md",
     "General Multiplication Law of Probability.md",
-    "Indices/Probability and Statistics (index).md",
-    "Joint probability mass function.md",
     "Chain rule.md",
-    "Joint probability distribution.md",
     "Bernoulli distribution.md",
     "Probability measure.md",
     "Fair coin.md",
@@ -217,17 +191,7 @@
     "Boolean expression.md",
     "Boolean.md",
     "Randomness.md",
-    "68–95–99.7 rule.md",
-    "Hayter 2.4.1.md",
-    "Unit Conversion Chart.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
-    "Interval estimation.md",
-    "Random variables.md",
-    "Untitled.md",
-    "Probability mass function (PMF).md",
-    "Variance.md",
-    "Expected value.md",
-    "Hayter 2.2.3.md",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",

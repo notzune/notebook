@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Antiderivative]]
+- [[Convergence and divergence]]
 - [[Derivation]]
 - [[Derivative]]
 - [[Integral]]

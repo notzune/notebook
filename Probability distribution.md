@@ -1,0 +1,3 @@
+in [[Probability theory|probability theory]] and [[Statistics|statistics]], a probability distribution is the mathematical [[Function|function]] that gives the probabilities of occurrence of different possible outcomes for an experiment.
+
+it is a mathematical description of a [[Randomness|random]] phenomenon in terms of its [[Sample space|sample space]] and the [[Probability|probabilities]] of [[Events|events]] ([[Subset|subsets]] of the sample space).

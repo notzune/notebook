@@ -1,0 +1,3 @@
+in [[Statistics|statistics]], a categorical variable (also called a qualitative variable) is a [[Variables|variable]] that can take on one of a limited and usually fixed number of possible values.
+
+in [[Computer science|computer science]] and some branches of math such as [[Type theory|type theory]], categorical variables are referred to as [[Enumeration|enumerations]] or [[Enumerated type|enumerated types]].
