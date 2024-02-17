@@ -3,6 +3,7 @@ a rectangular array or table of objects (numbers, symbols, or expressions) arran
 matrices are visual/graphical representations of [[Cartesian product|cartesian products]] and can be used to show [[Relation|relations]] and [[Equivalence relation|equivalence relations]]. 
 
 here is the basic notation of a matrix:
+
 $$
 A \times B = \begin{bmatrix}
     a_{11} & a_{12} & ... & a_{1n} \\

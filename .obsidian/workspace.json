@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional probability distribution.md",
+                "file": "Conditional probability table.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Law of large numbers.md",
+                "file": "Conditional probability table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Law of large numbers.md",
+                "file": "Conditional probability table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Law of large numbers.md"
+                "file": "Conditional probability table.md"
               }
             }
           }
@@ -163,15 +162,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad332b1fdb65e119",
+  "active": "b4a0dfa2b75a4aca",
   "lastOpenFiles": [
-    "Arithmetic mean.md",
+    "Matrices.md",
+    "Conditional probability table.md",
+    "Complement (probability).md",
+    "Conditional probability distribution.md",
     "Law of large numbers.md",
+    "Arithmetic mean.md",
     "Indices/Calculus (index).md",
     "Calculus.md",
     "Independence.md",
     "Indices/Probability and Statistics (index).md",
-    "Conditional probability distribution.md",
     "Categorical variable.md",
     "Probability distribution.md",
     "Probability theory.md",
@@ -188,9 +190,6 @@
     "Fair coin.md",
     "Probability space.md",
     "Bernoulli trial.md",
-    "Boolean expression.md",
-    "Boolean.md",
-    "Randomness.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
