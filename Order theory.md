@@ -1,0 +1,3 @@
+order theory is a branch of mathematics that investigates the intuitive notion of order using [[Binary relation|binary relations]]. it provides a formal framework for describing things such as "less than" or "this precedes that".
+
+the notion of order is very generally, extending beyond contexts that have an immediate intuitive feel of sequence or relative quantity. in other contexts, order may describe notions of containment or specialization. abstractly, this is the same as [[Subset|subset relation]]: "[[Circle|circles]] are special-case [[Ellipse|ellipses]]" 

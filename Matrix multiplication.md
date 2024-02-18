@@ -67,6 +67,6 @@ public class MatrixMultiplication {
 
 ## [[Time complexity]]
 
-the time complexity of this is $O(mnp)$, where $m$ is the number of rows in the first matrix, $n$ is the number of columns in the first matrix (and the number of rows of the second), and $p$ is the number of columns in the second matrix.
+the time complexity of this (in [[Big O notation (O)|big O notation]]) is $O(mnp)$, where $m$ is the number of rows in the first matrix, $n$ is the number of columns in the first matrix (and the number of rows of the second), and $p$ is the number of columns in the second matrix.
 
 this is because for each of the $mp$ entries of the resulting matrix, we perform $n$ multiplications and $n-1$ additions (which can be considered constant time operations)
