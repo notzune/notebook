@@ -1,9 +1,7 @@
 # Index
 ---
 - [[Algorithm]]
-- [[Big Omega notation (Ω)]]
-- [[Big O notation (O)]]
-- [[Big Theta notation (Θ)]]
+- [[Asymptotic notation]]
 - [[Binary]]
 - [[Binary number]]
 - [[Cartesian product]]
@@ -23,8 +21,10 @@
 
 # Sub indices
 ---
+- [[Algorithms and Data Structures (index)]]
 - [[Combinatorics (index)]]
 - [[Logic (index)]]
 - [[Number Theory (index)]]
 - [[Propositional calculus (index)]]
 - [[Set Theory (index)]]
+- [[Software Engineering (index)]]

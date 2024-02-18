@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asymptotic notation.md",
+                "file": "Big O notation (O).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa0f461cc2e3299b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Check digit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asymptotic notation.md",
+                "file": "Check digit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asymptotic notation.md",
+                "file": "Check digit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asymptotic notation.md"
+                "file": "Check digit.md"
               }
             }
           }
@@ -150,15 +163,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a464e9638e4e6ec",
+  "active": "fa0f461cc2e3299b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Check digit.md",
+    "Indices/Algorithms and Data Structures (index).md",
+    "Indices/Discrete Mathematics (index).md",
+    "Big O notation (O).md",
+    "Indices/Software Engineering (index).md",
+    "Asymptotic notation.md",
     "Conditional probability table.md",
     "Indices/Computer Science (index).md",
     "Theoretical computer science (TCS).md",
-    "Asymptotic notation.md",
     "Probability theory.md",
-    "Big O notation (O).md",
-    "Indices/Software Engineering (index).md",
     "Programming Language Theory (index).md",
     "Camel case.md",
     "Java naming conventions.md",
@@ -174,10 +191,6 @@
     "Welcome to my notebook!.md",
     "Indices/Set Theory (index).md",
     "Discrete mathematics.md",
-    "Computational complexity theory.md",
-    "Indices/Discrete Mathematics (index).md",
-    "Indices/Algorithms and Data Structures (index).md",
-    "Law of large numbers.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
