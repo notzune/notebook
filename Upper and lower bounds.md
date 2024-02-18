@@ -1,0 +1,3 @@
+in mathematics, particularly in [[Order theory|order theory]], an upper bound or **majorant** of a [[Subset|subset]] $S$ of some [[Preorder|preordered set]] $(K,\leq)$ is an [[Element|element]] of $k$ that is [[Inequality (mathematics)|greater than or equal to]] every element of $S$.
+
+[[Duality (order theory)|dually]], a lower bound or **minorant** of $S$ is defined to be an element of $K$ that is less than or equal to every element of $S$. 

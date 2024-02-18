@@ -1,0 +1,3 @@
+in [[Order theory|order theory]], every [[Partially ordered set|partially ordered set]] $P$ has a dual (or opposite) partially ordered set which is denoted by $P^{\text{op}}$, or $P^{\text{d}}$. 
+
+this dual order $P^{\text{op}}$ is defined to be the same [[Sets|set]] but with the inverse order. for example, if $x\leq y$ holds in $P^{\text{op}}$ [["if and only if"|if and only if]] $y\leq x$ holds in $P$.

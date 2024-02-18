@@ -1,4 +1,4 @@
-in [[Probability theory|probability theory]], Chebyshev's inequality provides a upper bound on the [[Probability|probability]] of [[Deviation|deviation]] of a [[Random variables|random variable]] (with finite [[Variance|variance]]) from its [[Weighted arithmetic mean|mean]].
+in [[Probability theory|probability theory]], Chebyshev's inequality provides an [[Upper and lower bounds|upper bound]] on the [[Probability|probability]] of [[Deviation|deviation]] of a [[Random variables|random variable]] (with finite [[Variance|variance]]) from its [[Weighted arithmetic mean|mean]].
 
 in other words, the probability that a random variable deviates from its mean by more than $k\sigma$ is at most ${1}/{k^{2}}$, where $k$ is any positive [[Constant|constant]].
 

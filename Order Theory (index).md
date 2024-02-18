@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Duality (order theory)]]
 - [[Index set]]
 - [[Ordered pair]]
 - [[Order theory]]
