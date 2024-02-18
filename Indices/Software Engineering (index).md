@@ -1,9 +1,13 @@
 # Index
 ---
 - [[Abstraction (computer science)]]
+- [[Asymptotic notation]]
+- [[Big Omega notation (Ω)]]
+- [[Big O notation (O)]]
+- [[Big Theta notation (Θ)]]
 - [[Computer program]]
-- [[Program documentation]]
 - [[Memoization]]
+- [[Program documentation]]
 - [[Software]]
 - [[Software engineering]]
 

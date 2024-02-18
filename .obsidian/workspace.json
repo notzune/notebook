@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4a0dfa2b75a4aca",
+            "id": "6a464e9638e4e6ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional probability table.md",
+                "file": "Asymptotic notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional probability table.md",
+                "file": "Asymptotic notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional probability table.md",
+                "file": "Asymptotic notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional probability table.md"
+                "file": "Asymptotic notation.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,34 +150,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4a0dfa2b75a4aca",
+  "active": "6a464e9638e4e6ec",
   "lastOpenFiles": [
+    "Conditional probability table.md",
+    "Indices/Computer Science (index).md",
+    "Theoretical computer science (TCS).md",
+    "Asymptotic notation.md",
+    "Probability theory.md",
+    "Big O notation (O).md",
+    "Indices/Software Engineering (index).md",
+    "Programming Language Theory (index).md",
     "Camel case.md",
     "Java naming conventions.md",
-    "Conditional probability table.md",
     "Order Theory (index).md",
     "Lazy evaluation.md",
     "Chebyshev's inequality.md",
     "Upper and lower bounds.md",
     "Duality (order theory).md",
-    "Big O notation (O).md",
     "Preorder.md",
     "Order theory.md",
     "Computer programming.md",
     "Matrix multiplication.md",
     "Welcome to my notebook!.md",
     "Indices/Set Theory (index).md",
-    "Indices/Computer Science (index).md",
     "Discrete mathematics.md",
     "Computational complexity theory.md",
     "Indices/Discrete Mathematics (index).md",
     "Indices/Algorithms and Data Structures (index).md",
     "Law of large numbers.md",
-    "Enumerated type.md",
-    "Sets.md",
-    "Deck of cards.md",
-    "Abstraction layer.md",
-    "Matrices.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
