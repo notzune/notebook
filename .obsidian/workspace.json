@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad332b1fdb65e119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Order Theory (index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e27bfaab841bcc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chebyshev's inequality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Conditional probability table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chebyshev's inequality.md",
+                "file": "Conditional probability table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chebyshev's inequality.md"
+                "file": "Conditional probability table.md"
               }
             }
           }
@@ -159,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +149,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e27bfaab841bcc2e",
+  "active": "b4a0dfa2b75a4aca",
   "lastOpenFiles": [
-    "Upper and lower bounds.md",
+    "Camel case.md",
+    "Java naming conventions.md",
+    "Conditional probability table.md",
     "Order Theory (index).md",
+    "Lazy evaluation.md",
+    "Chebyshev's inequality.md",
+    "Upper and lower bounds.md",
     "Duality (order theory).md",
     "Big O notation (O).md",
     "Preorder.md",
@@ -192,17 +171,12 @@
     "Computational complexity theory.md",
     "Indices/Discrete Mathematics (index).md",
     "Indices/Algorithms and Data Structures (index).md",
-    "Conditional probability table.md",
     "Law of large numbers.md",
     "Enumerated type.md",
     "Sets.md",
     "Deck of cards.md",
-    "Chebyshev's inequality.md",
     "Abstraction layer.md",
     "Matrices.md",
-    "Complement (probability).md",
-    "Conditional probability distribution.md",
-    "Arithmetic mean.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
