@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Check digit.md",
+                "file": "Pseudocode.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Check digit.md",
+                "file": "Pseudocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Check digit.md",
+                "file": "Pseudocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Check digit.md"
+                "file": "Pseudocode.md"
               }
             }
           }
@@ -165,8 +165,9 @@
   },
   "active": "fa0f461cc2e3299b",
   "lastOpenFiles": [
-    "Untitled.md",
     "Check digit.md",
+    "Pseudocode.md",
+    "Untitled.md",
     "Indices/Algorithms and Data Structures (index).md",
     "Indices/Discrete Mathematics (index).md",
     "Big O notation (O).md",
@@ -190,7 +191,6 @@
     "Matrix multiplication.md",
     "Welcome to my notebook!.md",
     "Indices/Set Theory (index).md",
-    "Discrete mathematics.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",

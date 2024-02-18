@@ -1,0 +1,3 @@
+in [[Computer science|computer science]], pseudocode is a description of the steps in an [[Algorithm|algorithm]] using a mix of conventional [[Programming language|programming language]] syntax (like [[Assignment (computer science)|assignment operators]], [[Conditional (computer programming)|conditional operators]], and [[Loop (computer science)|loops]]) with informal, usually self-explanatory notation for actions and conditions.
+
+it is meant to be a human readable mock version of code and not designed to be compiled or ran by any actual computer and is instead used to explain a process or [[Function (computer programming)|function]].
