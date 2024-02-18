@@ -11,7 +11,7 @@ a description of a function in terms of big O notation usually only provides an 
 consider this simple [[Algorithm|algorithm]] (written in [[Psuedocode|psuedocode]]) that finds the maximum [[Element|element]] in an  unsorted [[Array (datatype)|array]]
 
 ```
-function findMax(array):
+findMax(array):
     maxElement = array[0]
     for each element in array:
         if element > maxElement:
