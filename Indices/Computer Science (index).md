@@ -2,6 +2,9 @@
 ---
 - [[Abstraction (computer science)]]
 - [[Algorithm]]
+- [[Big Omega notation (Ω)]]
+- [[Big O notation (O)]]
+- [[Big Theta notation (Θ)]]
 - [[Binary code]]
 - [[Bit]]
 - [[Bit numbering]]
@@ -9,6 +12,7 @@
 - [[Boolean]]
 - [[Byte]]
 - [[Bytecode]]
+- [[Computational complexity theory]]
 - [[Computational problem]]
 - [[Computer]]
 - [[Computer memory]]

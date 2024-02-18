@@ -1,11 +1,15 @@
 # Index
 ---
 - [[Algorithm]]
+- [[Big Omega notation (Ω)]]
+- [[Big O notation (O)]]
+- [[Big Theta notation (Θ)]]
 - [[Binary]]
 - [[Binary number]]
 - [[Cartesian product]]
 - [[Family of sets]]
 - [[Matrices]]
+- [[Matrix multiplication]]
 - [[Modular arithmetic]]
 - [[Modulo]]
 - [[Modulus]]

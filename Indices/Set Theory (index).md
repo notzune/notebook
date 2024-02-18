@@ -43,4 +43,5 @@
 # Sub indices
 ---
 - [[Group Theory (index)]]
+- [[Order Theory (index)]]
 - [[Relations (subindex)]]
