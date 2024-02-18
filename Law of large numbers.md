@@ -34,8 +34,14 @@ $$
 \end{align}
 $$
 
-therefore, by [[Chebyshev's inequality]], for all $\epsilon>0$,
+therefore, by [[Chebyshev's inequality]], for all $\epsilon>0$ and where $k=\frac{\epsilon}{\sigma}$,
 
 $$
+P(|X-\mu|\geq\epsilon)\leq\frac{\text{Var}(X)}{\epsilon^{2}}=\frac{\sigma^{2}}{n\,\epsilon^{2}}
+$$
 
+as $n\rightarrow\infty$, it then follows that
+
+$$
+\lim_{n\rightarrow\infty}P(|X-\mu|\geq\epsilon)=0
 $$

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional probability table.md",
+                "file": "Law of large numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional probability table.md",
+                "file": "Law of large numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional probability table.md"
+                "file": "Law of large numbers.md"
               }
             }
           }
@@ -162,11 +163,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4a0dfa2b75a4aca",
+  "active": "ad332b1fdb65e119",
   "lastOpenFiles": [
+    "Chebyshev's inequality.md",
     "Law of large numbers.md",
-    "Abstraction layer.md",
     "Conditional probability table.md",
+    "Abstraction layer.md",
     "Matrices.md",
     "Complement (probability).md",
     "Conditional probability distribution.md",
@@ -181,7 +183,6 @@
     "Marginal distribution.md",
     "Joint probability distribution.md",
     "Joint probability mass function.md",
-    "Chebyshev's inequality.md",
     "Hayter 2.4.11.md",
     "Chain rule (probability).md",
     "General Multiplication Law of Probability.md",
