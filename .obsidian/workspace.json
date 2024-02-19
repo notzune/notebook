@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pseudocode.md",
+                "file": "Big O notation (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pseudocode.md",
+                "file": "Big O notation (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pseudocode.md"
+                "file": "Big O notation (O).md"
               }
             }
           }
@@ -163,10 +162,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa0f461cc2e3299b",
+  "active": "6a464e9638e4e6ec",
   "lastOpenFiles": [
-    "Check digit.md",
     "Pseudocode.md",
+    "Check digit.md",
     "Untitled.md",
     "Indices/Algorithms and Data Structures (index).md",
     "Indices/Discrete Mathematics (index).md",
