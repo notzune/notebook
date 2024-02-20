@@ -17,7 +17,7 @@
 - [[Coupling (computer programming)]]
 - [[Data access layer (DAL)]]
 - [[Deprecation]]
-- [[Do while loop]]
+- [[Do-while loop]]
 - [[Execution]]
 - [[Functional programming]]
 - [[Function composition (computer science)]]
@@ -53,6 +53,7 @@
 - [[Type system]]
 - [[UML Diagram]]
 - [[Void type]]
+- [[While loop]]
 
 # Sub indices
 ---
