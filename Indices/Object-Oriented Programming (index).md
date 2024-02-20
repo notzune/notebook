@@ -16,6 +16,7 @@
 - [[Java naming conventions]]
 - [[Java Virtual Machine (JVM)]]
 - [[Kotlin]]
+- [[Main method]]
 - [[Member variable]]
 - [[Method body (object-oriented programming)]]
 - [[Method overriding]]

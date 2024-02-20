@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big O notation (O).md",
+                "file": "Boolean expression.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fa0f461cc2e3299b",
+            "id": "dc1be431d75b1681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pseudocode.md",
+                "file": "Main method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big O notation (O).md",
+                "file": "Main method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big O notation (O).md",
+                "file": "Main method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big O notation (O).md"
+                "file": "Main method.md"
               }
             }
           }
@@ -162,14 +163,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a464e9638e4e6ec",
+  "active": "dc1be431d75b1681",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
+    "Main method.md",
+    "Indices/Computer Programming (index).md",
+    "Boolean expression.md",
+    "Big O notation (O).md",
     "Pseudocode.md",
     "Check digit.md",
     "Untitled.md",
     "Indices/Algorithms and Data Structures (index).md",
     "Indices/Discrete Mathematics (index).md",
-    "Big O notation (O).md",
     "Indices/Software Engineering (index).md",
     "Asymptotic notation.md",
     "Conditional probability table.md",
@@ -186,10 +191,6 @@
     "Duality (order theory).md",
     "Preorder.md",
     "Order theory.md",
-    "Computer programming.md",
-    "Matrix multiplication.md",
-    "Welcome to my notebook!.md",
-    "Indices/Set Theory (index).md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",

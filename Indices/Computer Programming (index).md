@@ -6,6 +6,7 @@
 - [[Application programming interface (API)]]
 - [[Boolean]]
 - [[Boolean expression]]
+- [[Boolean operator]]
 - [[Business layer]]
 - [[Caching layer]]
 - [[Compiler]]
