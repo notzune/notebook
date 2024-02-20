@@ -30,16 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3811e0b3bd0478c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean expression.md",
+                "file": "Indices/Computer Programming (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean expression.md",
+                "file": "Indices/Computer Programming (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean expression.md"
+                "file": "Indices/Computer Programming (index).md"
               }
             }
           }
@@ -170,11 +163,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a464e9638e4e6ec",
+  "active": "dc1be431d75b1681",
   "lastOpenFiles": [
+    "Boolean expression.md",
     "Indices/Computer Programming (index).md",
     "Main method.md",
-    "Boolean expression.md",
     "Do-while loop.md",
     "Indices/Object-Oriented Programming (index).md",
     "Big O notation (O).md",
