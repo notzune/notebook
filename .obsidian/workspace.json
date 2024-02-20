@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accessors and mutators (getters and setters).md",
+                "file": "Boolean expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accessors and mutators (getters and setters).md",
+                "file": "Boolean expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accessors and mutators (getters and setters).md"
+                "file": "Boolean expression.md"
               }
             }
           }
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +161,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc1be431d75b1681",
+  "active": "6a464e9638e4e6ec",
   "lastOpenFiles": [
-    "Indices/Computer Programming (index).md",
+    "Boolean (data type).md",
     "Boolean expression.md",
+    "Accessors and mutators (getters and setters).md",
+    "Indices/Computer Programming (index).md",
     "Main method.md",
     "Do-while loop.md",
     "Indices/Object-Oriented Programming (index).md",
@@ -189,8 +189,6 @@
     "Lazy evaluation.md",
     "Chebyshev's inequality.md",
     "Upper and lower bounds.md",
-    "Duality (order theory).md",
-    "Preorder.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
