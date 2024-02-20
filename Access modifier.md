@@ -21,4 +21,4 @@ it is acceptable to give a constant public visibility which allows it to be used
 
 public constants do not violate encapsulation because, although the client can access it, its value cannot be changed.
 
-because instance data is private, a class usually provides services to [[Accessors and mutators|access and modify data values]].
+because instance data is private, a class usually provides services to [[Accessors and mutators (getters and setters)|access and modify data values]].

@@ -2,7 +2,7 @@
 ---
 - [[Abstraction layer]]
 - [[Access modifier]]
-- [[Accessors and mutators]]
+- [[Accessors and mutators (getters and setters)]]
 - [[Application programming interface (API)]]
 - [[Boolean]]
 - [[Boolean expression]]

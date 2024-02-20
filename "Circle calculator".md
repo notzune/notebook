@@ -8,7 +8,7 @@ public class Circle {
 
 okay so you are given this empty "Circle" [[Class (computer programming)|class]] and are tasked with a couple of things[^1]:
 
-1. you need to create a [[Accessors and mutators|getter]] and [[Accessors and mutators|setter]] for the radius
+1. you need to create a [[Accessors and mutators (getters and setters)|getter]] and [[Accessors and mutators (getters and setters)|setter]] for the radius
 2. a "CalculateArea" [[Function (computer programming)#Definition of a Method ( Object-Oriented Programming OOP )|method]] that calculates and [[Return statement|returns]] the calculated [[Circle#Area|circle area]]
 3. a "CalculateCircumference" method that calculates and returns the calculated [[Circle#Circumference|circle circumference]]
 
