@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean expression.md",
+                "file": "Joint probability distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc1be431d75b1681",
+            "id": "31eaf081be87559f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessors and mutators (getters and setters).md",
+                "file": "Stats Quiz Review 2024-02-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a4391050be19e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinet's quiz question 2023-02-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean expression.md",
+                "file": "Stats Quiz Review 2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean expression.md",
+                "file": "Stats Quiz Review 2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean expression.md"
+                "file": "Stats Quiz Review 2024-02-21.md"
               }
             }
           }
@@ -146,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a464e9638e4e6ec",
+  "active": "31eaf081be87559f",
   "lastOpenFiles": [
-    "Boolean (data type).md",
+    "Dinet's quiz question 2023-02-06.md",
+    "Dinet's whiteboard problem 2024-01-30.md",
+    "Stats Quiz Review 2024-02-21.md",
+    "Joint probability distribution.md",
     "Boolean expression.md",
+    "Boolean (data type).md",
     "Accessors and mutators (getters and setters).md",
     "Indices/Computer Programming (index).md",
     "Main method.md",
@@ -173,7 +191,6 @@
     "Big O notation (O).md",
     "Pseudocode.md",
     "Check digit.md",
-    "Untitled.md",
     "Indices/Algorithms and Data Structures (index).md",
     "Indices/Discrete Mathematics (index).md",
     "Indices/Software Engineering (index).md",
@@ -186,9 +203,6 @@
     "Camel case.md",
     "Java naming conventions.md",
     "Order Theory (index).md",
-    "Lazy evaluation.md",
-    "Chebyshev's inequality.md",
-    "Upper and lower bounds.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",

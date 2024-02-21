@@ -87,8 +87,8 @@
 
 ## Worked-Out Answers
 ### Conditional probability and law of total probability
-- [[Dinet's quiz question 2-6-23]]
-- [[Dinet's whiteboard problem 1-30-24]]
+- [[Dinet's quiz question 2023-02-06]]
+- [[Dinet's whiteboard problem 2024-01-30]]
 
 ### PDF and CDF
 - [[Hayter 2.2.3]]
