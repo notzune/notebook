@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joint probability distribution.md",
+                "file": "Dinet's quiz review 2024-02-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats Quiz Review 2024-02-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a4391050be19e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinet's quiz question 2023-02-06.md",
+                "file": "Expected value.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stats Quiz Review 2024-02-21.md",
+                "file": "Dinet's quiz review 2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stats Quiz Review 2024-02-21.md",
+                "file": "Dinet's quiz review 2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats Quiz Review 2024-02-21.md"
+                "file": "Dinet's quiz review 2024-02-21.md"
               }
             }
           }
@@ -175,12 +162,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31eaf081be87559f",
+  "active": "6a464e9638e4e6ec",
   "lastOpenFiles": [
+    "Variance.md",
+    "Dinet's quiz review 2024-02-21.md",
+    "Chebyshev's inequality.md",
+    "Weighted arithmetic mean.md",
+    "Arithmetic mean.md",
+    "Joint probability distribution.md",
+    "Expected value.md",
+    "Independent events.md",
+    "Disjoint event.md",
     "Dinet's quiz question 2023-02-06.md",
     "Dinet's whiteboard problem 2024-01-30.md",
-    "Stats Quiz Review 2024-02-21.md",
-    "Joint probability distribution.md",
     "Boolean expression.md",
     "Boolean (data type).md",
     "Accessors and mutators (getters and setters).md",
@@ -196,13 +190,6 @@
     "Indices/Software Engineering (index).md",
     "Asymptotic notation.md",
     "Conditional probability table.md",
-    "Indices/Computer Science (index).md",
-    "Theoretical computer science (TCS).md",
-    "Probability theory.md",
-    "Programming Language Theory (index).md",
-    "Camel case.md",
-    "Java naming conventions.md",
-    "Order Theory (index).md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",

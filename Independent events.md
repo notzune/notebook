@@ -26,3 +26,4 @@ $$
 P(A_1\cap\dots\cap A_n)=P(A_1)P(A_2)\dots P(A_n)
 $$
 
+see also: [[Disjoint event|disjoint event]]

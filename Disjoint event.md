@@ -11,3 +11,5 @@ A\cap B=\emptyset \\
 P(A\cap B)=0 \\
 \end{align}
 $$
+
+see also: [[Independent events|independent events]]
