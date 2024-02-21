@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear functions of a random variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a464e9638e4e6ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Percentile.md",
+                "file": "Algebra of random variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "44a4c8c838991d08",
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Percentile.md",
+                "file": "Algebra of random variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Percentile.md",
+                "file": "Algebra of random variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Percentile.md"
+                "file": "Algebra of random variables.md"
               }
             }
           }
@@ -205,13 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a464e9638e4e6ec",
+  "active": "d0e71932d48aac55",
   "lastOpenFiles": [
-    "Linear functions of a random variable.md",
+    "Expected value.md",
+    "Algebra of random variables.md",
     "Percentile.md",
     "Dinet's quiz review 2024-02-21.md",
     "Indices/Probability and Statistics (index).md",
-    "Expected value.md",
     "Variance.md",
     "Chebyshev's inequality.md",
     "Weighted arithmetic mean.md",

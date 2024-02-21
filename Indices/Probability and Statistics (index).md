@@ -35,7 +35,7 @@
 - [[Law of large numbers]]
 - [[Law of total probability]]
 - [[Likelihood function]]
-- [[Linear functions of a random variable]]
+- [[Algebra of random variables]]
 - [[Marginal distribution]]
 - [[Median]]
 - [[Mode (statistics)]]
