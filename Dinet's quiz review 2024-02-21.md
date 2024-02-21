@@ -8,6 +8,7 @@
 - [[Independent events]]
 - [[Interquartile range (IQR)]]
 - [[Joint probability distribution]]
+- [[Linear functions of a random variable]]
 - [[Marginal distribution]]
 - [[Percentile]]
 - [[Probability mass function (PMF)]]
