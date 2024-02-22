@@ -60,3 +60,6 @@ $$
 
 # Variance algebra for random variables
 
+- addition: $\text{Var}(Z)=\text{Var}(X+Y)=\text{Var}(X)+2\text{Cov}(X,Y)+\text{Var}(Y)$
+	- if $X$ and $Y$ are independent, then: $\text{Var}(X+Y)=\text{Var}(X)+\text{Var}(Y)$
+	- 
