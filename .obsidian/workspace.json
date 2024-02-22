@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bernoulli distribution.md",
+                "file": "Combination.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bernoulli distribution.md",
+                "file": "Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bernoulli distribution.md",
+                "file": "Combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bernoulli distribution.md"
+                "file": "Combination.md"
               }
             }
           }
@@ -152,9 +152,9 @@
   },
   "active": "179e5b8350d6d63e",
   "lastOpenFiles": [
+    "Bernoulli distribution.md",
     "Bernoulli random variables.md",
     "Bernoulli trial (Bernoulli random variables).md",
-    "Bernoulli distribution.md",
     "Random variables.md",
     "Expected value.md",
     "Dinet's quiz review 2024-02-21.md",
