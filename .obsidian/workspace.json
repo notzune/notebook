@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "34085e502718fa7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "31eaf081be87559f",
             "type": "leaf",
             "state": {
@@ -42,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33b1a92e469f3d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hayter 2.2.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variance.md",
+                "file": "Hayter 2.2.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variance.md",
+                "file": "Hayter 2.2.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variance.md"
+                "file": "Hayter 2.2.3.md"
               }
             }
           }
@@ -175,17 +197,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0e71932d48aac55",
+  "active": "33b1a92e469f3d12",
   "lastOpenFiles": [
+    "Cumulative distribution function (CDF).md",
+    "Hayter 2.2.3.md",
+    "Arithmetic mean.md",
+    "Comparison of mean, median and mode.md",
+    "Indices/Probability and Statistics (index).md",
+    "Mean.md",
+    "Dinet's quiz review 2024-02-21.md",
     "Expected value.md",
     "Algebra of random variables.md",
     "Percentile.md",
-    "Dinet's quiz review 2024-02-21.md",
-    "Indices/Probability and Statistics (index).md",
     "Variance.md",
     "Chebyshev's inequality.md",
     "Weighted arithmetic mean.md",
-    "Arithmetic mean.md",
     "Joint probability distribution.md",
     "Independent events.md",
     "Disjoint event.md",
@@ -199,10 +225,6 @@
     "Do-while loop.md",
     "Indices/Object-Oriented Programming (index).md",
     "Big O notation (O).md",
-    "Pseudocode.md",
-    "Check digit.md",
-    "Indices/Algorithms and Data Structures (index).md",
-    "Indices/Discrete Mathematics (index).md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",

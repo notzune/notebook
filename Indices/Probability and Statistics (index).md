@@ -89,6 +89,10 @@
 - [[Pip (counting)]]
 - [[Python formula sheet]]
 
+## Review sheets
+
+- [[Dinet's quiz review 2024-02-21]]
+
 ## Worked-Out Answers
 ### Conditional probability and law of total probability
 - [[Dinet's quiz question 2023-02-06]]
