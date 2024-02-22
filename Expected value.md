@@ -12,6 +12,12 @@ $$
 
 $E(X)$ provides the [[Weighted arithmetic mean|mean]] of the random variable.
 
+you can express the expected value in terms of the [[Variance|variance]] or covariance:
+
+$$
+E(X^{2})-E(X)^{2}=\text{Var}(X)=\text{Cov}(X,X)
+$$
+
 # Examples
 
 let $X$ represent the outcome of a roll of a fair six-sided [[Dice (die)|die]]. more specifically, $X$ is the number of [[Pip (counting)|pips]] showing on the top face of the die after the toss.

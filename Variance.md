@@ -50,6 +50,12 @@ $$
 \text{Var}(X)=\text{Cov}(X,X)
 $$
 
+and you can also express it in terms of [[Expected value|expectation]]:
+
+$$
+E(X^{2})-E(X)^{2}=\text{Var}(X)=\text{Cov}(X,X)
+$$
+
 # Discrete random variables
 
 if the generator of a random variable $X$ is [[Continuous or discrete variable#Discrete variable|discrete]] with [[Probability mass function (PMF)|PMF]] $x_1\mapsto p_1,x_2\mapsto p_2,\dots,x_n\mapsto p_n$, then 

@@ -62,4 +62,10 @@ $$
 
 - addition: $\text{Var}(Z)=\text{Var}(X+Y)=\text{Var}(X)+2\text{Cov}(X,Y)+\text{Var}(Y)$
 	- if $X$ and $Y$ are independent, then: $\text{Var}(X+Y)=\text{Var}(X)+\text{Var}(Y)$
-	- 
+- subtraction: $\text{Var}(Z)=\text{Var}(X-Y)=\text{Var}(X)-2\text{Cov}(X,Y)+\text{Var}(Y)$
+	- if $X$ and $Y$ are independent, then: $\text{Var}(X-Y)=\text{Var}(X)+\text{Var}(Y)$[^1]
+- multiplication: $\text{Var}(Z)=\text{Var}(XY)=\text{Var}(YX)$
+	- if $X$ and $Y$ are independent from each other then: $\text{Var}(XY)=E(X^{2})\cdot E(Y^{2})-(E(X)\cdot E(Y))^{2}=\text{Var}(X)\cdot \text{Var}(Y)+\text{Var}(X)\cdot(E(Y))^{2}+\text{Var}(Y)\cdot(E(X))^{2}$
+- division: 
+
+[^1]: for independent random variables, the variance is the same for additions and subtractions: $\text{Var}(X+Y)=\text{Var}(X-Y)=\text{Var}(Y-X)=\text{Var}(-X-Y)$

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra of random variables.md",
+                "file": "Variance.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,24 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "44a4c8c838991d08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "32e6dfd258b3232c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Probability and Statistics (index).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra of random variables.md",
+                "file": "Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra of random variables.md",
+                "file": "Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra of random variables.md"
+                "file": "Variance.md"
               }
             }
           }
