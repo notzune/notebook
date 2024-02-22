@@ -106,3 +106,7 @@
 
 ### Chebyshev's inequality
 - [[Hayter 2.4.11]]
+
+### Algebra of Random Variables
+- [[Hayter 2.6.1]]
+- [[Hayter 2.6.5]]

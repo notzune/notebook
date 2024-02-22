@@ -242,14 +242,15 @@ $$
 
 which we can then plot:
 
-|$x$ |$F(x)$ |
-|---|---|
-|$−2$ |$0.0$ |
-|$−1$ |$0.2109375$ |
-|$0$ |$0.4375$ |
-|1|$0.875$ |
-|$2$ |$1.4375$ |
-|$3$ |$2.125$
+| $x$  | $F(x)$      |
+| ---- | ----------- |
+| $−2$ | $0.0$       |
+| $−1$ | $0.2109375$ |
+| $0$  | $0.4375$    |
+| 1    | $0.875$     |
+| $2$  | $1.4375$    |
+| $3$  | $2.125$     |
+|      |             |
 ![[Screenshot 2024-02-15 at 6.18.27 PM.png]][^4]
 
 [^1]: the total area under the probability density function $f(x)$ over the its entire range must equal 1, because it represents the total probability of all outcomes.

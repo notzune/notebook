@@ -66,6 +66,11 @@ $$
 	- if $X$ and $Y$ are independent, then: $\text{Var}(X-Y)=\text{Var}(X)+\text{Var}(Y)$[^1]
 - multiplication: $\text{Var}(Z)=\text{Var}(XY)=\text{Var}(YX)$
 	- if $X$ and $Y$ are independent from each other then: $\text{Var}(XY)=E(X^{2})\cdot E(Y^{2})-(E(X)\cdot E(Y))^{2}=\text{Var}(X)\cdot \text{Var}(Y)+\text{Var}(X)\cdot(E(Y))^{2}+\text{Var}(Y)\cdot(E(X))^{2}$
-- division: 
+- division: $\text{Var}(Z)=\text{Var}(X/Y)=\text{Var}(X\cdot(1/Y))=\text{Var}((1/Y)/cdot X)$
+	- if $X$ and $Y$ are independent, then: $\text{Var}(X/Y)=E(X^{2})\cdot E(1/Y^{2})-(E(X)\cdot E(1/Y))^{2}=\text{Var}(X)\cdot\text{Var}(1/Y)+\text{Var}(X)\cdot(E(1/Y))^{2}+\text{Var}(1/Y)\cdot(E(X))^{2}$
+- exponentiation: $\text{Var}(Z)=\text{Var}(X^{Y})=\text{Var}(e^{Y\ln(X)})$, where $\text{Cov}(X,Y)=\text{Cov}(Y,X)$ represents the covariance between the random variables $X$ and $Y$.
+
+# [[Covariance]] algebra for random variables
+
 
 [^1]: for independent random variables, the variance is the same for additions and subtractions: $\text{Var}(X+Y)=\text{Var}(X-Y)=\text{Var}(Y-X)=\text{Var}(-X-Y)$
