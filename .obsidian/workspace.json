@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combination.md",
+                "file": "Binomial coefficient.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combination.md",
+                "file": "Binomial coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combination.md",
+                "file": "Binomial coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combination.md"
+                "file": "Binomial coefficient.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "179e5b8350d6d63e",
   "lastOpenFiles": [
+    "Indices/Probability and Statistics (index).md",
+    "Combination.md",
     "Bernoulli distribution.md",
     "Bernoulli random variables.md",
     "Bernoulli trial (Bernoulli random variables).md",
@@ -160,7 +162,6 @@
     "Dinet's quiz review 2024-02-21.md",
     "Parabola.md",
     "Percentile.md",
-    "Indices/Probability and Statistics (index).md",
     "Variance.md",
     "Standard deviation.md",
     "Probability mass function (PMF).md",
@@ -179,7 +180,6 @@
     "Comparison of mean, median and mode.md",
     "Mean.md",
     "Chebyshev's inequality.md",
-    "Weighted arithmetic mean.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
