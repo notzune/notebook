@@ -6,7 +6,7 @@ given two [[Random variables|random variables]] that are defined on the same [[P
 
 consider the flip of two fair coins; let $A$ and $B$ be [[Continuous or discrete variable#Discrete variable|discrete]] random variables associated with the [[Outcome|outcomes]] of the first and second coin flips, respectively.
 
-each coin flip is a [[Bernoulli trial (Bernoulli random variables)]] and has a [[Bernoulli distribution]]. if a coin displays "heads" then the associated random variable takes the value $1$, and it takes the value $0$ otherwise.
+each coin flip is a [[Bernoulli trial]] and has a [[Bernoulli distribution]]. if a coin displays "heads" then the associated random variable takes the value $1$, and it takes the value $0$ otherwise.
 
 the probability of each of these outcomes is $1/2$, so the [[Marginal distribution#PDF|marginal]] (unconditional) density functions are
 

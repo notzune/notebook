@@ -2,7 +2,7 @@
 ---
 - [[68–95–99.7 rule]]
 - [[Bernoulli distribution]]
-- [[Bernoulli trial (Bernoulli random variables)]]
+- [[Bernoulli trial]]
 - [[Binomial coefficient]]
 - [[Categorical variable]]
 - [[Central moment]]

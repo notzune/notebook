@@ -1,4 +1,4 @@
-in [[Probability theory|probability theory]] and [[Statistics|statistics]], a sequence of [[Independence|independent]] [[Bernoulli trial (Bernoulli random variables)|Bernoulli trials]] with probability $1/2$ of success on each trial is metaphorically called a fair coin.
+in [[Probability theory|probability theory]] and [[Statistics|statistics]], a sequence of [[Independence|independent]] [[Bernoulli trial|Bernoulli trials]] with probability $1/2$ of success on each trial is metaphorically called a fair coin.
 
 a fair coin is defined as the [[Probability space|probability space]] ($\Omega,\mathcal{F},P$), using $H$ for heads and $T$ for tails, the [[Sample space|sample space]] of a coin is defined as:
 

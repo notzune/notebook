@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Indices/Probability and Statistics (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c7518c90d0fff3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binomial distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3537ace78bd7715b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combination.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Binomial distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomial coefficient.md",
+                "file": "Binomial distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binomial coefficient.md"
+                "file": "Binomial distribution.md"
               }
             }
           }
@@ -150,14 +175,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "179e5b8350d6d63e",
+  "active": "2c7518c90d0fff3d",
   "lastOpenFiles": [
     "Combination.md",
-    "Binomial coefficient.md",
+    "Binomial distribution.md",
+    "Bernoulli trial.md",
     "Indices/Probability and Statistics (index).md",
+    "\"Circle calculator\".md",
+    "\"Cylinder calculator\" (II).md",
+    "Java Tutorials & Lessons (index).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Binomial coefficient.md",
+    "Bayesian inference.md",
     "Bernoulli distribution.md",
     "Bernoulli random variables.md",
-    "Bernoulli trial (Bernoulli random variables).md",
     "Random variables.md",
     "Expected value.md",
     "Dinet's quiz review 2024-02-21.md",
@@ -174,12 +205,6 @@
     "Sample space.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
-    "Hayter 2.6.1.md",
-    "Independence.md",
-    "Screenshot 2024-02-15 at 6.18.27 PM.png.md",
-    "Arithmetic mean.md",
-    "Comparison of mean, median and mode.md",
-    "Mean.md",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
     "Screenshot 2024-02-15 at 6.18.27 PM.png",
     "Screenshot 2024-02-13 at 6.50.55 PM.png",
