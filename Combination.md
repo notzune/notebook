@@ -1,5 +1,7 @@
 in mathematics and [[Combinatorics|combinatorics]], a combination is a selection of items from a [[Sets|set]] that has distinct [[Element|members]], such that the order of selection does not matter (unlike [[Permutation|permutations]] where the order plays a role).
 
+see also: [[Binomial coefficient|binomial coefficient]]
+
 a combination of $k$ objects from $n$ objects ($n\geq k$) is an unordered collection of $k$ objects selected [[Replacement|without replacement]] (without repetition) from the group of $n$ objects.
 
 the number of possible combinations of $k$ objects from $n$ objects is

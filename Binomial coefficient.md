@@ -1,3 +1,5 @@
+see also: [[Combination|combination]]
+
 in math, the binomial coefficients are the positive [[Integer|integers]] that occur as [[Coefficient|coefficients]] in the [[Binomial theorem|binomial theorem]]
 
 commonly, a binomial coefficient is indexed by a pair of integers $n\geq  k\geq0$ and is written as $\binom{n}{k}$.
