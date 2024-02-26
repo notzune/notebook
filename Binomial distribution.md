@@ -22,3 +22,73 @@ the formula can be understood as:
 
 $k$ success occur with probability $p^{k}$ and $n-k$ failures occur with probability $(1-p)^{n-k}$, however the $k$ successes can occur anywhere among the $n$ trials, and there are $\binom{n}{k}$ different ways of distributing $k$ successes in a sequence of $n$ trials.
 
+# Properties
+
+## [[Expected value]] and [[Variance|variance]]
+
+if $X$ ~ $B(n,p)$, that is $X$ is a binomially distributed random variable, $n$ being the total number of experiments and $p$ the probability of each yielding a successful result, then the expected value of $X$ is:
+
+$$
+E(X)=np
+$$
+
+this follows from the linearity of the expected value along with the fact that $X$ is the sum of $n$ identical Bernoulli random variables, each with expected value $p$.
+
+in other words, if $X_1,\dots,X_n$ are identical (and [[Independence|independent]]) Bernoulli random variables with parameter $p$, then $X=X_1+\dots+X_n$ and
+
+$$
+\begin{align}
+E(X)&=E(X_1+\dots+X_n) \\ 
+\\
+&=E(X_1)+\dots+E(X_n) \\
+\\
+&=p+\dots+p \\
+\\
+&=np
+\end{align}
+$$
+
+the variance is then:
+
+$$
+\text{Var}(X)=npq=np(1-p)
+$$
+
+this is because the variance of a sum of independent random variables is the sum of the variances.
+
+## Higher [[Moment|moments]]
+
+the first 6 [[Central moment|central moments]], defined as $\mu_{c}=E((X-E(X))^{c})$, are given by
+
+$$
+\begin{align}
+\mu_1&=0, \\
+\mu_2&=np(1-p), \\
+\mu_3&=np(1-p)(1-2p), \\
+\mu_4&=np(1-p)(1 + (3n-6)p(1-p)), \\
+\mu_5&=np(1-p)(1-2p)(1 + (10n-12)p(1-p)), \\
+\mu_6&=np(1-p)(1-30p)(1-p)(1-4p(1-p))+5np(1-p)(5-26p(1-p))+15n^{2}p^{2}(1-p)^{2}).
+\end{align}
+$$
+
+the non-central moments satisfy
+
+$$
+\begin{align}
+E(X)&=np \\
+E(X^{2})&=np(1-p)+n^{2}p^{2}
+\end{align}
+$$
+
+and in general,
+
+$$
+E(X^{c})=\sum _{k=0}^{c}\left\{{c\atop k}\right\}\,n^{\underline{k}}p^{k}
+$$
+
+where $\left\{{c\atop k}\right\}$ are the [[Stirling numbers|Stirling numbers of the second kind]], and $n^{\underline{k}}=n(n-1)\dots(n-k+1)$ is the $k$th [[Falling and rising factorials|failing power]] of $n$.
+
+
+
+
+
