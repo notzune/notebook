@@ -7,7 +7,13 @@ single success/failure experiment is also called a [[Bernoulli trial|Bernoulli t
 in general, if the [[Random variables|random variable]] $X$ follows the binomial distribution with parameters $n\in\mathbb{N}$ and $p\in[0,1]$, we write $X$ ~ $\text{B}(n,p)$. the probability of getting exactly $k$ success in $n$ independent Bernoulli trials (with the same rate $p$) is given by the [[Probability mass function (PMF)|PMF]]:
 
 $$
-f(k,n,p)=\text{Pr}(k;n,p)=\text{Pr}(X=k)=\binom{n}{k}p^{k}(1-p)^{n-k}
+\begin{align}
+f(k,n,p)&=\text{Pr}(k;n,p) \\
+\\
+&=\text{Pr}(X=k) \\
+\\
+&=\binom{n}{k}p^{k}(1-p)^{n-k} \\
+\end{align}
 $$
 
 for $k=0,1,2,\dots,n$, where
