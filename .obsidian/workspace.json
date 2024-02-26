@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2c7518c90d0fff3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3537ace78bd7715b",
             "type": "leaf",
             "state": {
@@ -42,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7938df380d2290a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binomial distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e54aa81f19c06cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control flow.md",
+                "file": "Fair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control flow.md",
+                "file": "Fair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control flow.md"
+                "file": "Fair.md"
               }
             }
           }
@@ -159,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,21 +186,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c7518c90d0fff3d",
+  "active": "2e54aa81f19c06cb",
   "lastOpenFiles": [
-    "Declaration (computer science).md",
-    "Control flow.md",
-    "Indices/Computer Programming (index).md",
+    "Fair coin.md",
+    "Fair.md",
+    "Probability mass function (PMF).md",
+    "Binomial distribution.md",
+    "Indices/Probability and Statistics (index).md",
     "Combination.md",
+    "Control flow.md",
+    "Declaration (computer science).md",
+    "Indices/Computer Programming (index).md",
     "Programming Language Theory (index).md",
     "Block (computer programming).md",
     "Statement (computer science).md",
     "Imperative programming.md",
     "Declarative programming.md",
-    "Binomial distribution.md",
     "Moment.md",
     "Bernoulli trial.md",
-    "Indices/Probability and Statistics (index).md",
     "\"Circle calculator\".md",
     "\"Cylinder calculator\" (II).md",
     "Java Tutorials & Lessons (index).md",
@@ -200,9 +214,6 @@
     "Bernoulli random variables.md",
     "Random variables.md",
     "Expected value.md",
-    "Dinet's quiz review 2024-02-21.md",
-    "Parabola.md",
-    "Percentile.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

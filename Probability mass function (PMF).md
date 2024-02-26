@@ -23,7 +23,7 @@ the rules for a PMF, $p_X$, associated with a discrete random variable $X$ are:
 
 # Examples
 
-consider a [[Fair|fair]] six-sided die. the random variable $X$ can be the result of a die roll, so $X$ can take on any value from 1 to 6; each outcome is equally likely so each has a probability of $1/6$.
+consider a [[Fair|fair]] six-sided [[Dice (die)|die]]. the random variable $X$ can be the result of a die roll, so $X$ can take on any value from 1 to 6; each outcome is equally likely so each has a probability of $1/6$.
 
 the PMF of the die roll, $p_X(x)$ can be described as:
 
