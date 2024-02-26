@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "a20482d4922950ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Declaration (computer science).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3537ace78bd7715b",
             "type": "leaf",
             "state": {
@@ -190,13 +178,16 @@
   "active": "2c7518c90d0fff3d",
   "lastOpenFiles": [
     "Declaration (computer science).md",
-    "Block (computer programming).md",
     "Control flow.md",
+    "Indices/Computer Programming (index).md",
+    "Combination.md",
+    "Programming Language Theory (index).md",
+    "Block (computer programming).md",
+    "Statement (computer science).md",
     "Imperative programming.md",
     "Declarative programming.md",
     "Binomial distribution.md",
     "Moment.md",
-    "Combination.md",
     "Bernoulli trial.md",
     "Indices/Probability and Statistics (index).md",
     "\"Circle calculator\".md",
@@ -212,9 +203,6 @@
     "Dinet's quiz review 2024-02-21.md",
     "Parabola.md",
     "Percentile.md",
-    "Variance.md",
-    "Standard deviation.md",
-    "Probability mass function (PMF).md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

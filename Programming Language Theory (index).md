@@ -1,6 +1,8 @@
 # Index
 ---
+- [[Declarative programming]]
 - [[Evaluation strategy]]
+- [[Imperative programming]]
 - [[Language primitive]]
 - [[Lazy evaluation]]
 - [[Memoization]]
