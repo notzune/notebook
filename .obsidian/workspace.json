@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binomial distribution.md",
+                "file": "Control flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a20482d4922950ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declaration (computer science).md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomial distribution.md",
+                "file": "Control flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomial distribution.md",
+                "file": "Control flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binomial distribution.md"
+                "file": "Control flow.md"
               }
             }
           }
@@ -177,8 +189,14 @@
   },
   "active": "2c7518c90d0fff3d",
   "lastOpenFiles": [
-    "Combination.md",
+    "Declaration (computer science).md",
+    "Block (computer programming).md",
+    "Control flow.md",
+    "Imperative programming.md",
+    "Declarative programming.md",
     "Binomial distribution.md",
+    "Moment.md",
+    "Combination.md",
     "Bernoulli trial.md",
     "Indices/Probability and Statistics (index).md",
     "\"Circle calculator\".md",
@@ -197,12 +215,6 @@
     "Variance.md",
     "Standard deviation.md",
     "Probability mass function (PMF).md",
-    "Algebra of random variables.md",
-    "Covariance.md",
-    "Hayter 2.2.3.md",
-    "Cumulative distribution function (CDF).md",
-    "Intersection of events.md",
-    "Sample space.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

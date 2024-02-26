@@ -16,7 +16,8 @@ $$
 \langle f(x)\rangle= 
 \begin{cases}
 \sum f(x)P(x),&\text{discrete distribution} \\
-\int f(x)P(x)dx,&\text{continuous distribution}
+\\
+\int f(x)P(x)dx,&\text{continuous distribution} \\
 \end{cases}
 \end{align}
 $$

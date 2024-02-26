@@ -97,4 +97,3 @@ where $\left\{{c\atop k}\right\}$ are the [[Stirling numbers|Stirling numbers of
 
 
 
-
