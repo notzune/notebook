@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combination.md",
+                "file": "Control flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e54aa81f19c06cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fair.md",
+                "file": "Control flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fair.md",
+                "file": "Control flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fair.md"
+                "file": "Control flow.md"
               }
             }
           }
@@ -171,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e54aa81f19c06cb",
+  "active": "3537ace78bd7715b",
   "lastOpenFiles": [
-    "Fair coin.md",
-    "Fair.md",
-    "Probability mass function (PMF).md",
-    "Binomial distribution.md",
-    "Indices/Probability and Statistics (index).md",
     "Combination.md",
+    "Binomial distribution.md",
+    "Fair.md",
+    "Fair coin.md",
+    "Probability mass function (PMF).md",
+    "Indices/Probability and Statistics (index).md",
     "Control flow.md",
     "Declaration (computer science).md",
     "Indices/Computer Programming (index).md",
