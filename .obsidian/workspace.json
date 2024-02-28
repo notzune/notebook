@@ -44,6 +44,37 @@
             }
           }
         ],
+        "currentTab": 2
+      },
+      {
+        "id": "c1a9a23aab7b3350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "021cc486fdbcb383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson in Control Flow and Program Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7305d93215e654ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Tutorials & Lessons (index).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
         "currentTab": 1
       }
     ],
@@ -111,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control flow.md",
+                "file": "Java Tutorials & Lessons (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control flow.md",
+                "file": "Java Tutorials & Lessons (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control flow.md"
+                "file": "Java Tutorials & Lessons (index).md"
               }
             }
           }
@@ -175,15 +206,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3537ace78bd7715b",
+  "active": "7305d93215e654ad",
   "lastOpenFiles": [
+    "Lesson in Control Flow and Program Design.md",
+    "Java Tutorials & Lessons (index).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Control flow.md",
     "Combination.md",
     "Binomial distribution.md",
     "Fair.md",
     "Fair coin.md",
     "Probability mass function (PMF).md",
     "Indices/Probability and Statistics (index).md",
-    "Control flow.md",
     "Declaration (computer science).md",
     "Indices/Computer Programming (index).md",
     "Programming Language Theory (index).md",
@@ -195,14 +229,11 @@
     "Bernoulli trial.md",
     "\"Circle calculator\".md",
     "\"Cylinder calculator\" (II).md",
-    "Java Tutorials & Lessons (index).md",
-    "Indices/Object-Oriented Programming (index).md",
     "Binomial coefficient.md",
     "Bayesian inference.md",
     "Bernoulli distribution.md",
     "Bernoulli random variables.md",
     "Random variables.md",
-    "Expected value.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
