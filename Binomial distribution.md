@@ -2,9 +2,9 @@ in [[Probability theory|probability theory]] and [[Statistics|statistics]], the 
 
 single success/failure experiment is also called a [[Bernoulli trial|Bernoulli trial]] and the sequence of outcomes is called a [[Bernoulli process]]
 
-# Probability mass function (PMF)
+# [[Probability mass function (PMF)]]
 
-in general, if the [[Random variables|random variable]] $X$ follows the binomial distribution with parameters $n\in\mathbb{N}$ and $p\in[0,1]$, we write $X$ ~ $\text{B}(n,p)$. the probability of getting exactly $k$ success in $n$ independent Bernoulli trials (with the same rate $p$) is given by the [[Probability mass function (PMF)|PMF]]:
+in general, if the [[Random variables|random variable]] $X$ follows the binomial distribution with parameters $n\in\mathbb{N}$ and $p\in[0,1]$, we write $X$ ~ $\text{B}(n,p)$. the probability of getting exactly $k$ success in $n$ independent Bernoulli trials (with the same rate $p$) is given by the PMF:
 
 $$
 \begin{align}
@@ -27,6 +27,24 @@ is the [[Binomial coefficient|binomial coefficient]], hence the name of the dist
 the formula can be understood as:
 
 $k$ success occur with probability $p^{k}$ and $n-k$ failures occur with probability $(1-p)^{n-k}$, however the $k$ successes can occur anywhere among the $n$ trials, and there are $\binom{n}{k}$ different ways of distributing $k$ successes in a sequence of $n$ trials.
+
+## Example
+
+suppose a [[Fair coin|biased coin]] comes up heads with probability $0.3$ when tossed. the probability of seeing exactly 4 heads in 6 tosses is:
+
+$$
+f(4,6,0.3)=\binom{6}{4}0.3^{4}(1-0.3)^{6-4}=0.059535
+$$
+
+# [[Cumulative distribution function (CDF)]]
+
+the cumulative distribution function can be expressed as:
+
+$$
+F(k;n,p)=\text{Pr}(X\leq k)=\sum^{⌊k⌋​}_{i=0}\binom{n}{i}p^{i}(1-p)^{n-i}
+$$
+
+where $⌊k⌋​$ is the "floor" under $k$; the greatest integer less than or equal to $k$.
 
 # Properties
 
