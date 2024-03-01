@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49712a5f22c6e29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometric sequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b8a483d2e11d7667",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomial distribution.md",
+                "file": "Geometric sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binomial distribution.md",
+                "file": "Geometric sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binomial distribution.md"
+                "file": "Geometric sequence.md"
               }
             }
           }
@@ -168,12 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7938df380d2290a",
+  "active": "49712a5f22c6e29a",
   "lastOpenFiles": [
-    "Fair coin.md",
-    "Binomial distribution.md",
-    "Control flow.md",
+    "Geometric distribution.md",
+    "Geometric sequence.md",
     "Indices/Probability and Statistics (index).md",
+    "Binomial distribution.md",
+    "Floor and ceiling functions.md",
+    "Indices/Discrete Mathematics (index).md",
+    "Fair coin.md",
+    "Control flow.md",
     "Java Tutorials & Lessons (index).md",
     "Lesson in Control Flow and Program Design.md",
     "Indices/Object-Oriented Programming (index).md",
@@ -192,10 +209,6 @@
     "\"Circle calculator\".md",
     "\"Cylinder calculator\" (II).md",
     "Binomial coefficient.md",
-    "Bayesian inference.md",
-    "Bernoulli distribution.md",
-    "Bernoulli random variables.md",
-    "Random variables.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

@@ -6,6 +6,7 @@
 - [[Binary number]]
 - [[Cartesian product]]
 - [[Family of sets]]
+- [[Floor and ceiling functions]]
 - [[Matrices]]
 - [[Matrix multiplication]]
 - [[Modular arithmetic]]

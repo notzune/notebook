@@ -44,7 +44,7 @@ $$
 F(k;n,p)=\text{Pr}(X\leq k)=\sum^{⌊k⌋​}_{i=0}\binom{n}{i}p^{i}(1-p)^{n-i}
 $$
 
-where $⌊k⌋​$ is the "floor" under $k$; the greatest integer less than or equal to $k$.
+where $⌊k⌋​$ is the "[[Floor and ceiling functions|floor]]" under $k$; the greatest integer less than or equal to $k$.
 
 # Properties
 

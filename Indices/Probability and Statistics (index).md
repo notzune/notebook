@@ -1,6 +1,7 @@
 # Index
 ---
 - [[68–95–99.7 rule]]
+- [[Algebra of random variables]]
 - [[Bernoulli distribution]]
 - [[Bernoulli trial]]
 - [[Binomial coefficient]]
@@ -24,6 +25,7 @@
 - [[Events]]
 - [[Expected value]]
 - [[General Multiplication Law of Probability]]
+- [[Geometric distribution]]
 - [[Hypergeometric distribution]]
 - [[Independence]]
 - [[Independent events]]
@@ -35,7 +37,6 @@
 - [[Law of large numbers]]
 - [[Law of total probability]]
 - [[Likelihood function]]
-- [[Algebra of random variables]]
 - [[Marginal distribution]]
 - [[Median]]
 - [[Mode (statistics)]]
