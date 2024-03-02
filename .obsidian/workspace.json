@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometric sequence.md",
+                "file": "Geometric distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae00f574070c64b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negative binomial distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric sequence.md",
+                "file": "Geometric distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric sequence.md",
+                "file": "Geometric distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometric sequence.md"
+                "file": "Geometric distribution.md"
               }
             }
           }
@@ -183,9 +195,10 @@
   },
   "active": "49712a5f22c6e29a",
   "lastOpenFiles": [
+    "Negative binomial distribution.md",
+    "Indices/Probability and Statistics (index).md",
     "Geometric distribution.md",
     "Geometric sequence.md",
-    "Indices/Probability and Statistics (index).md",
     "Binomial distribution.md",
     "Floor and ceiling functions.md",
     "Indices/Discrete Mathematics (index).md",
@@ -208,7 +221,6 @@
     "Bernoulli trial.md",
     "\"Circle calculator\".md",
     "\"Cylinder calculator\" (II).md",
-    "Binomial coefficient.md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

@@ -41,6 +41,7 @@
 - [[Median]]
 - [[Mode (statistics)]]
 - [[Multimodal distribution]]
+- [[Negative binomial distribution]]
 - [[Normal distribution]]
 - [[Odds]]
 - [[Outcome]]
