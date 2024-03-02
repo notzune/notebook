@@ -58,3 +58,17 @@ $$
 $$
 
 and so on.
+
+# [[Expected value]] and [[Variance]]
+
+the expected value of a geometrically distributed [[Random variables|random variable]] is given as
+
+$$
+E(X)=\frac{1}{p}
+$$
+
+while the variance is given as
+
+$$
+\text{Var}(X)=\frac{1-p}{p^{2}}
+$$
