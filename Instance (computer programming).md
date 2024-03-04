@@ -20,7 +20,7 @@ foo = new Object(bar);
 
 in typical case, the process is as follows:
 
-- calculate the size of an object – the size is mostly the same as that of the [[Class (computer programming)|class]] but can vary. when the object in question is not derived from a class, but from a [[Prototype based programming|prototype]] instead, the size of an object is usually that of the internal data structure (a hash for instance) that holds its slots.
+- calculate the size of an object – the size is mostly the same as that of the [[Class (computer programming)|class]] but can vary. when the object in question is not derived from a class, but from a [[Prototype based programming|prototype]] instead, the size of an object is usually that of the internal data structure (for example, a [[HashMap (datatype)|hash]]) that holds its slots.
 - allocation – allocating memory space with the size of an object plus the growth later, if possible to know in advance
 - [[Name binding|binding]] methods – this is usually either left to the class of the object, or is resolved at dispatch, but nevertheless it is possible that some object models bind methods at creation time.
 - calling an initializing code (namely, [[Constructor (computer programming)|constructor]]) of [[Superclass (computer programming)|superclass]]

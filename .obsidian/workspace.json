@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0a595c16e60435",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7938df380d2290a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binomial distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49712a5f22c6e29a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geometric distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae00f574070c64b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Negative binomial distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "b8a483d2e11d7667",
         "type": "tabs",
         "children": [
@@ -56,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "Instance (computer programming).md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometric distribution.md",
+                "file": "Instance (computer programming).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometric distribution.md",
+                "file": "Instance (computer programming).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometric distribution.md"
+                "file": "Instance (computer programming).md"
               }
             }
           }
@@ -193,11 +150,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49712a5f22c6e29a",
+  "active": "179e5b8350d6d63e",
   "lastOpenFiles": [
+    "Indices/Object-Oriented Programming (index).md",
     "Indices/Probability and Statistics (index).md",
-    "Geometric distribution.md",
     "Negative binomial distribution.md",
+    "Multimodal distribution.md",
+    "Geometric distribution.md",
     "Geometric sequence.md",
     "Binomial distribution.md",
     "Floor and ceiling functions.md",
@@ -206,7 +165,6 @@
     "Control flow.md",
     "Java Tutorials & Lessons (index).md",
     "Lesson in Control Flow and Program Design.md",
-    "Indices/Object-Oriented Programming (index).md",
     "Combination.md",
     "Fair.md",
     "Probability mass function (PMF).md",
@@ -220,7 +178,6 @@
     "Moment.md",
     "Bernoulli trial.md",
     "\"Circle calculator\".md",
-    "\"Cylinder calculator\" (II).md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
