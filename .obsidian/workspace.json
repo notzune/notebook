@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Hypergeometric distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9442f101023a8348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poisson distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f754210a57bcc877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multinomial distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0986dec9a30c56ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dinet's midterm review 2024-03-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Dinet's midterm review 2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instance (computer programming).md",
+                "file": "Dinet's midterm review 2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instance (computer programming).md"
+                "file": "Dinet's midterm review 2024-03-07.md"
               }
             }
           }
@@ -150,13 +187,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "179e5b8350d6d63e",
+  "active": "0986dec9a30c56ab",
   "lastOpenFiles": [
-    "Indices/Object-Oriented Programming (index).md",
+    "Multinomial distribution.md",
+    "Poisson distribution.md",
+    "Hypergeometric distribution.md",
+    "Replacement.md",
+    "Geometric distribution.md",
+    "Dinet's midterm review 2024-03-07.md",
+    "Dinet's quiz review 2024-02-21.md",
     "Indices/Probability and Statistics (index).md",
     "Negative binomial distribution.md",
+    "Instance (computer programming).md",
+    "Indices/Object-Oriented Programming (index).md",
     "Multimodal distribution.md",
-    "Geometric distribution.md",
     "Geometric sequence.md",
     "Binomial distribution.md",
     "Floor and ceiling functions.md",
@@ -171,13 +215,6 @@
     "Declaration (computer science).md",
     "Indices/Computer Programming (index).md",
     "Programming Language Theory (index).md",
-    "Block (computer programming).md",
-    "Statement (computer science).md",
-    "Imperative programming.md",
-    "Declarative programming.md",
-    "Moment.md",
-    "Bernoulli trial.md",
-    "\"Circle calculator\".md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

@@ -94,6 +94,7 @@
 ## Review sheets
 
 - [[Dinet's quiz review 2024-02-21]]
+- [[Dinet's midterm review 2024-03-07]]
 
 ## Worked-Out Answers
 ### Conditional probability and law of total probability
