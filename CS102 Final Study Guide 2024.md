@@ -106,7 +106,18 @@ java uses exceptions to handle errors and other exceptional events. exceptions c
 - `throws`: declares an exception, alerting the compiler that this exception might be thrown by the method.
 - `Exception`, `ArithmeticException`, `NumberFormatException`, `StringIndexOutOfBoundsException`: various exception classes provided by Java.
 
-## ArithmeticException
+## 1. `Exception`
+
+the `Exception` class is a superclass of all checked exceptions in Java. it is also the parent class for many unchecked exceptions. exceptions that are derived from the `Exception` class (other than `RuntimeException` and its subclasses) are checked exceptions, meaning they need to be either caught within a try-catch block or declared to be thrown in the method signature using the `throws` keyword. When you encounter an `Exception`, it typically indicates that a condition has occurred that the application might want to recover from.
+
+**common use**: it is often extended to create custom exceptions specific to an application's needs.
+
+## `ArithmeticException`
+
+this is an unchecked exception and a subclass of `RuntimeException`. it indicates exceptional conditions associated specifically with arithmetic operations.
+
+**when it happens**: the most common cause of an `ArithmeticException` is dividing an integer by zero. it can also occur in other erroneous arithmetic conditions, such as integer overflow during an operation.
+### ArithmeticException
 
 ```java
 // method to perform division and handle possible exceptions
@@ -122,7 +133,6 @@ void divide(int numerator, int denominator) {
   }
 }
 ```
-
 ## IOException
 
 ```java
@@ -155,7 +165,22 @@ void printLength(String s) {
 }
 ```
 
-## NumberFormatException
+## `NumberFormatException`
+
+`NumberFormatException` is another unchecked exception and a subclass of `RuntimeException`. it occurs when an application attempts to convert a string into one of the numeric types (`byte`, `short`, `int`, `long`, `float`, or `double`) but the string does not have the appropriate format.
+
+**when it happens**:
+
+- trying to parse a string that contains non-numeric characters where a number is expected.
+- parsing strings that represent numbers outside the range of the target number type.
+
+**example**:
+
+```java
+String number = "abc"; int result = Integer.parseInt(number);  
+// will throw NumberFormatException`
+```
+### NumberFormatException
 
 ```java
 // method to parse a string into an integer
@@ -165,6 +190,34 @@ void parseInteger(String numberStr) {
     print("Parsed number: " + number);
   } catch (NumberFormatException e) {
     print("Invalid number format: " + numberStr);
+  }
+}
+```
+
+## `StringIndexOutOfBoundsException`
+
+this is also an unchecked exception and a subclass of `IndexOutOfBoundsException`. it specifically occurs when an attempt is made to access an index of a string that is either negative or greater than or equal to the length of the string.
+
+**when it happens**:
+
+- accessing a character at a negative index.
+- accessing a character at an index equal to or greater than the length of the string.
+
+```java
+String text = "hello";
+char ch = text.charAt(5);  
+// will throw StringIndexOutOfBoundsException because valid indexes are 0-4
+```
+### String Index Out of Bounds Exception
+
+```java
+// Method to get a character from a string safely
+void getCharacter(String str, int index) {
+  try {
+    char character = str.charAt(index);
+    print("Character at index " + index + ": " + character);
+  } catch (StringIndexOutOfBoundsException e) {
+    print("Index out of bounds for string length " + str.length());
   }
 }
 ```
@@ -179,20 +232,6 @@ void accessArrayElement(int[] array, int index) {
     print("Element at index " + index + ": " + element);
   } catch (ArrayIndexOutOfBoundsException e) {
     print("Index out of bounds: " + index);
-  }
-}
-```
-
-## String Index Out of Bounds Exception
-
-```java
-// Method to get a character from a string safely
-void getCharacter(String str, int index) {
-  try {
-    char character = str.charAt(index);
-    print("Character at index " + index + ": " + character);
-  } catch (StringIndexOutOfBoundsException e) {
-    print("Index out of bounds for string length " + str.length());
   }
 }
 ```
@@ -213,7 +252,7 @@ void getCharacter(String str, int index) {
 - recursive functions can be memory intensive and slower due to overheads of function calls and returns.
 - they can lead to stack overflow if the depth of recursion becomes too large.
 
-Here are some pseudo code examples of common recursive problems to illustrate how recursion works.
+here are some pseudo code examples of common recursive problems to illustrate how recursion works.
 
 ```java
 // nethod to calculate factorial using recursion
