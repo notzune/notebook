@@ -15,6 +15,7 @@
 - [[Conditional probability]]
 - [[Conditional probability distribution]]
 - [[Conditional probability table]]
+- [[Continuity correction]]
 - [[Continuous or discrete variable]]
 - [[Covariance]]
 - [[Cumulative distribution function (CDF)]]

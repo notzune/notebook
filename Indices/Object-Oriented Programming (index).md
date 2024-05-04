@@ -35,3 +35,7 @@
 # Tutorials
 ---
 - [[Java Tutorials & Lessons (index)]]
+
+# Study Guide
+---
+- [[CS102 Final Study Guide 2024]]

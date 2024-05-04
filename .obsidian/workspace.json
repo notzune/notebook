@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "179e5b8350d6d63e",
+            "id": "92157afe1e91ee7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypergeometric distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9442f101023a8348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poisson distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f754210a57bcc877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multinomial distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0986dec9a30c56ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dinet's midterm review 2024-03-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99f7316d1702270d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "CS102 Final Study Guide 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "CS102 Final Study Guide 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md",
+                "file": "CS102 Final Study Guide 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indices/Probability and Statistics (index).md"
+                "file": "CS102 Final Study Guide 2024.md"
               }
             }
           }
@@ -199,34 +151,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99f7316d1702270d",
+  "active": "92157afe1e91ee7b",
   "lastOpenFiles": [
+    "Recursion.md",
+    "CS102 Final Study Guide 2024.md",
+    "Polymorphism (computer science).md",
+    "Inheritance (object-oriented programming).md",
+    "Indices/Object-Oriented Programming (index).md",
+    "Geometric distribution.md",
+    "Indices/Probability and Statistics (index).md",
+    "Overview of the Economy System.md",
+    "Welcome to my notebook!.md",
+    "Personal Index.md",
+    "zuner.xyz.md",
+    "Continuity correction.md",
     "Dinet's midterm review 2024-03-07.md",
     "Multinomial distribution.md",
     "Poisson distribution.md",
     "Hypergeometric distribution.md",
     "Replacement.md",
-    "Geometric distribution.md",
     "Dinet's quiz review 2024-02-21.md",
-    "Indices/Probability and Statistics (index).md",
     "Negative binomial distribution.md",
     "Instance (computer programming).md",
-    "Indices/Object-Oriented Programming (index).md",
     "Multimodal distribution.md",
     "Geometric sequence.md",
     "Binomial distribution.md",
     "Floor and ceiling functions.md",
     "Indices/Discrete Mathematics (index).md",
     "Fair coin.md",
-    "Control flow.md",
-    "Java Tutorials & Lessons (index).md",
-    "Lesson in Control Flow and Program Design.md",
-    "Combination.md",
-    "Fair.md",
-    "Probability mass function (PMF).md",
-    "Declaration (computer science).md",
-    "Indices/Computer Programming (index).md",
-    "Programming Language Theory (index).md",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",

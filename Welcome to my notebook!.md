@@ -92,3 +92,5 @@ my personal notebook that i use for my studies and project planning. eventually 
 
 - 🗃 [[Cell and Molecular Biology (index)|Cell and Molecular Biology]]
 - 🗃 [[Ecology and Evolution (index)|Ecology and Evolution]]
+
+### 🗄 [[Personal Index|Personal]]
