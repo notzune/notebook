@@ -1,0 +1,1 @@
+in the future I plan on converting my pi (which already [[Building a VPN for my home network|serves as my VPN]]) into a [[NAS]] hub. since I want to cut down on expenses I will eventually stop paying for hosting for this notebook and instead fully self host.

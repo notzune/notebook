@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92157afe1e91ee7b",
+            "id": "70602b08be8bfa9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS102 Final Study Guide 2024.md",
+                "file": "Indices/Propositional calculus (index).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS102 Final Study Guide 2024.md",
+                "file": "Indices/Propositional calculus (index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS102 Final Study Guide 2024.md",
+                "file": "Indices/Propositional calculus (index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS102 Final Study Guide 2024.md"
+                "file": "Indices/Propositional calculus (index).md"
               }
             }
           }
@@ -151,34 +150,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92157afe1e91ee7b",
+  "active": "70602b08be8bfa9b",
   "lastOpenFiles": [
-    "Recursion.md",
-    "CS102 Final Study Guide 2024.md",
-    "Polymorphism (computer science).md",
-    "Inheritance (object-oriented programming).md",
-    "Indices/Object-Oriented Programming (index).md",
-    "Geometric distribution.md",
-    "Indices/Probability and Statistics (index).md",
-    "Overview of the Economy System.md",
-    "Welcome to my notebook!.md",
-    "Personal Index.md",
-    "zuner.xyz.md",
-    "Continuity correction.md",
-    "Dinet's midterm review 2024-03-07.md",
-    "Multinomial distribution.md",
-    "Poisson distribution.md",
-    "Hypergeometric distribution.md",
-    "Replacement.md",
-    "Dinet's quiz review 2024-02-21.md",
-    "Negative binomial distribution.md",
-    "Instance (computer programming).md",
-    "Multimodal distribution.md",
-    "Geometric sequence.md",
-    "Binomial distribution.md",
-    "Floor and ceiling functions.md",
+    "Propositional calculus.md",
+    "Ordered pair.md",
+    "De Morgan's Laws.md",
+    "Indices/Number Theory (index).md",
     "Indices/Discrete Mathematics (index).md",
-    "Fair coin.md",
+    "Indices/Propositional calculus (index).md",
+    "Distributivity of multiplication over addition.md",
+    "Distributive laws of sets.md",
+    "Identity elements of sets.md",
+    "Venn Diagram.md",
+    "indempodent.md",
+    "Complement.md",
+    "Disjoint sets.md",
+    "Set theory notation.md",
+    "Asymptotic notation.md",
+    "Categorical proposition.md",
+    "Mathematical proof.md",
+    "Proposition.md",
+    "Logical notation.md",
+    "Set theory.md",
+    "Relation.md",
+    "Subset.md",
+    "Universal set.md",
+    "Sets.md",
+    "Programming my own cloud storage software solution.md",
+    "Raspberry Pi Projects.md",
+    "www.airshipcraft.net",
     "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "Screenshot 2024-01-20 at 3.46.19 PM.png",
     "Screenshot 2024-02-15 at 10.24.17 PM.png",
@@ -198,7 +198,6 @@
     "publish.cssxz.css",
     "Excalidraw",
     "dataview",
-    "Indices",
-    "obsidian.css"
+    "Indices"
   ]
 }
