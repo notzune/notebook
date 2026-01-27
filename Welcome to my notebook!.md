@@ -26,6 +26,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Algebra (index)|Algebra]]
     - 🗃 [[Linear Algebra (index)|Linear Algebra]]
     - 🗃 [[Abstract Algebra (index)|Abstract Algebra]]
+    - 🗃 [[Boolean algebra (index)|Boolean Algebra]]
 - 🗃 [[Geometry (index)|Geometry]]
     - 🗃 [[Trigonometry (index)|Trigonometry]]
     - 🗃 [[Differential Geometry (index)|Differential Geometry]]
@@ -80,6 +81,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Embedded Systems (index)|Embedded Systems]]
 - 🗃 [[VLSI Design (index)|VLSI Design]]
 - 🗃 [[Computer Architecture (index)|Computer Architecture]]
+	- 🗃 [[Computer Organization (index)|Computer Organization]]
 - 🗃 [[Robotics (index)|Robotics]]
 
 ### 🏗🚧🗄 [[Systems theory (index)|Systems Theory]]

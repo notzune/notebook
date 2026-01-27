@@ -60,6 +60,7 @@
 - [[UML Diagram]]
 - [[Void type]]
 - [[While loop]]
+- [[Stack]]
 
 # Sub indices
 ---

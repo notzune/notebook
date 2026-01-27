@@ -2,5 +2,3 @@ in [[Object-Oriented Programming|OOP]], inheritance is the mechanism of basing a
 
 it is also defined as deriving new classes (sub classes) from existing ones such as super class or base class and then forming them into a hierarchy of classes.
 
-
-

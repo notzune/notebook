@@ -1,6 +1,6 @@
 the inequality of arithmetic and geometric means (AM-GM inequality) states that the [[Arithmetic mean|arithmetic mean]] of a list of non-negative [[Real numbers|real numbers]] is greater than or equal to the [[Geometric mean|geometric mean]] of the same list.
 
-the two means are equal [["if and only if"|if and only if]] every number in the list is the same (in which case they are both the same number)
+the two means are equal [[if and only if|if and only if]] every number in the list is the same (in which case they are both the same number)
 
 the simplest case would be something like
 

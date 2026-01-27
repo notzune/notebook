@@ -5,5 +5,3 @@
 - [[Logical notation]]
 - [[Mathematical proof]]
 - [[Proposition]]
-- [[Propositional calculus]]
-- [[Truth table]]

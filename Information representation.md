@@ -1,0 +1,5 @@
+[[Digital signal|digital]] [[System|systems]] store, move, and process information. most [[Physical system|physical]] [[Parameter|parameters]] are [[Continuous function|continuous]] while most man-made parameters are [[Continuous or discrete variable|discrete]] values such as currency, quantities, words, etc.
+
+suppose that the temperature, which is a continuous value, was observed using a sensor that converts it to an electrical [[Voltage|voltage]] which is likewise continuous. we refer to such a continuous voltage as an [[Analog signal|analog signal]]; however it is also possible to represent temperature by an electrical voltage that takes on discrete values that occupy only a [[Finite set|finite]] number of values over a range, for example, corresponding to integer degrees centigrade between -40 and +119. 
+
+we refer to such a voltage as a [[Digital signal|digital signal]]. alternatively, we can represent the discrete values by multiple voltage signals, each taking on a discrete value.

@@ -1,6 +1,7 @@
 # Index
 ---
 - [[Ad hoc polymorphism]]
+- [[C (programming language)]]
 - [[Class-based programming]]
 - [[Class (computer programming)]]
 - [[Class invariant]]

@@ -8,3 +8,6 @@
 - [[Memoization]]
 - [[Programming language theory (PLT)]]
 - [[Short-circuit evaluation]]
+- [[Names]]
+- [[Variables (PLT)]]
+- 

@@ -44,7 +44,7 @@ $$
 \int u\,dv=uv-\int v\,du
 $$
 
-## Substitution rule ([[Integration by Substitution]])
+## Substitution rule
 
 for making integration easier by changing variables,
 
