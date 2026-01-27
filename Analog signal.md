@@ -1,0 +1,1 @@
+is any [[Signal|signal]], typically a [[Continuous-time signal|continuous-time]] signal representing some other quantity, i.e., *analogous* to another quantity. for example, in an analog audio signal, the instantaneous signal [[Voltage|voltage]] varies in a manner *analogous* to the [[Sound pressure|pressure of the sound waves]]. 

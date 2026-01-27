@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information.md",
+                "file": "Sound pressure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information"
+              "title": "Sound pressure"
             }
           }
         ]
@@ -181,6 +181,17 @@
   },
   "active": "8d32510e4f35caea",
   "lastOpenFiles": [
+    "Baye's theorem.md",
+    "Ethernet over twisted pair.md",
+    "Ethernet physical layer.md",
+    "Sound pressure.md",
+    "Associativity of Sets.md",
+    "Arithmetic mean.md",
+    "Address space.md",
+    "Transmission control protocol (TCP).md",
+    "OSI model (subindex).md",
+    "Particle velocity.md",
+    "Pascal (unit).md",
     "Analog signal.md",
     "Information.md",
     "if and only if.md",
@@ -196,19 +207,8 @@
     "Indices/Databases (index).md",
     "Indices/Computer Networks (index).md",
     "De Morgan's Laws.md",
-    "Indices/Set Theory (index).md",
-    "Indices/Mathematics (index).md",
-    "Bijection.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Variables (PLT).md",
-    "Programming Language Theory (index).md",
-    "Variables.md",
-    "Welcome to my notebook!.md",
-    "Discriminant.md",
-    "Quadratic formula.md",
-    "Sets.md",
-    "Indices/Object-Oriented Programming (index).md",
     "Untitled.canvas",
     "Pasted Image 20241120235242_284.png",
     "Pasted Image 20241120235156_286.png",

@@ -1,0 +1,1 @@
+ethernet over [[Twisted pair|twisted-pair]] cables are the physical layer of an ethernet computer network. they are a subset of all [[Ethernet physical layer|ethernet physical layers]].

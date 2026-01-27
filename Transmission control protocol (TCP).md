@@ -1,0 +1,3 @@
+provides end-to-end connectivity specifying how data should be [[Network packet|packetized]], addressed, transmitted, routed and received at the destination.
+
+through the TCP/IP [[OSI model (subindex)|OSI]] model, the content ([[Payload|payload]]) of the data being transmitted is packaged into layers of protection and information so that the contents will only be received by a specific computer/device. 
