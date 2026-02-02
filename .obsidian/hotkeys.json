@@ -1,13 +1,4 @@
 {
-  "publish:view-changes": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-sort-and-permute-lines:sort-alphabetically": [
     {
       "modifiers": [
