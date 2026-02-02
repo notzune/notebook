@@ -1,0 +1,1 @@
+also known as the LTO Ultrium format is a [[Magnetic tape|magnetic tape]] data storage technology used for backup, data archiving, and data transfer.

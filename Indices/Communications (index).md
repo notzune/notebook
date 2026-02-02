@@ -10,6 +10,9 @@
 - [[Wide-Area Network (WAN)]]
 - [[Protocol]]
 - [[Internet protocol suite]]
+- [[Ethernet]]
+- [[Ethernet physical layer]]
+- [[Ethernet over twisted pair]]
 
 # Sub indices
 ---

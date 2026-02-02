@@ -1,0 +1,3 @@
+a digital image is an image composed of picture elements, also known as [[Pixel|pixels]], each with finite, [[Discrete mathematics|discrete]] quantities of numeric representation for its [[Amplitude|intensity]] or [[Grayscale|gray level]] that is an output from its [[Function|two-dimensional functions]] fed as input by its [[Coordinate system|spatial coordinates]] denoted with *x*, *y* on x-axis and y-axis respectively. 
+
+an image can be [[Vector graphics|vector]] or [[Raster graphics|raster]] type. by itself, the term "digital image" usually refers to raster images or [[Bitmap|bitmapped]] images (as opposed to vector). 

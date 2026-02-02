@@ -1,0 +1,1 @@
+the imaginary unit, usually denoted by $i$, is a [[Constant|mathematical constant]] that is a solution to the [[Quadratic equation|quadratic equation]] $x^2=-1$, which is not solved by any [[Real numbers|real number]].  

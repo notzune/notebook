@@ -1,0 +1,1 @@
+the development of [[Mathematics (index)|mathematical]] methods for application to problems in [[Physics|physics]]. 

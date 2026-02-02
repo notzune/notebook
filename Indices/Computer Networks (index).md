@@ -4,5 +4,6 @@
 - [[Computer networking]]
 - [[Internet protocol (IP)]]
 - [[Internet protocol suite]]
-- [[Transmission control protocol (TCP)]]
-- [[User datagram protocol (UDP)]]
+- [[Transmission Control Protocol (TCP)]]
+- [[User Datagram Protocol (UDP)]]
+- [[Packet switching]]

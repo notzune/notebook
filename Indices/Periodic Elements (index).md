@@ -48,7 +48,6 @@
 - [[Gadolinium]]
 - [[Gallium]]
 - [[Germanium]]
-- [[Glucose]]
 - [[Gold]]
 - [[Hafnium]]
 - [[Hassium]]

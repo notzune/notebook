@@ -1,0 +1,1 @@
+is an [[Electrical Engineering (index)|electrical engineering]] subfield that focuses on analyzing, modifying, and synthesizing signals, such as [[Audio signal processing|sound]], [[Digital image processing|images]], [[Scalar potential|potential fields]], seismic signals, altimetry processing, and [[Quantification (science)|scientific measurements]].

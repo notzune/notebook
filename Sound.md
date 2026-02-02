@@ -1,0 +1,3 @@
+sound is a phenomenon in which pressure disturbances prorogate through a transmission medium. in the context of [[Physics|physics]], it is characterized as a [[Mechanical wave|mechanical wave]] of pressure or related quantities. (e.g. [[Displacement|displacement]]), whereas in physiological-psychological contexts it refers to the reception of such waves and their perception by the brain.
+
+the human ear is sensitive to [[Frequency|frequencies]] ranging from 20 Hz to 20 kHz.

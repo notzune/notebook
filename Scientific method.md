@@ -1,0 +1,1 @@
+the scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation. 

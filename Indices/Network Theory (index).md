@@ -9,6 +9,8 @@
 - [[Network theory]]
 - [[Network topology]]
 - [[Node (networking)]]
+- [[Ethernet physical layer]]
+- [[Circuit switching]]
 
 # Sub indices
 ---

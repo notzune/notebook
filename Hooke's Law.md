@@ -1,0 +1,1 @@
+in [[Physics|physics]], Hooke's law is an [[Scientific law|empirical law]]

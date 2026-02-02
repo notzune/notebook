@@ -15,6 +15,7 @@
 - [[Electric displacement field]]
 - [[Electric field]]
 - [[Electric potential]]
+- [[Electromagnet]]
 - [[Elementary charge]]
 - [[Inductance]]
 - [[Irradiance]]

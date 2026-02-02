@@ -1,0 +1,3 @@
+in the field of [[Acoustics|acoustics]], a diaphragm is a [[Transducer|transducer]] intended to inter-convert mechanical vibrations to sounds, or vice versa. it is commonly constructed of a thing membrane or sheet of various materials, suspended at its edges. the varying air pressure of sound waves imparts mechanically vibrations to the diaphragm which can then be converted to some other type of signal; examples of this type of diaphragm are found in microphones and the human eardrum.
+
+conversely, a diaphragm vibrated by a source of energy beats against the air, creating sound waves. examples of this type of diaphragm are loudspeaker cones and earphone diaphragms are found in air horns. 

@@ -1,0 +1,3 @@
+subfield of [[Signal processing|signal processing]] that is concerned with the electronic manipulation of [[Audio signal|audio signals]]. audio signals are electronic representations of [[Sound|sound waves]] ([[Longitudinal waves|longitudinal waves]]) which travel through air, consisting of compressions and rarefactions. the energy contained in audio signals or sound power level is typically measured in [[Decibel (dB)|decibels]].
+
+as audio signals may be represented in either [[Digital signal|digital]] or [[Analog signal|analog]] format, processing may occur in either domain. analog processors operate directly on the electrical signal, while digital processors operate mathematically on its digital representation.  

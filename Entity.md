@@ -1,0 +1,1 @@
+an entity is something that exists as itself. it does not need to be of material existence. in particular, abstractions and legal fictions are usually regarded as entities. in general, there is also no presumption that an entity is animate, or present. the verb tense of this form is to "[[entitize]]" - meaning to convert into an entity; to perceive as tangible or alive. 

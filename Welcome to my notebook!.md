@@ -39,7 +39,18 @@ my personal notebook that i use for my studies and project planning. eventually 
     - 🗃 [[Bayesian Statistics (index)|Bayesian Statistics]]
     - 🗃 [[Statistical Mechanics (index)|Statistical Mechanics]]
 
-### 🗄 [[Physics (index)|Physics]]
+### 🏗🚧🗄[[Natural sciences (index)|The Natural Sciences]]
+
+#### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
+
+- 🗃 [[Periodic Elements (index)|Periodic Elements]]
+
+#### 🏗🚧🗄 [[Biology (index)|Biology]] 
+
+- 🗃 [[Cell and Molecular Biology (index)|Cell and Molecular Biology]]
+- 🗃 [[Ecology and Evolution (index)|Ecology and Evolution]]
+
+#### 🗄 [[Physics (index)|Physics]]
 
 - 🗃 [[Mechanics (index)|Mechanics]]
 - 🗃 [[Electromagnetism (index)|Electromagnetism]]
@@ -47,7 +58,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Quantum Mechanics (index)|Quantum Mechanics]]
 - 🗃 [[Relativity (index)|Relativity]]
 
-### 🗄 [[Electrical Engineering (index)|Electrical Engineering]]
+#### 🗄 [[Electrical Engineering (index)|Electrical Engineering]]
 
 - 🗃 [[Circuit Theory (index)|Circuit Theory]]
 - 🗃 [[Signal Processing (index)|Signal Processing]]
@@ -85,14 +96,5 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Robotics (index)|Robotics]]
 
 ### 🏗🚧🗄 [[Systems theory (index)|Systems Theory]]
-
-### 🏗🚧🗄 [[Chemistry (index)|Chemistry]] 
-
-- 🗃 [[Periodic Elements (index)|Periodic Elements]]
-
-### 🏗🚧🗄 [[Biology (index)|Biology]] 
-
-- 🗃 [[Cell and Molecular Biology (index)|Cell and Molecular Biology]]
-- 🗃 [[Ecology and Evolution (index)|Ecology and Evolution]]
 
 ### 🗄 [[Personal Index|Personal]]

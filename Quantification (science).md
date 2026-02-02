@@ -1,0 +1,1 @@
+in [[Mathematics (index)|mathematics]] and empirical science, quantification (or quantitation) is the act of counting and measuring that maps human sense observations and experiences into quantities. quantification in this sense is fundamental to the [[Scientific method|scientific method]].

@@ -1,0 +1,1 @@
+verb, meaning to convert into an [[Entity|entity]]; to perceive as tangible or alive.

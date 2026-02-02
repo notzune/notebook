@@ -33,6 +33,8 @@
 - [[Identity element]]
 - [[Identity (mathematics)]]
 - [[Image]]
+- [[Imaginary numbers]]
+- [[Imaginary unit]]
 - [[Injective functions]]
 - [[Mathematical logic]]
 - [[Mathematical structure]]

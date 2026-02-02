@@ -1,0 +1,1 @@
+the use of a [[Computer|digital computer]] to process [[Digital image|digital images]] through an [[Algorithm|algorithm]]. it is a subcategory of [[Digital Signal Processing (index)|digital signal processing]]. 

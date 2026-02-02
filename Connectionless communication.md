@@ -1,0 +1,1 @@
+connectionless communication, often referred to as CL-mode communication is a data transmission method used in [[Packet switching|packet switching]] networks, using data packets that are frequently called [[Datagram|datagrams]]. 

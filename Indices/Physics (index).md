@@ -1,11 +1,13 @@
 # Index
 ---
+
 - [[Center of mass]]
 - [[Energy density]]
 - [[Fluid statics]]
 - [[Force]]
 - [[Liquid]]
 - [[Mass]]
+- [[Mathematical physics]]
 - [[Moment]]
 - [[Moment of inertia]]
 - [[Newton (unit)]]
@@ -21,7 +23,6 @@
 - [[Vectors]]
 - [[Vector space]]
 - [[Viscosity]]
-
 # Sub indices
 ---
 - [[Electromagnetism (index)]]

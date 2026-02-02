@@ -1,0 +1,1 @@
+in [[Telecommunications|telecommunications]], packet switching is a method of grouping data into short messages in fixed format, i.e., [[Network packet|packets]], that are transmitted over a telecommunications network. packets consist of a [[Header (computing)|header]] and [[Payload (computing)|payload]]. 
