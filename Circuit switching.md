@@ -1,4 +1,4 @@
-a method of implementing a [[Telecommunications network|telecommunications network]] in which two [[Node (networking)|network nodes]] establish a dedicated [[Communication channels|communications channel (circuit)]] through the network before the nodes may communicate. 
+a method of implementing a [[Telecommunications network|telecommunications network]] in which two [[Node (networking)|network nodes]] establish a dedicated [[Communication channel|communications channel (circuit)]] through the network before the nodes may communicate. 
 
 the circuit guarantees the full bandwidth of the channel and remains connected for the duration of the communication session. 
 

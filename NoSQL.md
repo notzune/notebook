@@ -1,0 +1,3 @@
+NoSQL stands for Not only [[SQL]], a type of database that uses non-[[Relational database|relational]] data structures, such as documents, graph databases, and [[Key-Value Pair|key-value]] stores to store and retrieve data. 
+
+NoSQL systems are designed to be more flexible than traditional relational databases and can scale up or down easily to accommodate changes in usage or load. This makes them ideal for use in applications

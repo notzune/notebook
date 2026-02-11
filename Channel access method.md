@@ -1,0 +1,1 @@
+in [[Telecommunications|telecommunications]] and [[Computer networking|computer networks]], a channel access method allows more than two [[Terminal (telecommunication)|terminals]] 

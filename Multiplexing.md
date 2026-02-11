@@ -1,0 +1,1 @@
+in [[Telecommunications|telecommunications]] and [[Computer networking|computer networking]], multiplexing (sometimes called [[muxing]]) is a method by which multiple [[Analog signal|analog]] or [[Digital signal|digital]] signals are combined into one signal over a [[Shared medium|shared medium]].

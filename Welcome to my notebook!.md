@@ -58,6 +58,8 @@ my personal notebook that i use for my studies and project planning. eventually 
 - 🗃 [[Quantum Mechanics (index)|Quantum Mechanics]]
 - 🗃 [[Relativity (index)|Relativity]]
 
+#### 🗄 [[Technical writing (index)|Technical Writing]]
+
 #### 🗄 [[Electrical Engineering (index)|Electrical Engineering]]
 
 - 🗃 [[Circuit Theory (index)|Circuit Theory]]

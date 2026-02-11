@@ -1,0 +1,3 @@
+a technical specifications document (also known as a [[Software Requirements Specification (SRS)|software requirements specification (SRS)]]) is similar to an [[Functional Specifications Document (FSD)|FSD]] but only more technical.
+
+think of it like HOW to the FSD's WHAT. it will list your products technical features like its [[Data access layer (DAL)|database]], architecture, data flow diagram, etc.

@@ -1,0 +1,3 @@
+in [[Technical writing|technical writing]] the LL D is the document that is from the organization/vendor which is like a proposal on how the customer's requirements will be met by highlighting the proposed design of the product. it covers both functional and technical aspects but on a low-level.
+
+a follow up of this document is the [[High-level Design (HL D)|high-level design document (HLD)]] which is an in-depth document talking about each and every functional and technical design aspect of the product.

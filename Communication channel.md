@@ -1,0 +1,1 @@
+a communication channel refers either to a physical transmission medium such as a wire, or to a logical connection over a [[Multiplexing|multiplexed]] medium such as a radio channel in [[Telecommunications|telecommunications]] and [[Computer networking|computer networking]].
