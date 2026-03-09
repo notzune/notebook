@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a86266ba5902cd4e",
+        "id": "ef6a79569f2da471",
         "type": "tabs",
         "children": [
           {
-            "id": "d5288c9aeb588745",
+            "id": "cc19685618226d76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reserved word.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reserved word"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "5912667714890064",
@@ -193,54 +190,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5288c9aeb588745",
+  "active": "cc19685618226d76",
   "lastOpenFiles": [
-    "Access modifier.md",
-    "Reserved word.md",
-    "Data structure.md",
-    "Wireshark.md",
-    "SOLID.md",
-    "Liskov substitution principle.md",
-    "Open-closed principle.md",
-    "Single responsibility principle.md",
-    "Indices/Databases (index).md",
-    "NoSQL vs. SQL.md",
-    "NoSQL.md",
-    "SQL.md",
-    "Packet switching.md",
-    "Biology (index).md",
+    "Indices/Software Engineering (index).md",
+    "POE Policy.md",
+    "Memoization.md",
+    "Architecture Decision Record (ADR).md",
     "Indices/Technical writing (index).md",
-    "Technical writing.md",
-    "Low-level Design (LL D).md",
-    "Technical Specifications Document (TSD).md",
-    "Software Requirements Specification (SRS).md",
-    "Business Requirement Document (BRD).md",
-    "User Requirement Document (URD).md",
-    "Functional Specifications Document (FSD).md",
-    "Terminal (telecommunication).md",
-    "Channel access method.md",
-    "Shared medium.md",
-    "Multiplexing.md",
+    "notes/Technical writing.md",
+    "notes/Welcome to my notebook!.md",
+    "OSI model.md",
+    "Transport layer.md",
+    "List of Important Networking Protocols.md",
+    "List of TCP and UDP ports.md",
+    "TCP vs UDP.md",
+    "Port (computer networking).md",
+    "Pink noise.md",
+    "Welcome to my notebook!.md",
+    "notes/Sets.md",
+    "notes/Big O notation (O).md",
+    "notes/Skewness.md",
+    "notes/Normal distribution.md",
+    "notes/Example Java Class (reference).md",
+    "notes/Binary Operation.md",
+    "notes/Partial Order Relation.md",
+    "notes/Base (chemistry).md",
+    "notes/Isometry.md",
+    "notes/Intersection.md",
+    "notes/Hypothetical syllogism.md",
+    "notes/Pasted image 20240111012758.png",
+    "notes/Screenshot 2024-02-10 at 5.44.58 PM.png",
+    "notes/Pasted image 20240213135159.png",
+    "notes/Pasted image 20240124184239.png",
+    "notes/Screenshot 2024-02-13 at 1.52.11 PM.png",
+    "notes/Screenshot 2024-02-07 at 11.39.55 AM.png",
+    "notes/Screenshot 2024-02-13 at 5.00.18 PM.png",
+    "notes/Screenshot 2024-02-04 at 1.29.50 PM.png",
+    "notes/Screenshot 2024-01-24 at 6.42.56 PM.png",
+    "notes/Screenshot 2024-01-18 at 6.52.04 PM.png",
+    "notes/Untitled.base",
+    "notes/Untitled 1.base",
+    "notes",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "Pasted Image 20241120235242_284.png",
-    "Pasted Image 20241120235156_286.png",
-    "Pasted Image 20241120235109_318.png",
-    "Pasted Image 20241120234908_285.png",
     "Excalidraw",
-    "Screenshot 2024-02-13 at 5.00.18 PM.png",
-    "Screenshot 2024-01-20 at 3.46.19 PM.png",
-    "Screenshot 2024-02-15 at 10.24.17 PM.png",
-    "Screenshot 2024-02-15 at 6.18.27 PM.png",
-    "Screenshot 2024-02-13 at 6.50.55 PM.png",
-    "Screenshot 2024-02-13 at 5.00.18 PM.png",
     "publish.css",
     "publish.csszx.css",
     "publish.csszz.css",
-    "theme.css",
-    "publish.cssx.css",
-    "publish.cssxz.css",
-    "dataview"
+    "theme.css"
   ]
 }
