@@ -1,0 +1,3 @@
+([[Internet protocol (IP)|internet protocol]] version 6) is the latest networking standard designed to replace IPv4, offering a virtually infinite, 128-bit address space (340 undecillion addresses) to support the rapid growth of IoT devices. 
+
+it improves upon [[IPv4]] by enabling more efficient routing, better security, and streamlined auto-configuration, making it crucial for modern network scalability.

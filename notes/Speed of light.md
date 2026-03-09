@@ -1,0 +1,3 @@
+the speed of light in vacuum (denoted $c$), is a universal [[Physical constant|physical constant]] exactly equal to $299792458\text{ m}\cdot\text{s}^{-1}$.
+
+it is exact because by [[International System of Units|international agreement]], a [[Metre|metre]] is defined as the length of the path travelled by light in vacuum during a time interval of $1/299792458$ second, so the speed of light is equivalent to 1 billion kilometers per hour (km/h).

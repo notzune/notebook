@@ -1,0 +1,1 @@
+in [[Computer networking|computer networking]], the transport layer is a conceptual division of methods in the layered architecture of protocols in the network stack in the [[Internet protocol suite|internet protocol suite]] and the [[OSI model|OSI model]].

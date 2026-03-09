@@ -1,0 +1,1 @@
+pink noise, $\frac{1}{r}$ nose, fractional noise, or fractal noise is a [[Signal|signal]] or process with a [[Spectral density|frequency spectrum]] such that the power spectral density (power per frequency interval) is 

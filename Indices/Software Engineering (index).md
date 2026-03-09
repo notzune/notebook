@@ -15,3 +15,7 @@
 ---
 - [[Computer Programming (index)]]
 - [[Data types (subindex)]]
+
+## References
+---
+- [[Technical writing (index)]]

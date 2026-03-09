@@ -1,0 +1,5 @@
+the velocity factor (VF) of a [[Transmission medium|transmission medium]] is the ratio of the [[Speed|speed]] at which a [[Wavefront|wavefront]] (of an [[Electromagnet|electromagnetic signal]], a radio signal, a light pulse in an [[Optical fiber|optical fiber]], or a change of [[Voltage|voltage]] on a [[Twisted pair|copper wire]]) passes through the medium, to the [[Speed of light|speed of light]].
+
+for optical signals, the velocity factor is the [[Reciprocal function|reciprocal]] of the [[Refractive index|refractive index]].
+
+in the [[Computer networking|computer networking]] and cable industries, the terms velocity of propagation (VoP or $v_p$) and wave propagation speed is also used to mean a ratio of speeds. in general science and engineering context, these terms would be understood to mean an actual speed or velocity, with [[Dimensional analysis|dimension]] of distance per time (and units such as meters per second), while velocity factor is used for the ratio.

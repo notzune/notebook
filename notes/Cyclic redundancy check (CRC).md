@@ -1,0 +1,1 @@
+an [[Error correction code|error-detecting code]] commonly used in digital [[Computer network|networks]] and storage devices to detect accidental changes to digital data.

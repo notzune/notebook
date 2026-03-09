@@ -1,0 +1,1 @@
+when two or more [[Internet Service Provider (ISP)|ISPs]] directly exchange traffic between their customers to reduce costs and latency. for example, Verizon and AT&T directly connect and exchange traffic between their customers. 

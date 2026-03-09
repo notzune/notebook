@@ -7,3 +7,5 @@ IP has the task of delivering [[Network packet|packets]] from the source [[Host 
 for this purpose, IP defines packet structures that [[Encapsulation (networking)|encapsulate]] the data to be delivered.
 
 it also defines addressing methods that are used to label the [[Datagram|datagram]] with source and destination information.
+
+there exists different versions of IP, notably the common [[IPv4]] and more modern [[IPv6]].

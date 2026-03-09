@@ -1,0 +1,3 @@
+in [[Telecommunications|telecommunications]], round-trip delay (RTD) or round-trip time (RTT) is the amount of time it takes for a [[Signal|signal]] to be sent + the time it takes for acknowledgement of the signal having been received.
+
+this time delay includes [[Propagation delay|propagation times]] between two [[Terminal (telecommunication)|endpoints]], in the context of [[Computer network|computer networks]] the signal is typically a [[Network packet|packet]] and can be used interchangeably with "[[Ping|ping]]".

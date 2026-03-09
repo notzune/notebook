@@ -1,5 +1,6 @@
 # Index
 ---
+- [[Architecture Decision Record (ADR)]]
 - [[Business Requirement Document (BRD)]]
 - [[Functional Specifications Document (FSD)]]
 - [[High-level Design (HL D)]]

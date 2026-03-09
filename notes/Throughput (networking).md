@@ -1,0 +1,1 @@
+the actual rate at which a [[Network packet|packet]] or packets are successfully transmitted from the sender to the receiver (destination) over a [[Computer network|network]]. 

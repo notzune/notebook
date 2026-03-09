@@ -1,0 +1,5 @@
+in [[Optics|optics]], the refractive index (also called refraction index or index of refraction), often denoted $n$, is the [[Ratio|ratio]] of the [[Speed of light|speed of light]] ($c$) to the speed of light in any given [[Optical medium|optical medium]] ($v$), $n=c/v$.
+
+the refractive index determines how much the path of light is bent, or [[Refraction|refracted]], when entering a material as described by [[Snell's law]] of refraction; $n_1\sin\theta_1=n_2\sin\theta_2$, where $\theta_1$ and $\theta_2$ are the [[Angle of incidence (optics)|angle of incidence]] and angle of refraction, respectively, of a ray crossing the interface between two media with refractive indices $n_1$ and $n_2$. 
+
+the refractive indices also determine the amount of light that is [[Reflectance|reflected]] when reaching the interface, as well as the critical angle for [[Total internal reflection|total internal reflection]], their intensity ([[Fresnel equations]]) and [[Brewster's angle]].

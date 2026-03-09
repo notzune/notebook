@@ -1,0 +1,1 @@
+the physical location where a service, access, regional, or even global ISP connects to customers networking system. from their the data goes to public internet system. it is the backbone of the entry and exit point for the traffic between users and providers. this is the neighborhood's [[Internet Exchange Point (IXP)|internet exchange point]].

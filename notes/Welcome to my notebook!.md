@@ -6,8 +6,9 @@ my personal notebook that i use for my studies and project planning. eventually 
 > 
 > **Email**: zrashed02@gmail.com
 > **Discord**: zune_cs
-> 
+> **Instagram:** zune2002
 > also, follow me [on GitHub](https://github.com/notzune) 👀
+> and peep my [music](https://soundcloud.com/zune2002)
 
 ## Table of Contents
 
@@ -81,7 +82,7 @@ my personal notebook that i use for my studies and project planning. eventually 
 	- 🗃 [[Programming Language Theory (index)|Programming Language Theory (PLT)]]
 - 🗃 [[Operating Systems (index)|Operating Systems]]
 - 🗃 [[Databases (index)|Databases]]
-- 🗃 [[Computer Networks (index)|Computer Networks]]
+- 🗃 [[Computer Networking (index)|Computer Networking]]
 - 🗃 [[Software Engineering (index)|Software Engineering]]
 - 🗃 [[Artificial Intelligence (index)|Artificial Intelligence]]
     - 🗃 [[Machine Learning (index)|Machine Learning]]

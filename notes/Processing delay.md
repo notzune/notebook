@@ -1,0 +1,3 @@
+in a [[Computer network|network]] based on [[Packet switching|packet switching]], processing delay is the time it takes [[Router|router]] to process the [[Header (computing)|packet header]]. more specifically it is the time required to examine the packet's header and determine where to direct the packet is the processing delay. the delay can also include other factors such as to check for bit-level errors in the packet that occurred in transmitting the packets bits from the sender to the router. 
+
+***see [[Network delay|network delay]]***

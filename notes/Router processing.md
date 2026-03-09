@@ -1,0 +1,1 @@
+when [[Network packet|packets]] arrive at a [[Router|router]], they have to be processed and transmitted. a router can only process one packet at a time. 

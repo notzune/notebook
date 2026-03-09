@@ -1,0 +1,1 @@
+if some bits are missing or from being dropped while getting transmitted from the source to the destination, such as a [[Router|router]]. could cause a [[Processing delay|processing delay]].

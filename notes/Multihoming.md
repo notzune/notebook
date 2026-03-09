@@ -1,0 +1,1 @@
+think like you are giving a home to multiple [[Internet Service Provider (ISP)|ISPs]]. multihoming is a strategy when enterprises get connected to more than one ISP simultaneously for purposes of load balancing and fallback, in turn improving the reliability and availability of their internet.
