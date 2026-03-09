@@ -2,7 +2,7 @@ in [[Software engineering|software engineering]], SOLID is a mnemonic acronym fo
 
 the five (5) SOLID principles are
 
-1. [[Single responsibility principle]]
+1. [[Single responsibility principle (SRP)]]
 2. [[Open-closed principle]]
 3. [[Liskov substitution principle]]
 4. [[Interface segregation principle]]

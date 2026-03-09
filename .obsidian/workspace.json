@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6a79569f2da471",
+        "id": "fb85ad21fa6e5f50",
         "type": "tabs",
         "children": [
           {
-            "id": "cc19685618226d76",
+            "id": "84d15db8c07c2695",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "5912667714890064",
@@ -190,22 +189,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc19685618226d76",
+  "active": "84d15db8c07c2695",
   "lastOpenFiles": [
+    "notes/POE Policy.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "notes/Single responsibility principle (SRP).md",
+    "notes/Uniform Resource Locator (URL).md",
+    "notes/Web resource.md",
     "Indices/Software Engineering (index).md",
-    "POE Policy.md",
     "Memoization.md",
-    "Architecture Decision Record (ADR).md",
+    "notes/Architecture Decision Record (ADR).md",
     "Indices/Technical writing (index).md",
     "notes/Technical writing.md",
     "notes/Welcome to my notebook!.md",
-    "OSI model.md",
-    "Transport layer.md",
-    "List of Important Networking Protocols.md",
-    "List of TCP and UDP ports.md",
-    "TCP vs UDP.md",
-    "Port (computer networking).md",
-    "Pink noise.md",
+    "notes/OSI model.md",
+    "notes/Transport layer.md",
+    "notes/List of Important Networking Protocols.md",
+    "notes/List of TCP and UDP ports.md",
+    "notes/TCP vs UDP.md",
+    "notes/Port (computer networking).md",
+    "notes/Pink noise.md",
     "Welcome to my notebook!.md",
     "notes/Sets.md",
     "notes/Big O notation (O).md",
@@ -214,10 +218,6 @@
     "notes/Example Java Class (reference).md",
     "notes/Binary Operation.md",
     "notes/Partial Order Relation.md",
-    "notes/Base (chemistry).md",
-    "notes/Isometry.md",
-    "notes/Intersection.md",
-    "notes/Hypothetical syllogism.md",
     "notes/Pasted image 20240111012758.png",
     "notes/Screenshot 2024-02-10 at 5.44.58 PM.png",
     "notes/Pasted image 20240213135159.png",
@@ -232,8 +232,6 @@
     "notes/Untitled 1.base",
     "notes",
     "Untitled.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
     "Excalidraw",
     "publish.css",
     "publish.csszx.css",

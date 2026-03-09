@@ -1,0 +1,3 @@
+colloquially known as a web address, a URL is a reference to a [[Web resource|resource]] on the [[World Wide Web]]. the URL specifies the location of a resource on a [[Computer network|computer network]] and a mechanism for retrieving it.
+
+a URL is a specific type of [[Uniform Resource Identifier (URI)|uniform resource identifier (URI)]] although the terms are sometimes used interchangeably. URLs are most commonly used to reference a web page ([[Hypertext Transfer Protocol (HTTP)|HTTP]]/[[Hypertext Transfer Protocol Secure (HTTPS)|HTTPS]]) but is also used for [[File-transfer Protocol (FTP)|file transfer (FTP)]], email ([[mailto]]), database access ([[Java Database Connectivity (JDBC)|JDBC]]), and many other applications. 
